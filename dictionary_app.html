@@ -2987,7 +2987,18 @@ async function loadIntroEditedPage(key, contentEl) {
     var editedHtml = null;
     if (introEditCache[key]) {
       editedHtml = introEditCache[key];
-    } else {
+    } else if (ghIsConfigured()) {
+      // Try GitHub API first (reads latest from repo)
+      try {
+        var ghFile = await ghApiGet('docs/intro/EditedHTML/' + key + '.html');
+        if (!ghFile) ghFile = await ghApiGet('intro/EditedHTML/' + key + '.html');
+        if (ghFile && ghFile.content) {
+          editedHtml = base64ToUtf8(ghFile.content.replace(/\n/g, ''));
+          introEditCache[key] = editedHtml;
+        }
+      } catch(e) { /* GitHub API failed, try static fetch */ }
+    }
+    if (!editedHtml) {
       var resp = await fetch('intro/EditedHTML/' + key + '.html');
       if (resp.ok) editedHtml = await resp.text();
     }
@@ -3108,7 +3119,17 @@ async function enterIntroEdit(key) {
   var initialHtml = '';
   if (introEditCache[key]) {
     initialHtml = introEditCache[key];
-  } else {
+  } else if (ghIsConfigured()) {
+    try {
+      var ghFile = await ghApiGet('docs/intro/EditedHTML/' + key + '.html');
+      if (!ghFile) ghFile = await ghApiGet('intro/EditedHTML/' + key + '.html');
+      if (ghFile && ghFile.content) {
+        initialHtml = base64ToUtf8(ghFile.content.replace(/\n/g, ''));
+        introEditCache[key] = initialHtml;
+      }
+    } catch(e) {}
+  }
+  if (!initialHtml) {
     try {
       var resp = await fetch('intro/EditedHTML/' + key + '.html');
       if (resp.ok) initialHtml = await resp.text();
@@ -3205,7 +3226,7 @@ async function saveIntroEdit() {
   }
 
   try {
-    var filePath = 'intro/EditedHTML/' + introEditingKey + '.html';
+    var filePath = 'docs/intro/EditedHTML/' + introEditingKey + '.html';
     var htmlContent = editor.innerHTML;
 
     var existing = await ghApiGet(filePath);
@@ -3260,7 +3281,7 @@ async function handleIntroImgUpload(input) {
     var ext = file.name.split('.').pop().toLowerCase() || 'png';
     var timestamp = Date.now();
     var safeFileName = introEditingKey + '_' + timestamp + '.' + ext;
-    var ghFilePath = 'intro/EditImages/' + safeFileName;
+    var ghFilePath = 'docs/intro/EditImages/' + safeFileName;
     try {
       await ghApiPut(ghFilePath, base64, 'ছবি যুক্ত: ' + safeFileName, null);
       var repo = getGhRepo();
@@ -3504,11 +3525,23 @@ function showBhashaPage(pageNum) {
 async function loadBhashaEditedPage(pageNum, contentEl, imgHref) {
   try {
     var editedHtml = null;
+    var fileName = 'page_' + String(pageNum).padStart(4, '0') + '.html';
     // Check local cache first (for immediate display after save)
     if (bhashaEditCache[pageNum]) {
       editedHtml = bhashaEditCache[pageNum];
-    } else {
-      var resp = await fetch('bhashatattwa/EditedHTML/page_' + String(pageNum).padStart(4, '0') + '.html');
+    } else if (ghIsConfigured()) {
+      // Try GitHub API first (reads latest from repo)
+      try {
+        var ghFile = await ghApiGet('docs/bhashatattwa/EditedHTML/' + fileName);
+        if (!ghFile) ghFile = await ghApiGet('bhashatattwa/EditedHTML/' + fileName);
+        if (ghFile && ghFile.content) {
+          editedHtml = base64ToUtf8(ghFile.content.replace(/\n/g, ''));
+          bhashaEditCache[pageNum] = editedHtml;
+        }
+      } catch(e) { /* GitHub API failed, try static fetch */ }
+    }
+    if (!editedHtml) {
+      var resp = await fetch('bhashatattwa/EditedHTML/' + fileName);
       if (resp.ok) editedHtml = await resp.text();
     }
     if (editedHtml) {
@@ -3540,12 +3573,21 @@ async function enterBhashaEdit(pageNum) {
   var initialHtml = '';
   if (bhashaEditCache[pageNum]) {
     initialHtml = bhashaEditCache[pageNum];
-  } else {
+  } else if (ghIsConfigured()) {
+    try {
+      var fileName = 'page_' + String(pageNum).padStart(4, '0') + '.html';
+      var ghFile = await ghApiGet('docs/bhashatattwa/EditedHTML/' + fileName);
+      if (!ghFile) ghFile = await ghApiGet('bhashatattwa/EditedHTML/' + fileName);
+      if (ghFile && ghFile.content) {
+        initialHtml = base64ToUtf8(ghFile.content.replace(/\n/g, ''));
+        bhashaEditCache[pageNum] = initialHtml;
+      }
+    } catch(e) {}
+  }
+  if (!initialHtml) {
     try {
       var resp = await fetch('bhashatattwa/EditedHTML/page_' + String(pageNum).padStart(4, '0') + '.html');
-      if (resp.ok) {
-        initialHtml = await resp.text();
-      }
+      if (resp.ok) initialHtml = await resp.text();
     } catch(e) {}
   }
 
@@ -3986,7 +4028,7 @@ async function saveBhashaEdit() {
 
   try {
     var pageStr = String(bhashaEditingPage).padStart(4, '0');
-    var filePath = 'bhashatattwa/EditedHTML/page_' + pageStr + '.html';
+    var filePath = 'docs/bhashatattwa/EditedHTML/page_' + pageStr + '.html';
     var htmlContent = editor.innerHTML;
 
     // Check if file already exists to get SHA
@@ -4037,7 +4079,7 @@ async function handleBhashaImgUpload(input) {
     var ext = file.name.split('.').pop().toLowerCase() || 'png';
     var timestamp = Date.now();
     var safeFileName = 'page_' + String(bhashaEditingPage).padStart(4, '0') + '_' + timestamp + '.' + ext;
-    var ghFilePath = 'bhashatattwa/EditImages/' + safeFileName;
+    var ghFilePath = 'docs/bhashatattwa/EditImages/' + safeFileName;
     try {
       await ghApiPut(ghFilePath, base64, 'ছবি যুক্ত: ' + safeFileName, null);
       var repo = getGhRepo();

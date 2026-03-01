@@ -1,0 +1,269 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "অনাসক্ত; থাকা না-থাকা সমান এমন।",
+        "examples": [
+          "মুই ই সংসারো এলকু আছি আছি নাই নাই।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আজত",
+    "transliteration": "ajot",
+    "phonetics": "aʒɔt",
+    "etymology": "[<আ. হাজত = আটক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বিচারাধীন আসামির জন্য নির্দিষ্ট বন্দিশালা।",
+        "examples": [
+          "সরকারর টেকা মারিআ এলকু আজত খাটিত্রা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আজলা",
+    "transliteration": "ajola",
+    "phonetics": "aʒɔla",
+    "etymology": "[<মবা. আজল]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বাক্ প্রত্যঙ্গের ত্রুটির জন্য যে সবকথা উচ্চারণ করতে পারে না এমন।",
+        "examples": [
+          "কুটিলাল আজলা; তার হকল মাত বুঝা জায় না।",
+          "বাংলাদেশের কোনো কোনো অঞ্চলে ‘বোকা’ অর্থে শব্দটি প্রচলিত।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আজলানি",
+    "transliteration": "ajolani",
+    "phonetics": "aʒɔlani",
+    "etymology": "[<ববাং আজলা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "আজলার কথাবলা।",
+        "examples": [
+          "কিতা করলে পুআগুর আজলানি কমব।"
+        ]
+      },
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "অস্পষ্ট উচ্চারণ করে কথা বলা।",
+        "examples": [
+          "জরমো তনে হে আজলায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আজাইর",
+    "transliteration": "ajair",
+    "phonetics": "aʒair",
+    "etymology": "[<বাং উজাড় = শূন্য]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "খালি; শূন্য।",
+        "examples": [
+          "খিরানিগু আজাইর করি দেও, বাইচ্চা ছাড়ি দিছি। একলু উড়ি আজাইর নায়, বাদে হইরো নিবায়।",
+          "বাংলাদেশে ‘আজাড়’।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আজান্ডা",
+    "transliteration": "ajanda",
+    "phonetics": "aʒanḍa",
+    "etymology": "[<ববাং নঞর্থক উপ.আ + জানডা (দ্র.)]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "জানে না এমন; অজ্ঞ।",
+        "examples": [
+          "আজানডার গেছে গিআ লাভ নাই। — অনভিজ্ঞ; অভিজ্ঞতা নেই এমন।",
+          "‘আজানডার আটুপানিত হাতার।’ — বপ্র"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আজানি",
+    "transliteration": "ajani",
+    "phonetics": "aʒani",
+    "etymology": "[<প্রা. আঅজ্ঝা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "দরজা জানালা ইত্যাদি বন্ধ করা।",
+        "examples": [
+          "মেঘে মারের, দুআর আজাও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আজি",
+    "transliteration": "aji",
+    "phonetics": "aʒi",
+    "etymology": "[<আ. হাজি = হজ্ থেকে পুণ্যার্জন করে ক্রিরে আসা ব্যক্তি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "যে ব্যক্তি হজ্ থেকে পুণ্যার্জন করে ফিরে এসেছে; মক্কাতীর্থ দর্শনকারী।",
+        "examples": [
+          "হেশকালো তাইন আজি অইআ আইছইন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "অজিরা",
+    "transliteration": "ojira",
+    "phonetics": "ɔʒira",
+    "etymology": "[<আ. হাজির = উপস্থিত + আ তপ্র. বৃত্তি অর্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দৈনিক মজুরি বা পারিশ্রমিক; মজুরের কাজ।"
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "⇒ তাইন আজিরাত গেছইন। ⇒ ঠিকাদারে তান দুইদিনর আজিরা কাটিআ থইছে।"
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আটকুরা",
+    "transliteration": "atokura",
+    "phonetics": "aṭɔkura",
+    "etymology": "[<বাং আঁটকুড়া = নিঃসন্তান]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "যার কোনো সন্তান হয়নি এমন।",
+        "examples": [
+          "স্ত্রীং আটকুরি। তুল. ওড়িয়া ‘আন্টুকুড়া। বাংলাদেশে ‘আটকুইরা’।",
+          "আটকুরার ধন পাইআ এলকু তারা ধনালা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আটচাললিশ",
+    "transliteration": "atochalolish",
+    "phonetics": "aṭɔc∫alɔli∫",
+    "etymology": "[< খঃ অট্ঠচালীস্ < প্রা. অটুঠচালীসা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "৪৮ সংখ্যা বা সংখ্যক।"
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আটঠাইশ",
+    "transliteration": "atothaish",
+    "phonetics": "aṭɔṭhai∫",
+    "etymology": "[<ভ্রং অটঠাইস < প্রা. অট্ঠবিস]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "২৮ সংখ্যা বা সংখ্যক।"
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আটা",
+    "transliteration": "ata",
+    "phonetics": "aṭa",
+    "etymology": "[<বাং আঁট + আ কৃপ্র.]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "আঁট দেওয়া।",
+        "examples": [
+          "ভালাকরি আটাইআ বান্ধ্ দিও। — একত্রিত করা।",
+          "আমি ধানপান আটাইআ বাড়িত্ তনে বারইমু। — হাঁটা।",
+          "গাড়িঘুড়া না পাইআ বইরাতি হকল দশমাইল আটিআ আইছইন।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "পদব্রজে ভ্রমণ।",
+        "examples": [
+          "পতাবালা আটা শইল্লর ভালা করে।"
+        ]
+      },
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "সংকুচিত হওয়া; ঘন করা।",
+        "examples": [
+          "খিরসা বানাইলে ভরে জাল দি দুদ আটাও।",
+          "মন (= ফলবিশেষ) হুকাইলে আটিআ হরু অই জায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আটাইল",
+    "transliteration": "atail",
+    "phonetics": "aṭail",
+    "etymology": "[<বাং আঁট + আলি অপিনিহিতিতে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "রক্তশোষক অতিক্ষুদ্র কীট বিশেষ। এঁটুলি; Tick.",
+        "examples": [
+          "এই কীট গোরু মোষ কুকুর প্রভৃতি জন্তুর গায়ে সেঁটে থাকে এবং চামড়া ফুটো করে রক্ত শোষণ করে বাঁচে। এরা আকারে আণবীক্ষণিক থেকে এক মিলিমিটার পর্যন্ত। আটখানা পা। মাথা-বুক-পেট একাকার।",
+          "গনদি পাত্তার রস দিলে গরু বয়ারর আটাইল ছাড়ইন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0050"
+  },
+  {
+    "headword": "আটাইলপিটাইল",
+    "transliteration": "atailopitail",
+    "phonetics": "aṭailɔpiṭail",
+    "etymology": "[<ববাং আটা + ইল ~ অনুকারে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "পরিমিত ও ঘনীভূত।"
+      }
+    ],
+    "source_page": "IMG_0050"
+  }
+]

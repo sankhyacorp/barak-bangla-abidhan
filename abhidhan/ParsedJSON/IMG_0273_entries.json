@@ -1,0 +1,288 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "২১ বিআন বিআতি বেটা > প্রাবা. দৃ. ‘আঙ্গন ঘরয়ণ সুন ভো বিআতী।’ চর্যাপদ"
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিআন",
+    "transliteration": "bian",
+    "phonetics": "bian",
+    "etymology": "[< প্রাবা. / আমবা. বিহান = প্রভাত < সং বিভাত বি. —প্রভাত বেলা; সকাল। ⇒ বিআনে উঠিআউ তাইন আলো গেছইন। ≫ আমবা. দৃ. 'লাস বেশ করে রাধা বড়ই বিহানে।' — কৃকী। প্রাবা. দৃ. ‘পওস বিহান’ — শূন্যপুরাণ। ⇒ সমার্থ শব্দ. বিআনবালা; বিআনতোবালা। বিআন<sub>s</sub> bian [< প্রাবা. বিআণ = প্রসব]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "প্রভাত বেলা; সকাল। — কৃকী। প্রাবা. দৃ. ‘পওস বিহান’ — শূন্যপুরাণ।",
+        "examples": [
+          "বিআনে উঠিআউ তাইন আলো গেছইন।",
+          "সমার্থ শব্দ. বিআনবালা; বিআনতোবালা। বিআন<sub>s</sub> bian [< প্রাবা. বিআণ = প্রসব]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "প্রসব। চর্যা ২০",
+        "examples": [
+          "এক বিআনর গাই।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিআনি",
+    "transliteration": "biani",
+    "phonetics": "biani",
+    "etymology": "[< বাং বিয়ানো = প্রসব করা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "প্রসব করা।"
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিআল",
+    "transliteration": "bial",
+    "phonetics": "bial",
+    "etymology": "[< বাং বিকাল ব্যঞ্জন ধ্বনি লোপে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "অপরাহু; সন্ধ্যাকাল। দুপুরের পর থেকে রাত্রি আসার পূর্ব পর্যন্ত সময়।"
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিখা",
+    "transliteration": "bikha",
+    "phonetics": "bikha",
+    "etymology": "[< ববাং শব্দ বিখা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "রোদে বৃষ্টিতে থেকে কাটা বাঁশ বা কাঠ নষ্ট হয়ে যাওয়া।",
+        "examples": [
+          "বা’গুইন বিখিব, বারাঘরো তুলি থ।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "নষ্ট হয়ে গেছে এমন।",
+        "examples": [
+          "বিখা বা কামো লাগতো নায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিচ",
+    "transliteration": "bich",
+    "phonetics": "bic∫",
+    "etymology": "[< ববাং বিচি সম্প্রকর্ষে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বীজ; যা থেকে অঙ্কুর গজায়।",
+        "examples": [
+          "ভেড়াপাওআ ধানর বিচ একমচা থইছি।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "অস্তিত্ব; বিদ্যমানতা।",
+        "examples": [
+          "নালাত মাছর বিচ নাই, মানে মারিআ তফাই করিলাইছইন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিচইন",
+    "transliteration": "bichoin",
+    "phonetics": "bic∫ɔin",
+    "etymology": "[< সং বীজন = বাতাস করণ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "হাতপাখা।",
+        "examples": [
+          "তাল পাত্তার বিচইন।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. বি.",
+        "definition": "সযত্নে ঘরে রক্ষা করার সামগ্রী।",
+        "examples": [
+          "বিআ দিতায় না তে তাইরে বিচর মচা বানাইতায় নি?"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিচরানি",
+    "transliteration": "bichorani",
+    "phonetics": "bic∫ɔrani",
+    "etymology": "[< বাং বিচার]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "তন্ন তন্ন করে খোঁজা।"
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "২১২ বরাতৃত্ ⇒ জ্ঞ. বিসরানি।"
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিচি",
+    "transliteration": "bichi",
+    "phonetics": "bic∫i",
+    "etymology": "[< সং বীজ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ফল বা শস্যাদির বীজ যা থেকে গাছ হয়।",
+        "examples": [
+          "কাঠলর বিচি এলকু আলুর দরে বিকে। বি. অশি.— অণ্ডকোষ।",
+          "আমড়া, গুলাল, কাঁঠাল প্রভৃতির বিচির মতো দেখতে বলেই অগুকোষকে ‘বিচি’ বলা হয়। এই বলার ভঙ্গিটি অশ্লীল।",
+          "আউকি করিস না, টিপিআ বিচি গালি লাইমু।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিজল",
+    "transliteration": "bijol",
+    "phonetics": "biʒɔl",
+    "etymology": "[< সং বিজ্জল]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "পিচ্ছিল জলীয় পদার্থ; গাছের ঘন ও পিচ্ছিল রস।",
+        "examples": [
+          "‘এওলা খাইআ খাইছে পানি খাইছে গংগার জল, চইলতা খাইআ খাইছে পানি খাইছে বিজল।’ — বরাকপ্রবাদ"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "মুখের লালা।",
+        "examples": [
+          "গাইর মুখ তনে খালি বিজল পড়ের।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিজলা",
+    "transliteration": "bijola",
+    "phonetics": "biʒɔla",
+    "etymology": "[< আ. ফাজিল?]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "যে কারণে-অকারণে ঢং তামাশা করে।",
+        "examples": [
+          "বিজলা মানর লগে চললে বড় শরম পাবা জায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিজলামি",
+    "transliteration": "bijolami",
+    "phonetics": "biʒɔlami",
+    "etymology": "[< ববাং বিজলা + আমি তপ্র ভাবার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বিজলার আচরণ; ফাজলামি।"
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিজলাউনি",
+    "transliteration": "bijolauni",
+    "phonetics": "biʒɔlauni",
+    "etymology": "[< ববাং বিজল + উনি তথ পরিপূর্ণ অর্থো বিণ. — বিজলপূর্ণ; পিচ্ছিল রসযুক্ত। ⇒ বিজলাউনি পানি ফালাইআ ভালা পানি ভর। বিজানা bij3ala [< উ.শ্র. বি + জ্যানা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বিজলপূর্ণ; পিচ্ছিল রসযুক্ত।",
+        "examples": [
+          "বিজলাউনি পানি ফালাইআ ভালা পানি ভর। বিজানা bij3ala [< উ.শ্র. বি + জ্যানা]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "শিশুদের উৎপাত।",
+        "examples": [
+          "হরুতা ইতায় কামর সময় বিজালা করইন।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "বিরক্তি উৎপাদন।",
+        "examples": [
+          "ছকইন পুড়িআ দিসি, খাও তে খাও, এম্মা বিজানা কতি অ না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিজাংগি",
+    "transliteration": "bijanggi",
+    "phonetics": "biʒaŋgi",
+    "etymology": "[< ববাং শব্দ বিজাংগি]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "অসামান্য সহন ক্ষমতাযুক্ত; দুর্মর। র",
+        "examples": [
+          "বিজাংগি চুর; বিজাংগি ঘা (=ঘাস)।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  },
+  {
+    "headword": "বিঝুতুতু",
+    "transliteration": "bijhututu",
+    "phonetics": "biʒhututu",
+    "etymology": "[< ধ্ব. বো-বোও-ও-ও]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "হঁতোম প্যাঁচা; great horned owl.",
+        "examples": [
+          "হুতুম প্যাঁচা আকারে প্রায় চিলের সমান। গাব্রের রং পাতৃলা হলদে-বাদামি। ওরা দিনের বেলার"
+        ]
+      }
+    ],
+    "source_page": "IMG_0273"
+  }
+]

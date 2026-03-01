@@ -1,0 +1,1631 @@
+{
+  "section": "রূপতত্ত্ব — বিশেষ্য, লিঙ্গ, বচন",
+  "section_en": "Morphology — Nouns, Gender & Number",
+  "key": "rupatattwa_bisheshya_linga_bachan",
+  "page_range": "IMG_0435 – IMG_0440",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "বিশেষ্য NOUN",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কোনো কিছুর নাম বোঝালেই বিশেষ্য। হোক সে ইন্দ্রিয়গ্রাহ্য অথবা অনুভূতি সাপেক্ষ। কোনো কিছুকে বিশেষ করে চিহ্নিত করতে হলে একটা নাম দিতে হয়। তাই একে ‘নামপদ’ও বলে।",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিশেষ্যের প্রচলিত প্রকারভেদ : সংজ্ঞাবাচক",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "জাতিবাচক",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গুণবাচক",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমষ্টিবাচক",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়াবাচক",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক. সংজ্ঞাবাচক— সুনির্দিষ্ট একটিমাত্র ব্যক্তি বস্তু স্থান প্রতিষ্ঠান ইত্যাদি নাম। যেমন :",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রাধা, হাইলাকান্দি, ঝাপিরবন্দ্, হরকিশোর ইশ্কুল, বিশরি",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "<math>\\Rightarrow</math>"
+      ],
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খ. জাতিবাচক —   এক জাতের অনেক কিছুর নাম। যেমন:",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পাক্খি, মানু, গাউ, কুড়া, কারিগর, টউ, হুগা, মইরচাহুনদি, ঢপজাত্রা, চুংগাপিঠা",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "<math>\\Rightarrow</math>"
+      ],
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গ. গুণবাচক — গুণ, দোষ, অবস্থা, ভাব ইত্যাদির নাম। যথা:",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মায়া, দয়া, সুখ, দুখ, জইবন, শান্তি, বিট্লামি, বান্রামি",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "<math>\\Rightarrow</math>"
+      ],
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ঘ. সমষ্টিবাচক— দল, গুচ্ছ, সমূহ ইত্যাদির নাম। এটি মূলত জাতিবাচকের অন্তর্গত।",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হউর্জরপাল, পনারভাইশ, মহিলাসমিতি, মেলেটারি, সভা।",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "<math>\\Rightarrow</math>"
+      ],
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ঙ. ক্রিয়াবাচক— ক্রিয়ার নাম বা ক্রিয়াজাত বিশেষ্য। যথা:",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খাবা, হিনান, পিন্দা, পানানি, কানদা, রানদা, খেইড়, ফুতা",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "<math>\\Rightarrow</math>"
+      ],
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "প্রথাগত ব্যাকরণের প্রচলিত এই বিভাগ ছাড়াও আমরা উৎস ও বৈশিষ্ট্য অনুযায়ী দৃশ্য, অদৃশ্য, ইন্দ্রিয় গ্রাহ্য, অনুভূতি সাপেক্ষ, অথবা প্রাণী-অপ্রাণীবাচক রূপেও শ্রেণীবিভাগ করতে পারি।",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ভাষার উৎকর্ষ অনেক সময় এই সবরকমের শ্রেণীভেদকে অতিক্রম করে যায়। এক শ্রেণীর বিশেষ্য অন্য শ্রেণীতে রূপান্তরিত হয়। আবার কোনো কোনো সময় শ্রেণীগত পার্থক্য লোপ পায়। দৃ. ⇒ ক. ‘বেলার-বাদে-বেলা খানি না পাবায় তার মনোর ভিতরে এক চুর জনমিছে।’",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এখানে জাতিবাচক ‘চুর’ বিশেষ্যটি অর্থাৎ ‘চুরি করার মনোবৃত্তি’ রূপে গুণবাচক বিশেষ্য হয়ে উঠেছে।",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খ. বিশেষক ব্যবহারে বা প্রয়োগ বৈশিষ্ট্যে জাতিবাচক ও সংজ্ঞাবাচকের তফাত বিলুপ্ত হয়। যেমন ⇒ ⇒ পাড়িআ বাউল কইলে তানে হকলে চিনইন। কালা গুসাই এ পদকিরতন গাইন।",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সংজ্ঞা, জাতি, গুণ, কার্য প্রভৃতি বাচক বিপুল সংখ্যক বিশেষ্য ছাড়াও ভাষার প্রয়োজন ও উৎকর্ষ সাধনে ধ্বন্যাত্মক শব্দ থেকেও অনেক নামপদ সৃষ্টি হয়েছে এ উপভাষায়। এরকম বিশেষ্য দুরকমভাবে গঠিত হয়েছে: এক, ধ্বন্যাত্মক শব্দের সঙ্গে প্রত্যয় জুড়ে; দুই, ধ্বন্যাত্মক শব্দের প্রয়োগ বিশেষত্বে।",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "sub_examples",
+      "items": [
+        "অ. প্রত্যয় জুড়ে—"
+      ],
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ভুট্ভুট্ + ই = ভুটভুটি [মোটর সাইকেল]",
+        "কেট্কেট্ + ই = কেট্কেটি [বকুনি]",
+        "গড়গড় + ই = গড়গড়ি [কণ্ঠদেশ]",
+        "ঘড় ঘড় + উআ = গাড়ুআ [বড় আকারের বেঙ বিশেষ]"
+      ],
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নূক্নূক্ + ই",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "লুক্লুকি [জাম জাতীয় ফল বিশেষ]",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "-",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "পের পের + ই = পেরপেরি [বাচালতা]",
+        "ফুল ফুল + ই = ফুলফুলি [মোরগের গায়ের পোকা]"
+      ],
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ফর ফর + ই",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "= ফরফরি [কাগজের খেলনা পাখা]",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এরপর এখানে বিশেষ্য বা নামপদ নিয়ে বিশেষ বিচারের আয়োজন অনাবশ্যক। লিঙ্গ ও বচন— এই দুটি প্রয়োজনীয় বিষয় কেবল আলোচনা করা হচ্ছে।",
+      "source_page": 435,
+      "source_image": "IMG_0435.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নিঞ্ন GENDER",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক উপত্যকার আঞ্চলিক বাংলায় প্রাণীবাচক শব্দ ছাড়া লিঙ্গভেদ প্রায় নেই। এও আবার শব্দগত (Lexical)। বাংলাভাষার মতোই স্ত্রীবাচক শব্দই স্ত্রীলিঙ্গ এবং পুরুষবাচক শব্দই পুংলিঙ্গ হিসেবে ধরা হয় এ উপভাষায়। অপ্রাণী বা ভাববাচক শব্দকে ক্লীবলিঙ্গ রূপে গণ্য করা যেতে পারে।",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মধ্যবাংলা বা শ্রীকৃষ্ণকীর্তনের অনেক শব্দই বরাকবাংলায় প্রায় অপরিবর্তিতভাবে রয়েছে। শ্রীকৃষ্ণকীর্তনের",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "লিঙ্গানুশাসনের [কোঁঅলী পাতলী বালী = কোমল পাত্লা বালিকা] ছাপ এখনো আছে; তবে শুধু ক্রিয়াপদে।"
+      ],
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যেমন---",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘তাই [She] আবো আইলি না।’",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘মণিএ তাইর হরু বইনরে বিয়াও দিলি।’",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এখানে স্ত্রী প্রত্যয় ‘ই’ ক্রিয়াপদে যুক্ত হয়েছে। পাশাপাশি পুংলিঙ্গের একটি দৃষ্টান্ত দিলে ব্যাপারটা সুস্পষ্ট হবে।",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যেমন—",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘হে [He] আবো আইল না।’",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এবার পুংলিঙ্গ ও স্ত্রীলিঙ্গ বোঝানো অথবা লিঙ্গান্তর সাধনের ব্যাপরটা বরাক বাংলায় কীভাবে ঘটে তা নিচে দেওয়া গেল।",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) পৃথক পৃথক শব্দে পুংলিঙ্গ ও স্ত্রীলিঙ্গ নির্দেশ : যথা ⇒",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "শ্রুশ্লিক খীলিক",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মাই",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাফ",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "শামি তিরি, ইস্ত্রি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বইন",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ভাই",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "জামাই বউ",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হউর হড়ি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তালই মাঅই",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "গাই/ডেকি"
+      ],
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দামা",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কাউক্নি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বয়ার",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) সংস্কৃত বা বাংলাভাষানুসারী ই, ঈ, অনি, নি, নী, ইনি, ইনী প্রভৃতি প্রত্যয় পুংলিঙ্গশব্দের সঙ্গে জুড়ে স্ত্রীলিঙ্গ",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "শব্দ নির্মাণ করা হয়। যথা ⇒",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "স্ত্রীলিঙ্গ",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুংলিঙ্গ",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উলি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উলা",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ছাগি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ছাগা",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ডেকি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ডেকা",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বগুড়ি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বগুড়া",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হালি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হালা",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "----",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কপালপুড়ি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কপালপুড়া",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুড়ি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুআ",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ডাক্তরনি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ডাক্তর",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাবনি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাবন",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হিয়ালনি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হিয়াল",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মড়লনি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মড়ল",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ডাকাইত্নি",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ডাকাইত্",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাংলায় স্ত্রীপ্রত্যয় রূপে চিহ্নিত ‘আ’ বরাকবাংলায় পুংলিঙ্গও নির্মাণ করে। যথা ⇒ (গ)",
+      "source_page": 436,
+      "source_image": "IMG_0436.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "পুংলিঙ্গ",
+          "স্ত্রীলিঙ্গ"
+        ],
+        [
+          "বান্দ্রি",
+          "বান্দ্রা"
+        ],
+        [
+          "মাদ্দি",
+          "মাদ্দা"
+        ],
+        [
+          "চড়ি",
+          "চড়া"
+        ],
+        [
+          "আই",
+          "আওআ"
+        ],
+        [
+          "গাছুনি",
+          "গাছুআ"
+        ],
+        [
+          "মাছুনি",
+          "মাছুআ"
+        ],
+        [
+          "নাচ্রি",
+          "নাচ্রা"
+        ],
+        [
+          "বাজারি",
+          "বাজারা"
+        ],
+        [
+          "নেউলি",
+          "নেউলা"
+        ],
+        [
+          "‘আইন’ প্রত্যয় যোগেও স্ত্রীলিঙ্গ শব্দ গঠিত হয়। যথা ⇒",
+          "(ঘ)"
+        ],
+        [
+          "পুংলিঙ্গ",
+          "স্ত্রীলিঙ্গ"
+        ],
+        [
+          "ঠাউক্রাইন",
+          "ঠাকুর"
+        ],
+        [
+          "গিরশ্",
+          "গিরতাইন"
+        ]
+      ],
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যোগ করে যথাক্রমে পুংলিঙ্গ ও স্ত্রীলিঙ্গ শব্দ গঠন করা হয়। যথা ⇒ ‘আলা’ ও ‘আলি’",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(&)",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুংলিঙ্গ",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "স্ত্রীলিঙ্গ",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ঘরআলি",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ঘরআলা",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "আসআলি (= হাঁস পালন করে যে স্ত্রীলোক)"
+      ],
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আসআলা",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দুধআলি",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দুধআলা",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গানেআলি",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গানেআলা",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(চ) ‘ইয়া’ বা ‘আইয়া’ প্রত্যয় যোগে পুংলিঙ্গ শব্দ তৈরি হয়। যথা ⇒",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "স্ত্রীলিঙ্গ",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুংলিঙ্গ",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পারি",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "পারাইআ (=পায়রা)"
+      ],
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ছ) বিষমচ্ছেদ প্রক্রিয়ার (Back Formation) ফলে স্ত্রীবাচক শব্দ থেকে গঠিত পুংবাচক শব্দের সন্ধান মেলে বরাক",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উপত্যকার বাংলা ভাষায়। যথা ⇒",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "স্ত্রীলিঙ্গ",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুংলিঙ্গ",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "মউআ <math>\\leftarrow</math> মই (মউসা <math>\\leftarrow</math> মাসি)"
+      ],
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ফিআ ← ফি (পিসা ← পিসি)",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(জ) বাংলাভাষায় নেই অথচ বরাক বাংলায় ‘বিধবা’ শব্দের পুংলিঙ্গ রয়েছে এবং তা নির্মিত হয়েছে Back",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Formation এ। যথা ⇒",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "রাড়া বা লাড়া ← রাড়ি বা লাড়ি (= বিধবা)"
+      ],
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঝ) অপ্রাণীবাচক লিঙ্গভেদ বরাক বাংলায় বিরল।",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুংলিঙ্গ",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "স্ত্রীলিঙ্গ",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ছাত্তা ছাত্তি",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঞ) জাতিবাচক শব্দে উভয় লিঙ্গের দৃষ্টাস্ত নগণ্য নয়। যথা ⇒",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পাক্খি, গরু, মানু, মাছ, হাফ ইত্যাদি।",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ট) বাংলায় সর্বনাম পদের লিঙ্গান্তর না ঘটলেও বরাক উপত্যকার আঞ্চলিক বাংলায় প্রথম ্কুফ্ষ একবচনে ঘটে।",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যথা ⇒",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘হি’ বা ‘হে’ [He] পুংলিঙ্গ শব্দের স্ত্রীলিঙ্গ হল ‘তাই’ [She]।",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক উপত্যকার বাংলা উপভাষার লিঙ্গান্তর প্রক্রিয়ায় সমীভবনও ঘটে থাকে। যেমন ⇒",
+      "source_page": 437,
+      "source_image": "IMG_0437.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "রাপতত্ত",
+          "স্ত্রীং"
+        ],
+        [
+          "পুং",
+          "উঝা (মনসামঙ্গল বা ওঝা"
+        ],
+        [
+          "উঝুনি (ওঝার স্ত্রী নন, ওঝানৃত্যগীতের",
+          "নৃত্যগীতের গায়ক)"
+        ],
+        [
+          "গায়িকা)",
+          ""
+        ]
+      ],
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক উপত্যকার বাংলা আঞ্চলিকে পদার্থের লিঙ্গভেদ কখনো কখনো চোখে পড়ে। যেমন ⇒ স্ত্রীং",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুং",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ঢাক্না",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ঢাক্নি",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ছাত্তা",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ছাত্তি",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দ্র. অভিধান",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অনেকে মনে করতে পারেন ই প্রত্যয় (ঢাকনি) ক্ষুদ্রার্থে ব্যবহৃত হয়েছে। মূলত তা নয়। দুটোই ছোট কিংবা বড় হতে পারে।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বচন NUMBER",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাংলা ভাষার একবচন বোঝানো প্রত্যয়-বিভক্তি ছাড়াই চলে। কিন্তু বরাকের বাংলা উপভাষায় নামপদের একবচনে বিভক্তি ব্যবহার জরুরি। যেমন, বিশেষ্য-কর্তার একবচনে ‘এ’ ও ‘য়’ বিভক্তি যুক্ত হয়।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ সুমতিএ গাইয়াড়ি পিঠা বানার।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দামায় ঘৃটির সারা ধান খাইলাইছে।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘ই’ বা ‘উ-কারাস্ত’ অথবা হলস্ত নামপদে সাধারণত ‘এ’ এবং ‘আ-কারাস্ত’ হলে ‘য়’ বিভক্তি যুক্ত হয়। আরও দৃষ্টাস্ত ⇒ মানে কইন",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হিয়ালে ডাকের,",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মাছে খাইছে,",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মায়ায় হাত্রে, ইত্যাদি।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এ নিয়মের ব্যতিক্রমও কম নয়। যেমন ⇒",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মাছ উজার,",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হিয়াল ভাগছে,",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কুটু জাইত, ইত্যাদি।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাংলাভাষার মতো আশ্রিত নির্দেশক বা অনুসর্গীয় প্রত্যয়ের ব্যবহার বরাকবাংলার একবচনে ও বহুবচনে আছে।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বস্তু-ব্যক্তি-স্থানকে নির্দিষ্ট করে বোঝানোর জন্য টা, গু, খান, গেছা এবং বহুবচনে টাইন, গুইন, খানাইন্, গেছাইন প্রভৃতি নির্দেশক ব্যবহৃত হয়। প্রাণী ও অপ্রাণীবাচক উভয় ক্ষেত্রেই। দৃ. বেটিটা আইব কইয়া আইলি না।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তারে ক, আলি গেছাইন লইআ আইতো।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পইনচাশ্ টেকার নুট্খান ছিড়া।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কাউক্নিগু গেল কুনবায়?",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ধানগুইন খুটিয়া তুল।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অপ্রাণীবাচকের বেলায় সব, সমূহ, আবলি, নিচয় অর্থে ‘তা’, ‘ইতা’ (পরিমাণ ও সংখ্যা বোঝাতে ‘এগুলি’ এখানে তুলনীয়) প্রত্যয় রূপে যুক্ত হয়, অনেকটা অনুসর্গের মতোই। যেমন— ‘খাইনতা কাংগাল’। —বপ্র ‘অইবে চান্দু, কাপড়ইতা তুলিলা।’",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক অঞ্চলের অনেক গ্রামে ‘ইতা’ প্রাণীবাচক বা বস্তুবাচকে নির্বিচারে প্রয়োগ হতেও দেখা যায়। যেমন ⇒ ‘হরুতাইতারে জে কিতা করতাম! কুনোমতে কথা হুনাইতাম পারি না।’",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "প্রাণীবাচক শব্দের সঙ্গে পাল, দল, ভাইশ এবং অপ্রাণীবাচক শব্দের সঙ্গে গুছা, ঝুমটা, ঝাম্টা, ছুবা, ঢের, থুব প্রভৃতি বহুত্ববোধক বিশেষ্য যুক্ত করে বহুবচন নির্মিত হয়। যথা ⇒ পনার ভাইশ দেখিয়া খেও মারিস্।",
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ইবার <b>গানর দল</b> পনিভরা থাকি আনডায় নি?"
+      ],
+      "source_page": 438,
+      "source_image": "IMG_0438.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "<b>হউজোর পাল</b> জেলা জাইন ওলা জাইত্রা।"
+      ],
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বালির থুব টুকরি দি ব।",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "তাইর <b>চুলর ঝামটা</b> পানিয়েউ তিতে না।",
+        "মুই <b>হইরোর ঢের</b> হরাইয়া দেখমু।"
+      ],
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিশেষণ অনেকসময় বহুবচনের ভূমিকা পালন করে। যেমন ⇒ পান্চাইতোর বাড়ির পুজাত্ পারা মানু অইস্লা।",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অলা খিরা ধরছে তর গাছে?",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "এক কাঠলউ <b>জতো বিচি</b>!"
+      ],
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আশ্রিত নির্দেশক ছাড়াও বরাক বাংলাতে আরও খাঁটি বহুত্ববোধক প্রত্যয় ‘ন্’ এবং ‘ইন’ পাচ্ছি। পদান্তে ই-কার থাকলে ‘ন্’ এবং আ-কার থাকলে ‘ইন’ প্রত্যয় যোগ হয়। যেমন, একবচন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বহুবচন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "একবচন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বহুবচন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গাড়িন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গাড়ি",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বুড়াইন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বুড়া",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বুড়ি",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাড়িন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বুড়িন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাড়ি",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুআইন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেটা",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেটাইন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুআ",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুড়ি",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুড়িন্",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেটি",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেটিন",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সংখ্যা বিশেষণের সাহায্যে বহুবচন নির্মাণ অতি প্রাচীন ঐতিহ্য। যেমন :",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘রাড়ি বেটির আটারো হাই",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রাই পুআইলে এগ্ণুঅ নাই।’—বপ্র",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘এগ্রু পুটির নগু ফাল",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাংগালে কয় রউর পাল।'—বপ্র",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘চুরর দশ দিন, সাউদর একদিন।’—বপ্র",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "লাখ টেকায় হাউদ কাংগাল",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দশ টেকায় নাচে বাংগাল।’ —বপ্র",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘আতোর পাচ আংগুল হমান নায়।’ —বপ্র",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘বারো বাজার তেরো গল্লি।’ —বপ্র",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘লাথর কাঠল লাথে পাকে",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিনা লাথে ছ-মাস থাকে।’ —বপ্র",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘আজার চতুরাতি",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আর কপালর একরতি।' —বপ্র",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘বাফর আগে পুআর হাত বিয়া। —বধাঁ (কলাগাছ)",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘চউদ্দ পুড়া পিঠা খাইল বউএ",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কুলা আউড় দিয়া।’ —বপ্র.",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "‘পাচজনে তুলে/বত্তিশ্ জনে ধরে/আরক জনে ঠেলি দিলে দরিয়াত পড়ে।’ বধাঁ (আহার)",
+        "সমষ্টিবাচক বিশেষণ সব (সবতা) কতো, জতো (=যত), হকল (হকলতা) প্রভৃতি যুক্ত হয়ে থাকে বহুবচন বোঝাতে।"
+      ],
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যথা—",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হেনে মারিয়া ডাকাইতে হকলতা নিছইন গি।",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বারুনি মেলাত্ কথো মানু অইছইন তুমারে কিতা কইতাম।",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "জতো মানু আইস্লা পশাদে সবর ফুইছে না।",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কড়াইর সবতা খাইঅ না, থুড়া থইও।",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আম্রেড়নের দ্বারা বহুবচন বোঝানো হয়।",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যেমন ঘরো ঘরো আটিয়া চানদা তুল।",
+      "source_page": 439,
+      "source_image": "IMG_0439.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "গাউএ গাউএ বেমার, ডাকতর নাই।",
+          "জেনো জারায় হিনো পদে পদে বিপদ।"
+        ],
+        [
+          "দিন দিন দেশর মানু বাদ অইতরা।",
+          "‘চুরে চুরে আলি"
+        ],
+        [
+          "কাউআর মুখো পাকনা আম",
+          "এক চুরে বিয়া করে"
+        ],
+        [
+          "আরক চুরর হালি।'—বপ্র",
+          "লইয়া ফিরে গামগাম।"
+        ],
+        [
+          "—বপ্ৰ",
+          ""
+        ]
+      ],
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উত্তম ও মধ্যম পুরুষবাচক সর্বনামে বাংলার নিজস্ব বহুবচন বিভক্তি ‘রা’ প্রথম ব্যবহৃত হয়েছে শ্রীকৃষ্ণকীর্তনে।",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যেমন— আহ্মারা, তোহ্মারা। দ্র. কৃকী। উপাদান রক্ষণশীলতার জন্যে বরাক উপত্যকার বাংলা ভাষা শ্রীকৃষ্ণকীর্তনের এই ‘রা’ বিভক্তিকে কেবল পুরুষবাচক সর্বনামেই ধরে রেখেছে, এর বেশি ব্যবহার সম্প্রসারিত হয়নি। দূ. একবচন",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বহুবচন",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মুই, আমি",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আম্রা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তুমি",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তুমরা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হে, হি",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তারা, হেরা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এরা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আধুনিক মান্য বাংলা ভাষায় কর্তৃকারক পুরুষবাচক সর্বনাম ছাড়াও প্রাণীবাচক শব্দে ‘-রা’ বিভক্তির ব্যবহার ব্যাপক। বরাক বাংলায় মান্যবাংলার সম্প্রসারিত ব্যবহার নেই। এখানে প্রাণীবাচক শব্দে বহুত্ববোধক বিশেষণপ্রত্যয় শব্দই ব্যবহাত হয়ে আসছে।",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মান্যবাংলা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাকবাংলা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পাথিরা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পাখ্কিইতা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাবুরা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাবুহকল",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কামলারা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কামলাগুরো",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মামাইন্তে (-ইন্তে প্রত্যয়)",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মামারা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রাম শ্যাম যদু সবে",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রামেরা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘রাম ও অন্যান্যরা’ [Ram and Others] আধুনিক বাংলায় ‘রামেরা’ [<রাম + এরা] ব্যাকরণের দিক দিয়ে ত্রুটিপূর্ণ হলেও ব্যবহারে এখন তা আটপৌরে। প্রথম পুরুষ বা তৃতীয়পক্ষ হলে সর্বনাম বহুবচনটি দূর নির্দেশক [+ওরা] হওয়ার কথা ছিল কিন্তু হেত্বাভাসের দরুন নিকট নির্দেশক [+এরা] রূপে ব্যবহৃত হচ্ছে। বরাক উপত্যকার আঞ্চলিক বাংলায় এই ত্রুটি ঘটেনি। তাই এখানে ‘রাম ও অন্যান্যরা’ বলতে ‘রামতারা’ বলা হয়।",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মতি ও অন্যান্যরা → মতিতারা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রানি ও অন্যান্য মেয়েরা → রানিতারা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পটল বটল আবু কান্তো ফেচু → পটলতারা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "প্রথম পুরুষে সম্ভ্রমাত্মক অনুসর্গীয় প্রত্যয় ‘গুরো’ বরাক উপত্যকার আঞ্চলিক বাংলাভাষার একটি খাঁটি সমষ্টিবাচক প্রত্যয়। এরকম মনুষ্যবাচক বিবিধভাবে বহুবচন নির্মাতা উপশব্দ বা প্রত্যয়ের ব্যবহার এক অমূল্যপ্রাপ্তি।",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "牙. ⇒",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কামলা",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কামলাগুরো",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "<math>\\rightarrow</math>",
+        "জামাই <math>\\rightarrow</math> জামাইণ্ডরো",
+        "এখানে কামলা (=শ্রমিক)র বহুবচন পাচ্ছি কামলাগুরো। কিন্তু জামাইগুরো অর্থ এখানে ‘জামাইগণ’ নয়— জামাই",
+        "(=বর) ও অন্যান্য সঙ্গীরা। অতএব এই সমষ্টিবাচক প্রত্যয় বহুবচনগঠনে ‘রাম ও অন্যান্যরা’ বা ‘Ram and"
+      ],
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "others' কেও অন্তর্ভুক্ত করে বাংলা ও ইংরেজির মতো সমৃদ্ধ ভাষা ছাপিয়ে গেল একটি উপভাষা। যথা ⇒ রামরগুরো, হগুরো ইত্যাদি।",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বহুবচনীয় সম্ভ্রমায়ন— ববাক উপত্যকার আঞ্চলিক বাংলার এক আশ্চর্য ভাষা বৈশিষ্ট্য হল ‘বহুবচনীয় সম্ভ্রমায়ন’।",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘বহুবচনীয় সম্ভ্রমায়ন’ মানে অসম্ভ্রমাত্মক সর্বনাম ও ক্রিয়াপদ বহুবচনে রূপান্তরিত করার বেলা সম্ভ্রমাত্মক প্রত্যয় বরাক উপত্যকার আঞ্চলিক কলো ভাষার অভিধান ও ভাষাতত্ত্ব",
+      "source_page": 440,
+      "source_image": "IMG_0440.jpg"
+    }
+  ]
+}

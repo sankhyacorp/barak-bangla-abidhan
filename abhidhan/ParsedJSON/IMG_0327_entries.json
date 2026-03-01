@@ -1,0 +1,226 @@
+[
+  {
+    "headword": "শাউআ",
+    "transliteration": "shaua",
+    "phonetics": "∫aua",
+    "etymology": "[< আঞ্চ. শাউয়া]",
+    "senses": [
+      {
+        "raw_text": "[< আঞ্চ. শাউয়া] বি. অশি. — স্ত্রী জননেন্দ্রিয়। ⇒ দ্র. শাউআ মারাউনি।"
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাউআ মারাউনি",
+    "transliteration": "shaua marauni",
+    "phonetics": "∫aua marauni",
+    "etymology": "[< ববাং শাউআ ~ √মার্]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "অশিষ্ট গালি বিশেষ।",
+        "examples": [
+          "শাউআ মারাউনি বেটিএ গাউখানরে নাটি লাইলি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাউআ মারাউনা",
+    "transliteration": "shaua marauna",
+    "phonetics": "∫aua marauna",
+    "etymology": "[< ববাং শাউআ ~ √ মার্]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "চরিত্রহীন; অশিষ্ট গালি বিশেষ। দ্র. শাউআ।"
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাউকাড়",
+    "transliteration": "shaukado়",
+    "phonetics": "∫aukaḍɔ়",
+    "etymology": "[< দ্র. শাউকাড়ি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "যে আড়ালে কোনো দুষ্কর্মে লিপ্ত হয় না; অসামাজিক কাজ করে না যে।",
+        "examples": [
+          "চুরি-চুছরামি জে করে না হে তো শাউকাড়র লাখান চলব।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাউকাড়ি",
+    "transliteration": "shaukado়i",
+    "phonetics": "∫aukaḍɔ়i",
+    "etymology": "[< ভ্রং সাউ + ফা. গির/গির]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "সাধুগিরি; সকলের সম্মুখে করার মতো কর্ম।",
+        "examples": [
+          "শাউকাড়ি করিআ আমার মাল আমি আনছি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শায়",
+    "transliteration": "shajo়",
+    "phonetics": "∫aʒɔ়",
+    "etymology": "[< বাং সায় = সম্মতি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "সমর্থন; পক্ষে মত।",
+        "examples": [
+          "বাদকামো আমরার শায় নাই। শাককি ʃakki [< সং সাক্ষী = প্রত্যক্ষদর্শী]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "কোনো বিষয় বা ঘটনা প্রত্যক্ষ করেছে যে।",
+        "examples": [
+          "ই খুনর সাক্কি পাবা মশকিল।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "মাটি কাটার সময় সংরক্ষিত উচ্চতাজ্ঞাপক মাটির ঢিবি।",
+        "examples": [
+          "পুকইর কাটিবার কালো দুইধারো দুগ্গু শাককি রাখিও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "০২৭ শাদা"
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাকিন",
+    "transliteration": "shakin",
+    "phonetics": "∫akin",
+    "etymology": "[< আ. সাকিন = বসবাসকারী]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ঠিকানা; বাসস্থান।",
+        "examples": [
+          "মোর শাকিন নাগাটিলা, ডাক জামরিআ।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "নিশ্চয়তা।",
+        "examples": [
+          "তার আওআর শাকিন নাই।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাগ",
+    "transliteration": "shag",
+    "phonetics": "∫ag",
+    "etymology": "[< সং শাক = তরকারি ঘোষীভবনে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "রেধে খাওয়ার উপযোগী লতাপাতা বা পাতসহ গাছ।",
+        "examples": [
+          "বাথুআ শাগ খুদরা শাগ ডেংগা শাগ পালই শাগ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাজি",
+    "transliteration": "shaji",
+    "phonetics": "∫aʒi",
+    "etymology": "[< বাং সাজ + ই তপ্র. স্বার্থে < সং সজ্জা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গাছ থেকে ফুল চয়ন করে রাখার পাত্র; ফুলের ডালা। ;",
+        "examples": [
+          "শাজি ভরি দুদফুল আনি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাদ",
+    "transliteration": "shad",
+    "phonetics": "∫ad",
+    "etymology": "[< বাং সাধ্যি/সাধ্য < সং সাধ + য কর্মবাচ্যে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "শারীরিক বল বা কৌশল দিয়ে সহায়তা।",
+        "examples": [
+          "দ্র. শাদ দেবা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাদ দেবা",
+    "transliteration": "shad deba",
+    "phonetics": "∫ad deba",
+    "etymology": "[< ববাং শাদ ~ √দে]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "শারীরিক ভাবে কোনো কাজে সাহায্য তে করা।",
+        "examples": [
+          "আমরার শেশ অইলে তুমরার ধান দাওআতশাদ পিযূ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  },
+  {
+    "headword": "শাদা",
+    "transliteration": "shada",
+    "phonetics": "∫ada",
+    "etymology": "[< ফা. সাদাহ্ = Plain]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "মালিন্যহীন।",
+        "examples": [
+          "'শাদা দিলো (=হৃদয়ে) বাধা নাই।' বরাকপ্রবাদ - শাদা<sub>২</sub> ʃada [< ফা. সাদহ্ = তামাক]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "তামাকপাতা। ক",
+        "examples": [
+          "শাদা খাইলে বাদ বেমার অয়। কে s বাংলা ভাষার আভধান ও ভাষাতত্ত্<del>ব</del>"
+        ]
+      }
+    ],
+    "source_page": "IMG_0327"
+  }
+]

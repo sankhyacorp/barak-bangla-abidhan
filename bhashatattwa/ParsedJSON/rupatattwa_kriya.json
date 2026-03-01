@@ -1,0 +1,2928 @@
+{
+  "section": "রূপতত্ত্ব — ক্রিয়া",
+  "section_en": "Morphology — Verbs",
+  "key": "rupatattwa_kriya",
+  "page_range": "IMG_0460 – IMG_0471",
+  "blocks": [
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "অন্যান্য",
+          "বাচক"
+        ],
+        [
+          "একবচন",
+          "বহুবচন"
+        ],
+        [
+          "আত্ম",
+          "আফন, ফলনা"
+        ],
+        [
+          "সাকল্য প্রাণী",
+          "সব, হকল"
+        ],
+        [
+          "সাকল্য অপ্রাণী",
+          "সবতা, হকলতা"
+        ],
+        [
+          "দ্র. নির্দেশক সর্বনাম (বাক্য নির্মাণ)",
+          "ক্রিয়া নির্মাণ VERBAL SYSTEM"
+        ]
+      ],
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়াপদ নির্মাণের মূল উপাদান হল ধাতু। এরপরের ভূমিকা বিকরণ, কালবাচক প্রত্যয় এবং বিভক্তির।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আধুনিক বাংলাভাষায় কালবাচক প্রত্যয় রয়েছে। কিন্তু বিকরণ এর ভূমিকা বিশেষত মৌলিক ক্রিয়াপদগুলিতে লোপ পেলেও বরাক বাংলায় এর উপস্থিতি উল্লেখযোগ্য। ‘বিকরণ’ সংস্কৃত ভাষাসূত্রে প্রাপ্ত।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সুকুমার সেন বলেছেন, ‘‘সংস্কৃতে সাধারণত ধাতুর অব্যবহিত পরেই বিভক্তি যুক্ত হইত না। ধাতুর ঠিক পরে বসিত ক্রিয়া প্রকৃতিবাচক (সেই সঙ্গে কাল বাচক) প্রত্যয় অর্থাৎ বিকরণ (Base Affix)।” এবার বরাকবাংলার ক্রিয়াপদ সৃষ্টির ব্যাপারটা দৃষ্টান্তের সাহায্যে বোঝানো যাক্। ⇒",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) সাধারণ অতীত, মধ্যমপুরুষে ‘পারইলায়’ একটি পূর্ণ ক্রিয়াপদ। একে ভাঙলে হবে = পার্ (ধাতু) + অ",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(বিকরণ) + ইল (কালবাচক প্রত্যয়) + আয় (বিভক্তি)।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) পুরাঘটিত অতীত, উত্তম পুরুষে ‘গাড়িছ্লাম’ একটি পূর্ণ ক্রিয়াপদ। একে বিশ্লেষণ করলে দাঁড়াবে = গাড্",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ধাতু) + ই (বিকরণ) + ছিল (কালবাচক প্রত্যয়) + আম (বিভক্তি)।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) অনুজ্ঞা ভবিষ্যত, মধ্যমপুরুষে সম্ভ্রমার্থক ‘করইনজে’ একটি পূর্ণ ক্রিয়াপদ। এটিকে বিশ্লেষণ করলে পাওয়া",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "যাবে = কর্ (ধাতু) + অ (কালবাচক প্রত্যয়) + ইন্জে (বিভক্তি)।"
+      ],
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) নিত্য বর্তমান, উত্তমপুরুষে ‘রুই’ একটি পূর্ণ ক্রিয়াপদ। এতে আছে = রু (ধাতু) + ই (বিভক্তি)।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঙ) সাধারণ ভবিষ্যত, প্রথম পুরুষে ‘কুড্ব’ পূর্ণ ক্রিয়াপদ। এতে আছে = কুড্ (ধাতু) + ব (বিভক্তি)।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এখানে (ক) এবং (খ) তে ধাতু, বিকরণ, কালবাচক প্রত্যয় ও বিভক্তি মিলে নির্মিত হয়েছে ক্রিয়াপদ। (গ) তে বিকরণ নেই, ধাতুর সঙ্গে কেবল কালবাচক প্রত্যয় ও বিভক্তি যোগে সৃষ্টি হয়েছে ক্রিয়াপদ। (ঘ) এবং (ঙ) তে ক্রিয়াপদ তৈরি হয়েছে ধাতুর সঙ্গে সরাসরি বিভক্তি জুড়ে।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘ধাতুরূপ’ পাঠে যে ক্রিয়াবিভক্তির সজ্জা দেওয়া হয়েছে তা আসলে কালবাচক প্রত্যয় ও বিভক্তি একসঙ্গে জুড়ে। দ্র. ক্রিয়াবিভক্তি।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়ার কাল TENSE",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়ার ‘কাল’ এর রূপ-বিচার মান্যবাংলার অনুসারী। অতএব বরাক বাংলাতে ক্রিয়ার কাল দুটি প্রধান ভাগে ফেলতে পারি:",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক কাল",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যৌগিক কাল",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক কাল [Simple Tense] এর শ্রেণীবিভাগগুলি হল:",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) নিত্য বর্তমান ⇒ তাইন করইন।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) সাধারণ অতীত ⇒ তুমি করলায়।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) নিত্যবৃত্ত অতীত ⇒ তুইন করতে।",
+      "source_page": 460,
+      "source_image": "IMG_0460.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) সাধারণ ভবিষ্যত ⇒ আমরা করমু।",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঙ) বর্তমান ও ভবিষ্যত অনুজ্ঞা ⇒ তাইন করউকা। তুমি করিও।",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ঘটমান বর্তমান কালকে বাংলায় যৌগিক কালের অন্তর্ভুক্ত করা হয়েছে। কিন্তু নির্মাণ-লক্ষণ বিচার করলে বরাক উপত্যকার আঞ্চলিক বাংলা ভাষার কালরূপের ‘ঘটমান বর্তমান’কে মৌলিক কালে সন্নিবিষ্ট করতে হয়। মৌলিক কালের প্রধান দুটি লক্ষণ হল :",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এক, একটি মাত্র ধাতুকে নিয়ে নির্মিত হয়;",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দুই, ধাতুর শেষে বিভক্তি-প্রত্যয় যোগ হয় সরাসরি।",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উল্লিখিত এই প্রধান দুটি নির্মাণ-লক্ষণ বরাক বাংলার ‘ঘটমান বর্তমান কাল’ রূপে সুস্পষ্ট। যথা ⇒",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "উত্তম পুরুষ— √কর্ + ইয়ার = করিয়ার",
+        "সাধারণ মধ্যম পুরুষ— √কর্ + রায়/ডায়্ = কর্রায়/কর্ডায়",
+        "সম্ভ্রমাত্মক মধ্যম পুরুষ— √কর্ + রা = কর্রা",
+        "অসম্ভ্রমাত্মক মধ্যম পুরুষ— √কর্ + রে = কর্রে",
+        "সম্ভ্রমাত্মক প্রথম পুরুষ— √কর্ + ইত্রা = করিত্রা",
+        "অসম্ভ্রমাত্মক প্রথম পুরুষ— √কর্ + এর = করের"
+      ],
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিস্তারিত দ্র. ধাতুরূপ ও ক্রিয়াবিভক্তি",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যৌগিক কাল [Compound Tense]",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক উপত্যকার আঞ্চলিক বাংলা ভাষায় যৌগিক কালের রূপ পাওয়া যাচ্ছে ছটি। আধুনিক বাংলা থেকে এগুলিকে বিশিষ্ট করে রেখেছে বিকরণ, অসমাপিকা ক্রিয়া প্রত্যয় ও বিভক্তিসমূহ। যথা,",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) পুরাঘটিত বর্তমান ⇒ √কর্ + √আছ্ + অইন = করছইন",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) ঘটমান অতীত ⇒ √কর্ + আত্ + √আছ্ + লায় = করাত্ আছ্লায়",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) ঘটমান ভবিষ্যত ⇒ √কর্ + আত্ + √ থাক্ + মু = করাত্ থাকমু",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) পুরাঘটিত অতীত <math>⇒ √কর্ + √আছ্ + লো = করাছ্লো <math>> </math> কর্ছ্লো</math>",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "(৩) পুরাঘটিত ভবিষ্যত ⇒ √কর্ + ই + √থাক্ + বা = করিথাকবা"
+      ],
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(চ) পুরাঘটিত নিত্যবৃত্ত অতীত ⇒ √কর্ + ই √থাক্ + তে = করি থাকতে",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিস্তারিত আলোচনার জন্য দ্র. ধাতুরূপ ও ক্রিয়াবিভক্তি ক্রিয়ার ভাব MOOD",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘ক্রিয়ার অবস্থাই ক্রিয়ার ভাব’। সুনীতিকুমার চট্টোপাধ্যায়ের মতে বাংলা ভাষায় তিনটি প্রকার বা ভাব আছে:",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নির্দেশক, অনুজ্ঞা ও সংযোজক। পরেশ চন্দ্র মজুমদার লিখেছেন— “প্রাচীন ভারতীয় আর্যে ছিল পাঁচটি ভাব :",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নির্দেশক, অনুজ্ঞা, সম্ভাবক, অভিপ্রায় ও নির্বন্ধ। সংস্কৃতে ও প্রাকৃতে তা তিনটিতে দাঁড়িয়েছে : নির্দেশক, অনুজ্ঞা ও সম্ভাবক। বাঙ্লায় আবার সম্ভাবক ভাবও লুপ্ত। সুতরাং প্রাচীন ভাবগুলির মধ্যে রয়েছে দুটি ভাব : নির্দেশক [Indicative] এবং অনুজ্ঞা [Imperative]।\"",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সুকুমার সেনের কথায়ও এর সমর্থন পাচ্ছি— ‘‘বাঙ্গলায় শুধু দুটি ভাব আছে— নির্দেশক [অর্থাৎ সাধারণ] ও অনুজ্ঞা",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তাহলে বাংলায় ক্রিয়ার ভাব পেলাম দুটি। বরাক বাংলায় কিন্তু এই নির্দেশক ও অনুজ্ঞা ভাব ছাড়া প্রাকৃতের সম্ভাবক ভাবটা ক্ষীণস্রোতা হলেও রক্ষিত আছে। এটা একটা আশ্চর্যের ব্যাপার। নির্দেশক ভাবের রীতি ও রূপ আধুনিক বাংলার সঙ্গে বরাকবাংলার কোনো হেরফের নেই। বর্তমান, অতীত ও ভবিষ্যত কাল নির্দেশক ভাব দ্যোতক। তাই এগুলি স্বতম্ত্রভাবে বিস্তৃত-আলোচনা নিষ্প্রেয়োজন। দ্র. ধাতুরূপ, ক্রিয়ার কাল ও বিভক্তি।",
+      "source_page": 461,
+      "source_image": "IMG_0461.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাকবাংলায় মান্যবাংলাভাষারই মতো অনুজ্ঞা কেবল বর্তমান ও ভবিষ্যত কালে হয়। এ অনুজ্ঞাভাবে একবচন বহুবচন ভেদ নেই। উত্তমপুরুষ এভাবের বহির্ভূত। ভবিষ্যতকালে কেবল মধ্যমপুরুষে প্রযোজ্য।",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) বর্তমান অনুজ্ঞার উদাহরণ : ‘কর্’ ধাতুরূপ ও অন্বয়",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "সাধারণ <math>\\rightarrow</math> কর <math>[</math>করা<math>]</math> <math>\\Rightarrow</math> নেও টেকাটাইন রাখো।"
+      ],
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মধ্যমপুরুষ",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "সম্ভ্রমাত্মক <math>\\rightarrow</math> করইন্ <math>\\Rightarrow</math> আফনারা বিচার করইন।",
+        "অসম্ভ্রমাত্মক → কর্ ⇒ [তুইন্] পানি হিছ্।",
+        "সম্ভ্রমাত্মক → কর্উকা ⇒ তারা পাকানিত্ জাউকা।"
+      ],
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "প্রথম পুরুষ",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "অসম্রমাত্মক → করউক্ ⇒ হি আল চউক্।"
+      ],
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) ভবিষ্যত অনুজ্ঞার উদাহরণ : ‘কর্’ ধাতুরূপ ও অন্বয়",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "সাধারণ <math>\\rightarrow</math> করিও <math>\\Rightarrow</math> তুম্রা কামখান্ শেশ্ করিও।"
+      ],
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মধ্যম পুরুষ",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "সম্ভ্রমাত্মক → করইনজে ⇒ আফনারা মিটিংঅ আইনজে।",
+        "পুং অসম্ভ্রমাত্মক <math>\\rightarrow</math> করিসরে <math>\\Rightarrow</math> কুআগু খুদিস্রে।",
+        "স্ত্রীং অসম্ভ্রমাত্মক <math>\\to</math> করিসবে <math>\\to</math> বনদো মছা লইয়া জাইস্ বে।"
+      ],
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "একাধিক ধাতু দিয়েও অনুজ্ঞাভাব প্রকাশ করা হয় এবং তখনই তা যৌগিক কালের অন্তর্গত হয়ে পড়ে। যেমন ⇒ ডেরি করিও না, ফট্ করি খাইলাও।",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "‘খাইলাও’ = √খা + ই + √লা + ও"
+      ],
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আফনে পরিক্খার খাতাগুইন আগে চাইথইন।",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "‘চাইথইন’ = √চা + ই + √থ + ইন"
+      ],
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিরশইত্বারে আইজাইস্।",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "আইজাইস্ = √আ [আস্]/+ ই + √জা + ইস্"
+      ],
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তবে নিষেধাত্মক অনুজ্ঞায় একাধিক ধাতুদুর্লভ। যথা ⇒ অত মাতিও না।",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হকল মাতো আংগা দিস্ না।",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দয়া করিয়া আফনে জাইন না জেন।",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেশ্ ঘাড়াইস্ না।",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়ার প্রকার ভেদ",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যৌগিক ক্রিয়া",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আধুনিক বাংলার সঙ্গে বরাক বাংলার যৌগিক ক্রিয়ার রূপে অমিলই বেশি। এই আঞ্চলিক বাংলার যৌগিক ক্রিয়ার অসমাপিকা বা মুখ্য অংশে ‘ই’, ‘আই’, ‘আত্’, ‘আইয়া’. . .ইত্যাদি ক্রিয়াপ্রকৃতিবাচক প্রত্যয় যুক্ত হয়ে থাকে।",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যেমন,",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অসমাপিকা বা মুখ্যক্রিয়া",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাপিকা বা সহকারী ক্রিয়া",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যৌগিক ক্রিয়া",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিভক্তি",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ধাতু",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ধাতু",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "প্রত্যয়",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ই",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ইল",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "= খাইলাইল",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খা",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "লা",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গিল্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "= গিলিলাইছে",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "লা",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ইছে",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আছ্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খেল্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আত্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "লায়",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "= খেলাত আশ্লায়/(খেলাতআছলাম)"
+      ],
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আই",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পি [পি]",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "= দেখাইদিত্রা",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দেখ্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ত্রা",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আইয়া",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দি আছ",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "= ফালাইয়া দিছ্লাম",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "লাম্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ফাল্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উন্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আইয়া",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "= উনাইআ ফালা",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ফাল্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আ",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ইয়া",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "= ছনিআ থ",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "থ",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ছান্",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "[অ]০",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সহকারী ক্রিয়াটি প্রথমে ও মুখ্য ক্রিয়াটি পরে বসে এক অভিনব বৈচিত্র্য এনেছে বরাক বাংলার যৌগিক ক্রিয়া",
+      "source_page": 462,
+      "source_image": "IMG_0462.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "নির্মাল। যমন ⇒",
+          "যাইমু গিয়া/গি ল পচিআ"
+        ],
+        [
+          "আয় উঠিআ",
+          "হারা গান্জিআ"
+        ],
+        [
+          "তুকা গিআ",
+          ""
+        ]
+      ],
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এখানে সমাপিকা ক্রিয়ার উপর ‘জোর’ দেওয়া হচ্ছে। আগে পেয়েছি ‘অসমাপিকা প্রধান’ যৌগিক ক্রিয়া, এখন পেলাম ‘সমাপিকা প্রধান’ যৌগিক ক্রিয়া। বাংলা ভাষার এরূপ দৃষ্টান্ত [<সমাপিকা প্রধান ‘চলে এস’ এবং অসমাপিকা প্রধান ‘শুনে যাও।’ —ভাই] আছে। তবে অসমাপিকাঅস্ত্য যৌগিক ক্রিয়া বাংলা গদ্যে দুর্লভ [কবিতায় পাওয়া যায়",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "‘আবার আসিব ফিরে’; ‘যাব চলে’ ইত্যাদি] কিন্তু বরাক গদ্যে অনেক [⇒ল পচিয়া, তুকাগিয়া ইত্যাদি]। বাংলা"
+      ],
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গদ্যের দুর্লভের দু-একটি এখানে উল্লেখযোগ্য; যেমন,",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ভাত খাওসে [=ভাত খাও এসে]"
+      ],
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আন গিয়া",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "যাওগে [=যাও গিয়া]"
+      ],
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যৌগিক ক্রিয়া (বিস্তারিত আলোচনা)",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘‘অসমাপিকা ক্রিয়া বা নামপদের সঙ্গে আর একটি ক্রিয়া জুড়ে যদি একটিমাত্র ক্রিয়াপদের অর্থ দ্যোতিত হয়, তবে সেই সম্মিলিত ক্রিয়াপদকে বলে যৌগিক ক্রিয়াপদ।\"",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "—পরেশচন্দ্র মজুমদার",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘সংস্কৃত ও প্রাকৃতভাষার ক্রমবিকাশ’ গ্রন্থে পরেশচন্দ্র মজুমদার দেখিয়েছেন, প্রাচীন ভারতীয় আর্যভাষা থেকেই সূচনা হয়েছিল যৌগিকক্রিয়ার প্রয়োগ। রমাপ্রসাদ চৌধুরীর ‘বাঙলা ভাষায় পালি শব্দ ও ইডিয়ম’ থেকে আমরা জানতে পারি, প্রাকৃত ভাষার আদিস্তরেও যৌগিক ক্রিয়ার প্রয়োগ ছিল। যেমন, পালিপ্রাকৃত—",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পতিত্বা গতং",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আলিঙ্গিত্বা আদায়",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মচ্চু আদায় গচ্ছতি",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "লিখিত্বা পঠতি",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অতএব দেখা যাচ্ছে, যৌগিক ক্রিয়াপদের উদ্ভব ও প্রয়োগের ইতিহাস প্রাচীন। প্রাচীনত্ত্বের ঐতিহ্য নিয়ে বরাক উপত্যকার আঞ্চলিক বাংলা ভাষায় যৌগিকক্রিয়া বহু বৈচিত্র্য এনেছে। তাই এখানে যৌগিকক্রিয়ার বিস্তারিত আলোচনা করা দরকার।",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গঠন প্রকৃতি বিচার করে বরাক উপত্যকার আঞ্চলিক বাংলার যৌগিক ক্রিয়াকে বিভিন্ন ভাগ ও উপভাগে ভাগ করা যায়। বৃক্ষচিত্র ⇒",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যৌগিক ক্রিয়া",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সংযোগমূলক",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়ামূলক",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিশেষণ",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ধ্বন্যাত্মক শব্দ",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নামপদ",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নামপদ",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সিদ্ধধাতু",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "+",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সিদ্ধধাতু",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সিদ্ধধাতু",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিভক্তি",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সিদ্ধধাতু",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নামপদ",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সিদ্ধধাতু",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অসমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অসমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অসমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অসমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "+",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অসমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাপিকা",
+      "source_page": 463,
+      "source_image": "IMG_0463.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সংযোগমূলক যৌগিক ক্রিয়'— বরাক উপত্যকার আঞ্চলিক বাংলায় <math>\\sqrt{\\infty}</math>, <math>\\sqrt{\\infty}</math>র, <math>\\sqrt{\\infty}</math>, <math>\\sqrt{2}</math>, <math>\\sqrt{2}</math>লাগ, <math>\\sqrt{2}</math>মার প্রভৃতি মৌলিক ধাতু জুড়ে নামপদ, বিশেষণ বা ধ্বন্যাত্মক শব্দকে ধাতুরূপ দেওয়া হয়। তার নাম যৌগিকমূল ধাতু।",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আর এই যৌগিকমূল ধাতু থেকে গঠিত ক্রিয়াই সংযোগমূলক ক্রিয়া।",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গঠন অনুযায়ী সংযোগমূলক ক্রিয়াকে পাঁচটি ভাগে ভাগ করা যেতে পারে (দ্র. বৃক্ষচিত্র)।",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) নামপদ + সিদ্ধধাতু",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুড়ি অআ",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "টাটু ভাংগা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দুকান দেবা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গাইনজা মারা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "টিট লাগা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "শাদ দেবা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গাইড় ফাটা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বুড় পাড়া",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "জরা বলা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দম ধরা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হেজা লবা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ফাল মারা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) বিশেষণ + সিদ্ধধাতু",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "টাইআ লাগা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বড় অআ",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাত্তিক অআ",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাদ পাবা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "থাড়ি রআ",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ভালা পাবা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সিদা জাবা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ভালা করা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) ধ্বন্যাত্মক শব্দ + সিদ্ধধাতু",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রিরি দেখা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কাউকাউ করা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "টিলটিল অআ",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তিরতির করা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ভুড়ভুড় উঠা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পেরপের করা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হলহল রআ",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "করকর অআ",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) নামপদ + বিভক্তি + সিদ্ধধাতু",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ঠেকা + ত + √পড় = ঠেকাত পড়া",
+        "আত + ও ' + √ধর্ = আতো ধরা",
+        "বাউ + এ + √লাড় = বাউএ লাড়া"
+      ],
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঙ) সিদ্ধধাতু + নামপদ",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "√মার্ + ফাল = মার ফাল",
+        "√খা + গাইল = খাইল গাইল",
+        "<math>√ধর্ + জুক = ধরশ্লোজুক</math>"
+      ],
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সংযোগমূলক যৌগিক ক্রিয়ার সমাপিকা ক্রিয়াটি উত্তরপদ হিসেবে নামপদের সঙ্গে সংযোজিত বা সমাসবদ্ধ। এই ক্রিয়াটির অবস্থান সহায়ক রূপে নয়, আশ্রিত বা অধীন ক্রিয়ারূপে।",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়ামূলক যৌগিক ক্রিয়া— ক্রিয়ামূলক যৌগিক ক্রিয়ার মুখ্য অংশ খা, দেখ, উন, দে, ছান, উঠ প্রভৃতি মৌলিক ধাতুর সঙ্গে ই, আত্, আই, আইআ, ইআ প্রত্যয় জুড়ে গঠিত (খা + ই; দেখ + আই; উন + আইআ; ছান + ইআ)",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অসমাপিকা ক্রিয়া। পরের সমাপিকা অংশটি সহায়ক ক্রিয়া। এই সহায়ক ক্রিয়াটিই মৌলিক ক্রিয়ার অর্থ ও কালকে নিয়ন্ত্রণ করে। সে জন্য সহায়ক ক্রিয়াটি মৌলিক ক্রিয়াটির বিভিন্ন ভাব বা আচরণ প্রকাশ করে। যেমন :",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) পূৰ্ণতা বা সমাপ্তিবোধক—",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক ক্রিয়া + √লা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ একগুটি ধান কাইল বানদরে খাই লাইছইন।",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক ক্রিয়া + √ফালা",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ তারা জেতা চাইন দিআ ফালা।",
+      "source_page": 464,
+      "source_image": "IMG_0464.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) প্রারম্ভিকা সূচক—",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক ক্রিয়া + √লাগ",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ বিড়িগু খাইআ দড়ি বলাত লাগমু।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক ক্রিয়া + √উঠ",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ তরখ আর মেঘর ডাকে নেনায় আখতা কানদিআ উঠিছে।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) সমার্থ্যবোধক",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক ক্রিয়া + √ পার",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ দুই দিন তনে থুড়া থুড়া মাড় খাইত পারে।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) ইচ্ছাবোধক",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক ক্রিয়া + √ চা",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ হিংগো আর কানো ধর, গাইগু উঠিত চার।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঙ) নিশ্চয়সূচক",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক ক্রিয়া + √জা",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ ‘জেতু অইল চাইর পাও",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খানি কাপড় দিআ জাও।’ —বপ্র.",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(চ) অনুমোদন বোধক",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মৌলিক ক্রিয়া + √দে",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ জেতা জেতা এইছে হকলতা তারে কইতে দে।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গঠন অনুযায়ী ক্রিয়ামূলক যৌগিক ক্রিয়াকে পাঁচটি শ্রেণীতে ভাগ করা যায়। যথা, (অ) সমাপিকা + সমাপিকা",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ আত্তিইগু শাফকুচির দুআলে দি আয় জায়।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ তাই বরইর ভরতা বানাইব কইছে।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(আ) সমাপিকা + অসমাপিকা",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ অই বেটা, গুপরর উড়িগু ধর গিআ।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ হাবুগুলি বয়ার গাংগো পড়ত্রা গিআ।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(৩) অসমাপিকা + সমাপিকা",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ তারা দিঅগু ভাগিআ গেশ্লা।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ তুমার নআ ঘরর চাল ছাইলাই ছ নি?",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ঈ) অসমাপিকা + সমাপিকা + অসমাপিকা",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ মায় ডাকিতরা খাই (আ) লাও গি।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ তানে দেখিআউ হি হরিআ গেছে গিআ।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(উ) সমাপিকা + অসমাপিকা + সমাপিকা",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ ঘরো বইন গিআ জাইন।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ টেকাগুইন থ গি জা।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়ামূলক যৌগিক ক্রিয়ায় সাধারণত মৌলিক ক্রিয়াটি অর্থ আর সহায়ক ক্রিয়াটি মৌলিক ক্রিয়ার কার্যকাল বা গতিপ্রকৃতি নিয়ন্ত্রিত করে। অর্থাৎ মৌলিক ক্রিয়াটির কাল (Tense) ও ভাব (Mood) সহকারী ক্রিয়ার দ্বারা সিদ্ধ হয়। যথা—",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আনধাইর রাইত তারা দিঅগু ভাগিআ গেশ্লা।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নিজর পেটো ভাত নাই একপাল মেকুর পালি থইছইন।",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আর প্রায়ই সহকারী ক্রিয়াটি তার ধাতুঅর্থ হারিয়ে ফেলে বা গৌণ হয়ে যায়। যেমন,",
+      "source_page": 465,
+      "source_image": "IMG_0465.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মেঘ আওআয় উড়াদাড়া করি বেরগুইন বানধি ফালাইছি।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আগে তাই মনর মন ধান ভানি ফালাইত।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তবে কোনো কোনো সময় মৌলিক ক্রিয়া (অসমাপিকা ক্রিয়া) ও সহকারী ক্রিয়া (সমাপিকা ক্রিয়া) স্বাধীনভাবে পৃথক পৃথক ভাব বা অর্থ প্রকাশ করে। তবে কার্যকালকে নিয়ন্ত্রিত করে সমাপিকা ক্রিয়াই। এবং তাদের মধ্যে সম্পর্ক থাকে কার্যকারণ ধরনের। যেমন,",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তাইন মরার খবর হুনিআ দউড়াইছইন।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সহকারী ক্রিয়ার ব্যবহার বৈচিত্র্য— বরাক উপত্যকার আঞ্চলিক বাংলা সহায়ক ক্রিয়ার বৈচিত্র্য ও বৈশিষ্ট্য লক্ষ করা যায়। যেমন—",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) অনেক সময় সহায়ক ক্রিয়া অসম্পূর্ণ থেকে যায় অর্থাৎ সবকালে ব্যবহৃত হতে পারে না।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গি জা।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "থ",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আট গি জা।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বইন গিআ জাইন।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "√জা ধাতু নিষ্পন্ন সহায়ক ক্রিয়ার অনুজ্ঞা বর্তমান ছাড়া অন্যকালের রূপ পাওয়াই যায় না।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) সহায়ক ক্রিয়াগুলি নিজেদের মধ্যে যুক্ত হতে পারে।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "পাবা (=পোয়া) গুটি রইছে অগুইনতা রুই ফালাইদে। এক হাপতার কাম তিনদিনে করি ফালাইদিমু।"
+      ],
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(গ)",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যে কোনো সহায়ক ক্রিয়া যেকোনো ধাতুর সঙ্গে যুক্ত হয় না। বিশেষ বিশেষ ধাতুর সঙ্গে বিশেষ বিশেষ সহায়ক ক্রিয়া যুক্ত হয়।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খা, কর, মার, ছান প্রভৃতি মৌলিক ধাতুর সঙ্গে সহকারী ‘ফালা’ ক্রিয়া যুক্ত হয়।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "চুচরিগুইনতরে মারি ফালা।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মুই কাইলকুর কাম করি ফালাইছি।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হি দুইপাব চুংগাপিঠা খাই ফালাইশ্লো।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ব, ফ প্রভৃতি মৌলিক ধাতুর সঙ্গে থাক্, রঅ সহায়ক ক্রিয়া যুক্ত হয়।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিআন তনে বইরইছি।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রানজা ঵ালা ঠাঁর ফইথাকলি।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ভাগ্, ছল্, গল্, মর্, বিখ্, ফুড়া, ডাব্ প্রভৃতি মৌলিক ধাতুর সঙ্গে ‘জা’ ধাতু নিষ্পন্ন ‘জাবা’ (=যাওয়া) সহায়ক"
+      ],
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়া যুক্ত হয়।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বারইতে বারইতে চুরইতা ভাগিগেছইন।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দুদ না পাইআ নেনাগু ছলিগেছে।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বা’ গুইন রইদেবানে বিখিজাইব।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মাস পুরার আগে টেকা ফুড়াই জায়।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "জাগাইখান ডাবি গেশলো, মাটি ফালাইআ হমান করছি।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এরপর যেমন √আটা ধাতুর সঙ্গে ‘থ’; √খল্লা ধাতুর সঙ্গে ‘পড্’; √কুর্ ধাতুর সঙ্গে ‘দে’ সহায়ক ক্রিয়া যুক্ত হয়।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ডাব দি ধানটাইন আটাই থ।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নাইড়লগু কুরাই দে।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কইলা ভরিআ পানি ল, নাইলে খল্লাইআ পড়ব।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘লাবা/লাওআ’ যৌগিক ক্রিয়া থেকে যৌগিক কাল— বরাক উপত্যকার আঞ্চলিক বাংলায় ‘লাবা’ বা ‘লাওআ’ একটি চমৎকার আশ্রিত ক্রিয়া। পূর্ণতাবোধক ‘লাওআ’ সহায়ক ক্রিয়াটি পূর্ববর্তী মৌলিক ক্রিয়ার সঙ্গে এমন অঙ্গাঙ্গীভাবে জড়িয়ে থাকে যে ক্রিয়া দুটিকে পৃথক ভাবে চেনা যায় না, একাকার হয়ে যায়। একটি ক্রিয়ার মতো।",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তাই ‘লাওআ’ উত্তর যৌগিক ক্রিয়া যৌগিক কালে রাপান্তরিত হতে চলেছে। কারণ দুটি ক্রিয়ার পৃথক পৃথক শ্বাসাঘাতের বিরাম একেবারে হ্রস্ব হয়ে এসেছে। হ্রাস পেয়েছে √লা ধাতুর অর্থপ্রাধান্যও। দৃষ্টান্ত রূপে একটি",
+      "source_page": 466,
+      "source_image": "IMG_0466.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "ধাতুরূপ প্রস্তুত করা যাক :",
+          "‘কর্’ ধাতুর রূপ"
+        ],
+        [
+          "প্রথমপুরুষ",
+          "মধ্যমপুরুষ"
+        ],
+        [
+          "উত্তমপুরুষ",
+          "অসম্ভ্রমাত্মক"
+        ],
+        [
+          "সম্ভ্রমাত্মক",
+          "অসম্ভ্রমাত্মক"
+        ],
+        [
+          "সাধারণ",
+          "সম্ভ্রমাত্মক"
+        ],
+        [
+          "কাল",
+          "করিলা"
+        ],
+        [
+          "করিলাইন",
+          "করিলাও"
+        ],
+        [
+          "অনুজ্ঞা",
+          "বৰ্তমান"
+        ],
+        [
+          "করিলারে",
+          "করিলার"
+        ],
+        [
+          "করিলাইত্রা",
+          "করিলাইত্রা"
+        ],
+        [
+          "করিলারায়",
+          "করিলাইআর"
+        ],
+        [
+          "অসম্পন্ন",
+          "বৰ্তমান"
+        ],
+        [
+          "করিলারডায়",
+          "করিলাইছে"
+        ],
+        [
+          "করিলাইছস",
+          "করিলাইছইন"
+        ],
+        [
+          "করিলাইছইন",
+          "করিলাইছ"
+        ],
+        [
+          "করিলাইছি",
+          "অচিরসম্পন"
+        ],
+        [
+          "বৰ্তমান",
+          "করিলাইল"
+        ],
+        [
+          "করিলাইলা",
+          "করিলাইলা"
+        ],
+        [
+          "করিলাইলে",
+          "করিলাইলায়"
+        ],
+        [
+          "করিলাইলাম",
+          "অদ্যতন"
+        ],
+        [
+          "অতীত",
+          "করিলাইশ্লা"
+        ],
+        [
+          "করিলাইশ্লা",
+          "করিলাইশ্লো"
+        ],
+        [
+          "করিলাইশ্লায়",
+          "করিলাইশ্লে"
+        ],
+        [
+          "করিলাইশ্লাম",
+          "সম্পন্ন"
+        ],
+        [
+          "অতীত",
+          "করিলাইব"
+        ],
+        [
+          "করিলাইবা",
+          "করিলাইবে"
+        ],
+        [
+          "করিলাইবা",
+          "করিলাইবায়"
+        ],
+        [
+          "করিলাইমু",
+          "সামান্য"
+        ],
+        [
+          "ভবিষ্যত",
+          "করিলাইও"
+        ],
+        [
+          "করিলাইস",
+          "করিলাইনজে"
+        ],
+        [
+          "অনুজ্ঞা",
+          "ভবিষ্যত"
+        ],
+        [
+          "করিলাইতা",
+          "করিলাইতে"
+        ],
+        [
+          "করিলাইতা",
+          "করিলাইত"
+        ],
+        [
+          "নিকট",
+          "করিলাইতায়"
+        ],
+        [
+          "করিলাইতাম",
+          "ভবিষ্যত"
+        ]
+      ],
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যে কোনো মৌলিক ক্রিয়াকে পূর্ণতার দ্যোতনা দিতে হলে √লা ধাতু নিষ্পন্ন ক্রিয়ারূপ জুড়লেই হল। ‘লাওআ’ ক্রিয়াপদের তুলনা কোনো আঞ্চলিক বাংলায় তো নেই-ই, মান্য বাংলাতেও এরূপ চমৎকার সহায়ক বা আশ্রিতক্রিয়া দুর্লভ।",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘লাওআ’ ক্রিয়াপদের বিচিত্র প্রয়োগে তার সূক্ষ্মতর ব্যঞ্জনার প্রকাশ ঘটে। কয়েকটি উদাহরণ দেওয়া যাক:",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দেখরায়নি, হাতমাসর নেনায় টরটরাইআ আটিলার। (বিস্ময়)",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আড়িকুন আনধাইর করি মেঘ আনের, হকলে খাইলাও। (তৎপরতা)",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "লেংড়া উনডাইলাবা কিতা জবর কাম নি? (ভাববচন)",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মেউক্রে হুকইন্ খাইলাইলে আর চারা নেই। (আকস্মিকতা)",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "উবা করা, কাউকনিএ লেদিলাউক। (স্বাচ্ছন্দ্য/স্বস্তি)"
+      ],
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "থুনিকচুর মুড়া বড়ার লাগি আনজিলাও। (নির্দেশ)",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অসমাপিকা ক্রিয়া NON-FINITE VERB",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক উপত্যকার আঞ্চলিক বাংলা ভাষায় অসমাপিকা ক্রিয়া গঠিত হয় ‘ই’, ‘ইয়া’, ‘ইলে’, ‘ইতে’ এবং নতুন ‘আত্’ প্রত্যয় যোগে।",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ইতে, ইলে, ইয়া প্রত্যয় এখানে এসেছে বাংলা ভাষার উত্তরাধিকার বা ঐতিহ্য সূত্রে। তবে ব্যবহারে বেশ পার্থক্য দেখা যায়। যেমন যৌগিক কালের সহায়ক ক্রিয়া রূপে বাংলায় (সাধু) ইতে কিন্তু বরাক বাংলায় ‘ই’ ও ‘আত্’ (খাঁটি বরাক বাংলার প্রত্যয়) যুক্ত হয়।",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ সে করিতেছিল (কর্ + ইতে + ছিল)।",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাংলা",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ মুই করাত্ আশলাম (কর্ + আত্ + আশ্লাম)।",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ববাং",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "⇒ হি করিথাক্ব (কর্ + ই + থাক্ব)।",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ববাং",
+      "source_page": 467,
+      "source_image": "IMG_0467.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ভাব ও অর্থবৈভিন্ন্যে অসমাপিকা ক্রিয়ার ব্যবহার বরাক বাংলার অম্বয় প্রক্রিয়াকে সমৃদ্ধিশালী করে তুলেছে।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "‘আত্— উদ্দেশক বা নিমিত্তার্থক [Infinitive] ⇒ কালকু তাইরে দেখাত্ যাইমু।"
+      ],
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(季)",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) ‘ইতে’ — নিমিত্তার্থক ⇒ ‘মাম্লত্ লইতে খেরো ফুত্।’ —বপ্র.",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "‘ইতে’ — নিমিত্তার্থক ⇒ ‘চিড়া খাইতে বেপার গেল [যাচ্ছে]।’ —বপ্র"
+      ],
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(গ)",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "‘ইয়া’— বর্তমান [Present Participle] ⇒ হি আমার বায় চাইয়া চাইয়া জার।"
+      ],
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ঘ)",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "‘ইয়া’— পূর্বকালিক [Conjuctive] ⇒ তুম্রা খাইয়া কামো লাগবায়। ‘ফান্দো পড়িআ বগায় কান্দে রে।"
+      ],
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(8)",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "‘ই’— বর্তমান ⇒ খবর হুনিয়াউ তাই কান্দি কান্দি আইছে।",
+        "<b>(5)</b>",
+        "‘ইয়া’— ক্রিয়াবিশেষণ [Adverb] ⇒ তুইন ইনো কিতা উবাইআ দেখ্রে।"
+      ],
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ছ)",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(জ) <b>‘ইলে’— সাপেক্ষ</b> [Conditional] ⇒ ‘ছেবায় বার লাত্ দেখাইলে ছেবায়ও লাত্ দেখায়।’ —বপ্র.",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তাইন আইলে মুই জাইমু।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অস্ত্যর্থ ক্রিয়া [Substantive Verb]",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অস্তিত্ব বা অবস্থান বাচক ভাব প্রকাশক ধাতুই নির্মাণ করে অস্ত্যর্থ ক্রিয়া। বরাক বাংলায় এরূপ ধাতুর সংখ্যা মাত্র",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "তিনটি; যথা ⇒ আছ্"
+      ],
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রঅ [থাক্]",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অ",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "√ <b>আছ</b>— এই ধাতুর ব্যুৎপত্তি নিয়ে নানা বিতর্ক। তবে এর মধ্যে থেকে যে সিদ্ধান্তে আসা যায় তা হল— পালি.",
+        "অচ্ছতি > প্রা. অচ্ছই > আবা ‘আছে’ যাতে ‘আছ’ ধাতুটি নিহিত। ‘আছ’ ধাতু, বাংলা ছাড়াও অসমিয়া, ওড়িয়া"
+      ],
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ও মৈথিলীতে প্রচলিত। বাংলায় ‘আছ্’ ধাতুর রূপ ভবিষ্যত কালে মেলে না অর্থাৎ পূর্ণাঙ্গ ধাতুর মর্যাদা পায়নি।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তবে বরাকবাংলাতে সে অপবাদ অনেকটা ঘুচেছে। অর্থাৎ বর্তমান ও অতীতের সমস্ত রূপই পাওয়া যাচ্ছে তার ওপর সাধারণ ভবিষ্যতের রূপটির প্রচলন উল্লেখ্য। যেমন ⇒",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "কিতা বা, কুটুমবাড়িত্ আর কদিন আছো [=থাকবে]?"
+      ],
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ক)",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) শিলচরো আবো এক হাপৃতা আছি [=থাকবো]।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) অউ বিরশইত্বারে তাইন বাড়িত্ আছইন [=থাকবেন], আইও।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আধুনিক বাংলায় আদিস্বর লুপ্ত হলেও বরাক বাংলায় বিদ্যমান। যেমন ⇒ আবা— ছিলাম, ছিলে, ছিল, ছিলেন।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ববাং— আছ্লাম, আছ্লায়, আছ্লে, আছ্লা।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "√ রঅ— এই ধাতুর উৎস নিয়েও নানা মতের ভিড়। Turner বলেছেন, কথ্য সংস্কৃত ‘রহ’ থেকে প্রাকৃত ‘রহই’ > বাংলা ‘রহ’। সুনীতিকুমারের মতে প্রাচীন ভারতীয় আর্য ভাষার ‘লঘ্’ থেকে এসেছে ‘রহ’। যা হোক বাংলার ‘রহ্’ বরাক বাংলায় √রঅ।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘রঅ’ অবস্থান করা, রাত্রিবাস করা ইত্যাদি অর্থ প্রকাশ করে। এটি পূর্ণাঙ্গ ধাতু। সব কালেই এর বহুল ব্যবহার।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "যেমন ⇒",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অনুজ্ঞা → রঅ, আমি ফটাফট্ ঘুরিআ আইয়ার।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অনুজ্ঞা → আইজ রও, কাইল যাইবায়।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বর্তমান → অফিসোর কামে আবো রইছো নি?",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ভবিষ্যত → জতউ পেংগাও, তাই রইতো নায়।",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অতীত → হরু থাক্তে বিলাত্ কদিন রইছলে?",
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "যৌগিক কাল <math>\\rightarrow</math> গাড়ির লাগি উবাই রইছি।",
+        "√ <b>থাকৃ</b>— এই ধাতুটি বাংলা ভাষার মতোই বরাক বাংলায়ও রঅ [<রহ্] ধাতুর অর্থ বহন করে। এটির উৎস নিয়েও",
+        "মতভেদ আছে। সুনীতিকুমারের মতে এর মূল √স্থা> প্রা. থাক্ক। Turner মনে করেন, এর উৎস কথ্য সং স্থক",
+        "(=থামা, বন্ধকরা)। আমি সুনীতিকুমারের মতানুগামী।"
+      ],
+      "source_page": 468,
+      "source_image": "IMG_0468.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এই ধাতুর প্রয়োগ ব্যাপারে আদি মধ্যবাংলার শ্রীকৃষ্ণকীর্তনের সঙ্গে বরাক বাংলার আশ্চর্য মিল রয়েছে। এখানে উল্লেখ্য শ্রীকৃষ্ণকীর্তনে ‘থাক্’ ধাতুর ব্যবহার বিস্তর। বরাকেও। যথা ⇒",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) কৃকী— ‘রাধিকা থাকিলী বসি আপনার ঘরে’ ২২৬/৩",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ববাং— 'কিরণ বালা তাইর ঘরো থাক্লি না কেনে?",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "[দ্র. লিঙ্গানুশাসন]",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) কৃকী— ‘গরু রাখোআল গোঠে থাকহ্’ ৫২/২",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ববাং — তুম্রা থুড়া থাকঅ আমি আইয়ার [অনুজা]",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) কৃকী— 'তথাঁ থাকী ডাক দিয়া বুইল বনমালী। ১৪৩/২",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ববাং— হন্ থাকি [=থাকিয়া] ডাক দিয়া নবিন্চান্দে খবর ইখান কইলো [অসমাপিকা]।"
+      ],
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) কৃকী— ‘চিরকাল না রহিবে থাকি জাইবে খোঁটা’। ৩৩/১",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ববাং— হারাজীবন থাকতায় নায় থাকি জাইবো খুটা। [ভবিষ্যত] ‘থাক্’ ধাতু বরাক উপত্যকার আঞ্চলিক বাংলা ভাষায় পূর্ণাঙ্গ ধাতুর মর্যাদা পেয়েছে। উপরে কয়েকটি দৃষ্টান্ত দিয়েছি, এখন আরও কয়েকটি দিচ্ছি ⇒",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঙ) নিত্য বর্তমান → এলকু আমি ডলুবাগানো থাকি।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(চ) সাধা অতীত → গেল সাল অতদিন থাক্লাম একদিনও তোরে দেখলাম না।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ছ) পু. ঘ. বর্তমান → তাইন বউত্বিল্ থাক্ছইন।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(জ) পু. ঘ. অতীত → বারিশা পড়ার আগে কয়দিন থাক্লাম।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঝ) সাধা. ভবিষ্যত → আমি আর অউ-হাপ্তা থাক্মু।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "√ অ— সুনীতি কুমারের মতে বাংলা ‘হ’ ধাতু এসেছে সং √অস্ ধাতু থেকে। আর বাংলা ‘হ’ ব্যঞ্জনধ্বনি লোপের ফলে বরাক বাংলায় √অ। ধাতুটি পূর্ণাঙ্গ।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "<math>(\\Phi)</math> বর্তমান <math>\\to</math> অই, অও, অইন, অস্।"
+      ],
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) অতীত <math>\\to</math> অইলাম, অইলায়, অইলা, অইল।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) ভবিষ্যত → অইমু, অইবায়, অইবা, অইব।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) অনুজ্ঞা <math>\\rightarrow</math> অও, অইন্, অ।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘হওয়া’ অর্থে √অ বরাক বাংলায় জন্ম হওয়া, ঘটা, সম্পন্ন হওয়া অর্থেও চলে। যেমন ⇒",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) তাইর ঘরো এক পুড়ি অইছে। [জন্ম হওয়া]",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) অত মানু! ইনো কিতা অইল? [ঘটা]",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) জেতার লাগি গেছ্লায়, কাম অইছ্লো নিং [সম্পন্ন হওয়া]",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) চাইরোবায় মান্শর জরজারি আর। [হওয়া]",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঙ) হাপ্তার ভিত্রে পুল শেষ অইব। [সম্পন্ন হওয়া]",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নাস্ত্যর্থ ক্রিয়া [Negative Verb]",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ববাং নায় < মবা নহ্, নহো < ভ্ৰং নউ < সং ন + ভূ (অস্)",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ববাং লার < মবা নার, নারে < ভ্রং নাপার < সং ন-পারয়তি",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ববাং/আবা নাই < মবা নাইলাঙ, নহিল"
+      ],
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ববাং/আবা না < ন— হলো শুধু বাংলা নয় পৃথিবীর বহু ভাষা উপভাষার না-বোধক বা নিষেধাত্মক মূল বা প্রাতিপদিক।",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নায়— বরাক উপত্যকার বাংলা ভাষায় নাস্ত্যর্থ ক্রিয়াপদ নির্মাণে √নহ্ ধাতু থেকে উৎপন্ন ‘নায়’ [<√ন + অয়] এর ভূমিকাই মুখ্য। বাংলা ভাষার অনুরূপ কেবল নির্ণয়সূচক বর্তমান রূপেই চলে। তফাৎ হল বরাক বাংলায় পুরুষ [বা পক্ষ] ভেদ নেই। যথা,",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুরুষ",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "বাংলা",
+        "বরাকবাংলা"
+      ],
+      "rows": [
+        [
+          "উত্তম",
+          "নই"
+        ]
+      ],
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নায়",
+      "source_page": 469,
+      "source_image": "IMG_0469.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "মধ্যম",
+          "নও, নন, নস্"
+        ],
+        [
+          "নারা",
+          "প্রথম"
+        ],
+        [
+          "নয, নন",
+          "নায়"
+        ],
+        [
+          "অন্বয় করে দেখালে আরও স্পষ্ট হবে :",
+          "(ক) উপু → আমি নায় [=করব + না] তুমি করবায় [ভবিষ্যত]।"
+        ],
+        [
+          "কালান্তরে আমরা নায় [=করতাম + না], তারা করতো।",
+          "(খ) 'পেটর পুআ পুআ নায়, পিঠির পুআ পুআ।'-বপ্র. (অতীত)"
+        ]
+      ],
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) মপু. <math>\\rightarrow</math> হিদিন বাদে শুনি তুমি নায় [=ছিলে <math>+</math> না] আরো কিগু (নির্ণয় সূচক অতীতে)।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) প্রপু. → তাইন নায় [= দেন + নি] তান হড়িএ দিছইন।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "(৬) প্রপু. → মানুগুতা আর অনো নায় (= থাকে + না)। (পু.ঘ. বর্তমান)"
+      ],
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক বাংলায় কিন্তু নির্ণয়সূচক বা নির্দেশক রূপ ছাড়াও ‘নায়’ অনেক সময় পূর্ণ-ক্রিয়ার ভাবও প্রকাশ করে। যেমন ⇒ উল্লিখিত (ক) (খ) (গ) (ঘ) (ঙ)।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাংলা ভাষার অনাধুনিক পদ্যে কেবল √নহ বা √নার, ধাতুর ব্যবহার ছিল। এখন ক্রিয়া পদের সঙ্গে ‘না’ বসিয়ে বাংলায় নাস্ত্যর্থ ক্রিয়া হয়। বরাক বাংলায় ‘নায়’ বসিয়ে তৈরি হয় এ ক্রিয়াটি। যেমন,",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(চ) আমি মাছ মারাত্ যাইতাম নায়।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ছ) থই দে, পচ্তো নায়।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(জ) ই গুটির রুআ শজে হম্লিতো নায়।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সংযোজক রূপেও ‘নায়্’ ব্যবহৃত হয়। যেমন ⇒",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঝ) তুআকুলির বাটো জা, পাইলে ত পাইলে নায় ফিরিআ আইঅইস্।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অসমাপিকা ক্রিয়ারূপটিও বাংলাভাষার অনুসারী : ববাং নাইলে < বাং নাইলে।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মধ্যবাংলার বহুল ব্যবহৃত √নার ধাতু বরাক উপত্যকার চা-বাগান অঞ্চলে √লার ধাতুতে রূপান্তরিত। যেমন⇒",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "লারবো (লাইরবো), লারবেক্ ইত্যাদি। সমগ্রভাবে বরাক উপত্যকার ন > ল হওয়ার প্রবণতা বিদ্যমান। যেমন ⇒",
+        "বাং নামা > ববাং লামা",
+        "বাং নেমে আয় > ববাং লামিয়া আয়"
+      ],
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘নাই’ শব্দটিকে পুরোপুরি অব্যয় পদ (এখানে পদবিভাগে ‘অব্যয়’ কে ভেঙে নিয়েছি) বলে মান্তে আমি রাজি নই।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কারণ এর মধ্যে নিহিত ‘ক্রিয়াশক্তি’ উপেক্ষা করার মতো নয়। যেমন, ‘হি বউত্ দিন তনে ঘরো নাই।’ অর্থাৎ অনেকদিন হলো চলে গেছে। এখানে ‘নাই’ পদটি ‘ছিল’ [<√আছ্] ক্রিয়াপদের নিষেধাত্মক বিকল্প অর্থাৎ নাস্ত্যর্থক ক্রিয়ারূপে ব্যবহৃত হয়েছে।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘নাই’ ব্যবহারের অরো দু-চারটি দৃষ্টান্ত দেওয়া যাক্ :",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘ছেদঅ মিত্তাউলি নাই।’ —বপ্র",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘মূলঅ নাই ঘর, পুবেদি দুআর।’ —বপ্র",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "'পেংগর কুটুম থুড়র ছালন,",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নাই নাই করি থালো ঢালইন।’ —বপ্র",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পিঠা খাও, চিড়া খাও",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ভাতর লাগান নাই।' —বপ্র",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "না— কেবল বাংলা বা ভারতীয় ভাষায় নয় পৃথিবীর বহু ভাষা-উপভাষার নিষেধাত্মক উপাদান ‘ন’। বাংলায় ‘না’ অব্যয় হিসেবে পরিচিত। বরাক বাংলায় ‘না’ এর প্রয়োগ বৈচিত্র্য উল্লেখযোগ্য। যথা—",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "নাস্ত্যর্থ অসমাপিকায় <math>\\rightarrow</math>"
+      ],
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘আছাড় না খাইলে আটা হিকইন না,",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পানিত্ না লামলে হাতার হিকইন না।’—বপ্র",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নাস্ত্যর্থ সমাপিকা নির্মাণে → ‘বাড়ির গরুএ বাড়ির ঘা খায় না।’—বপ্র ‘না’ এর বিচিত্র প্রয়োগ বরাকবাংলায় অসমাপিকায় দেখা যায়। দুটি অসমাপিকা ক্রিয়াকে না-বোধক করে দিচ্ছে একটি মাত্র ‘না’।",
+      "source_page": 470,
+      "source_image": "IMG_0470.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "‘খাইয়া না ছইআ",
+          "দৃ."
+        ],
+        [
+          "লাখু মইললো ছলা বইয়া।’ —বপ্র",
+          "ধ্বন্যাত্মক শব্দজাত ক্রিয়া"
+        ]
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ধ্বন্যাত্মক শব্দকে ধাতুরূপ দিয়ে ক্রিয়াপদ নির্মাণের প্রবণতা বরাক উপত্যকার বাংলা উপভাষায় সর্বাধিক। আবার এরূপ ক্রিয়াপদ থেকে জন্ম নেয় ক্রিয়াজাত বিশেষ্য। নিচের রেখাচিত্রে তা কয়েকটি দৃষ্টান্ত দিয়ে দেখানো হল।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়াপদ গঠন",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ধ্বন্যাত্মক ধাতু",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিশেষ্য",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "√পির পির = কম্পন"
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "শিতর রাইত জাল বাইয়া এলকু হি পিরপিরার।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পিরপিরানি",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "√হির হির = শিহরণ"
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সাফ দেখলে মোর শরিল হিরহিরায়।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হিরহিরানি",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "জইবনর আগে তনে তাই তেলতেলাইত।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "√ তেল তেল = প্রগলভতা"
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তেলতেলানি",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "<math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6}</math> <math>\\sqrt{6</math> ছুগরিগুর মাথাত উকইনে বিরবিরাইত্রা।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিরবিরানি",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নরিনডো আইআ বয় জদি তে খালি ফেরফেরাইব।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "√ফের ফের = কথাবলা"
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ফেরফেরানি",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নআ মেঘে নালাত পুটিমাছে ফরফরাইত্রা।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "√ফর ফর = চঞ্চলতা"
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ফরফরানি",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "√তির তির = ক্ষীণতা"
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মাছঅগুর জান আবো তিরতিরায়।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তিরতিরানি",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "√ঝিন ঝিন = তীব্ৰ ব্যথা"
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হিংগর গালায় মোর আত ইমান কতবিল জে",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "঵িন঵িনানি",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ঝিনঝিনাইব!",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়াপদের সৃক্ষ্মতর ব্যঞ্জনাবৈভিন্ন্য",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ক. মানু আইত্রা = লোকজন আসছে।",
+        "মানু আইঅইত্রা = সভা, যাত্রা দেখা প্রভৃতি সাঙ্গ করে লোকজন চলে আসছে।",
+        "ক্রিয়া গঠন সূত্র = ধাতু + কাল বিভক্তি + পুরুষ বিভক্তি"
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "= ধাতু + কালবিভক্তি + ধাতু + কাল বিভক্তি + পুরুষ বিভক্তি [+প্রকারবিভক্তি] অনুসর্গ POST POSITION",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক উপত্যকার আঞ্চলিক বাংলা ভাষায় অনুসর্গ দুটি শ্রেণীতে ভাগ করেছি।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এক, অনুসর্গরূপে ব্যবহৃত বিশেষ্য বা বিশেষণ পদ,",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দুই, ক্রিয়াজাত পদ বা অসমাপিকা।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "প্রথম শ্রেণীতে আছে তদ্ভব বা আরো পরিবর্তিত রূপ এবং কিছু আগন্তুক অনুসর্গ। আরবি ফারসি ও দেশীয় ভাষাগত কিছু শব্দ অল্পবিস্তর পরিবর্তিত হয়ে বরাক বাংলায় অনুসর্গপদ রূপে গৃহীত হয়েছে— এগুলি ‘অতিথি’ পর্যায়ের।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এক, অনুসর্গ রূপে ব্যবহৃত বিশেষ্য ও বিশেষণকে ‘নাম অনুসর্গ’ বল্তে পারি।",
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "আগে (<অগ্ৰ; = সম্মুখে) ⇒ হকলোর আগে তাই উবাইছে।",
+        "(= প্রথমে) ⇒ ‘ডরাইলে ডরে পায় হকলোর আগে বাগে খায়।’—বপ্র।",
+        "কামে (<কৰ্ম; = নিমিত্তে/উদ্দেশ্যে) ⇒ কুনকামে তুইন নিশারাইত আইলে।",
+        "আতো (<হস্ত; = নিকটে) ⇒ ‘বাঘর আতো ছাগল বাগি।’—বপ্র।",
+        "অন্তে (<অন্তরে = তরে; = থেকে, তুল্যার্থে) ⇒ শরম আন্তে মরন ভালা।’ —বপ্র",
+        "(= জন্য, নিমিত্তার্থে) ⇒ তুমার অন্তে আমার এই দশা।",
+        "(= হতে, ব্যাপ্তার্থে) ⇒ হরু অন্তে হি এক তাইয়া।"
+      ],
+      "source_page": 471,
+      "source_image": "IMG_0471.jpg"
+    }
+  ]
+}

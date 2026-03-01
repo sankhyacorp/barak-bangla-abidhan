@@ -1,0 +1,234 @@
+[
+  {
+    "headword": "ঠিকাদার",
+    "transliteration": "thikadar",
+    "phonetics": "ṭhikadar",
+    "etymology": "[<ববাং ঠিকা + দার কর্তায়]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "যিনি ঠিকা নিয়ে কাজ করান। Contractor."
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠিকাদারি",
+    "transliteration": "thikadari",
+    "phonetics": "ṭhikadari",
+    "etymology": "[<ববাং ঠিকাদার + ই তপ্র. বৃত্তিবাচক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ঠিকাদারের কাজ বা পেশা।"
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠিল্লু",
+    "transliteration": "thillu",
+    "phonetics": "ṭhillu",
+    "etymology": "[<ববাং শব্দ ঠিললু]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "মাথার খুলির উপরিভাগ। PERIETAL BONE.",
+        "examples": [
+          "তলে দি মুড় পড়লে ঠিল্লু ফাটি জাইব।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠুআ",
+    "transliteration": "thua",
+    "phonetics": "ṭhua",
+    "etymology": "[<বাং স্ফোট < সং স্ফোটক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ফোসকা; জলভরা স্ফোটক; Blister. বাংলায় ‘ঠুশা’ ব্যঞ্জনলোপে ‘ঠুআ’।",
+        "examples": [
+          "কিতা জে অইছে তাইর সারা পাওত ঠুআ উঠি গেছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠুআ উঠা",
+    "transliteration": "thua utha",
+    "phonetics": "ṭhua uṭha",
+    "etymology": "[<ববাং ঠুআ ~ √ উঠ্]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "ফোসকা পড়া।"
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠুকা",
+    "transliteration": "thuka",
+    "phonetics": "ṭhuka",
+    "etymology": "[<বাং ঠোকা = মৃদু আঘাত]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "মৃদু আঘাত।",
+        "examples": [
+          "হাতুড়ি দিয়ে মৃদু আঘাত; আঙুল দিয়ে ঠোকা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠুকি",
+    "transliteration": "thuki",
+    "phonetics": "ṭhuki",
+    "etymology": "[<বাং ঠোকা + ই তপ্র]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "খুব আস্তে করে যে ঠোকা।"
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠুট",
+    "transliteration": "thut",
+    "phonetics": "ṭhuṭ",
+    "etymology": "[<বাং ঠোঁট < তা. তোন্টই < সং তুগু]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "পাখির চঞ্চু; ওষ্ঠ বা অধর।",
+        "examples": [
+          "শিললাগ্ন ঠূংি পি বাঁহেন পিঞা বাপা বানাগ্ন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠুট্লাঠুটলি",
+    "transliteration": "thutlathutoli",
+    "phonetics": "ṭhuṭlaṭhuṭɔli",
+    "etymology": "[<বাং ঠুট + লা ~ ঠুট + লি < বাং ঠোঁট]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কথা কাটাকাটি; মৃদু ঝগড়া। ব্যতিহার বহুব্রীহি সমাস।",
+        "examples": [
+          "হতিনে হতিনে একচুট্ ঠুটলাঠুটলি অই গেছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠুটি",
+    "transliteration": "thuti",
+    "phonetics": "ṭhuṭi",
+    "etymology": "[<বাং ঠুট + ই তপ্র. সাদৃশ্যে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ধনেশ পাখির ঠোঁটের আকারের মতো কোনো বড় টিলা বা পাহাড়ের শেষাংশ।",
+        "examples": [
+          "পেআরির বাড়ি চামটিলার ঠুটিত্। র্রুষ thul [< আশ্বঃ বাং র্রুনি = জাক্তি]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "বালিশ প্রভৃতির খোল।",
+        "examples": [
+          "বালিশর ঠুল শলইর ঠল।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠেখা",
+    "transliteration": "thekha",
+    "phonetics": "ṭhekha",
+    "etymology": "[<আঞ্চবাং. ঠেকা = বিপন্নতা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দায়।",
+        "examples": [
+          "‘ঠেখাত পড়লে রামনাম।’ — বরাকপ্রবাদ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠেটা",
+    "transliteration": "theta",
+    "phonetics": "ṭheṭa",
+    "etymology": "[<ক. তেট্ট = দুষ্টা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বেহায়া; অবাধ্য।",
+        "examples": [
+          "ঠেটা মানরে পাচাত তনে নিজে করিলাওআ ভালা। >> ক. তেট্র > আমবা. ঠেঁঠা = নির্লজ্জ; নিন্দিত (দৃ. ‘খণ্ডউ সব জঞ্জাল আর ঠেঁঠা দান।’ — কৃকী) অল্পপ্রাণিতে ববাং ঠেটা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠেটামি",
+    "transliteration": "thetami",
+    "phonetics": "ṭheṭami",
+    "etymology": "[<ববাং ঠেটা + আমি ভাবার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "নির্লজ্জের মতো আচরণ।",
+        "examples": [
+          "জাইতে নি জা, ঠেটামি করিস না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠেটি",
+    "transliteration": "theti",
+    "phonetics": "ṭheṭi",
+    "etymology": "[<ববাং ঠেটা + ই লিপ্র. স্ত্রীং]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ঠেটার স্ত্রীবাচক শব্দ। দ্র. ঠেটা।"
+      }
+    ],
+    "source_page": "IMG_0178"
+  },
+  {
+    "headword": "ঠেনঠেনাইআ",
+    "transliteration": "thenothenaia",
+    "phonetics": "ṭhenɔṭhenaia",
+    "etymology": "[<ধ্ব. ঠেন্ঠেন = কন্টবোধক]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "কোনোরকম কষ্ট করে; কষ্টেসৃষ্টে ঠিশ্গা",
+        "examples": [
+          "কৃটিনেনায় টেনটেনাইআ একমন ধানর টুকরিভার বইআ নের গি! র্ঠশ্করিশ লা ভাষার অভিধান ও ভাষাত্ত"
+        ]
+      }
+    ],
+    "source_page": "IMG_0178"
+  }
+]

@@ -1,0 +1,329 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "ট"
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টউ",
+    "transliteration": "tou",
+    "phonetics": "ṭɔu",
+    "etymology": "[< বোড়ো. তৌ, কক. তুক = পাত্র বিশেষ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "পিতলের তৈরি পুরু ও ভারী হাঁড়ি বিশেষ।",
+        "examples": [
+          "বরাক উপত্যকার বাঙালি হিন্দু ও মণিপুরিরাই কেবল ‘টউ’ ব্যবহার করেন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টক্",
+    "transliteration": "tok",
+    "phonetics": "ṭɔk",
+    "etymology": "[<ববাং টক্টক্ দ্র.]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "নেশা; অভ্যাস। ধূমপান, চা, পানসুপারি ইত্যাদি খাওয়ার অভ্যাস।",
+        "examples": [
+          "ভাত খাইআউ তান তামাকু খাইবার টক আছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টক্টক্ করা",
+    "transliteration": "toktok kora",
+    "phonetics": "ṭɔkṭɔk kɔra",
+    "etymology": "[<ধ্ব. টক্টক্ = খাওয়ার বা পান করবার ইচ্ছাবোধকা]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "আসক্তির দরুন পান করার ইচ্ছে হওয়া।",
+        "examples": [
+          "মোরে ফকির বেটায় কইলা, 'এগ্গু বিড়ি দে বা, বড় টক্টক করের।’"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টনটনি",
+    "transliteration": "tonotoni",
+    "phonetics": "ṭɔnɔṭɔni",
+    "etymology": "[<ধ্ব. টন্ টন্ = দ্রুততা সূচক]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "অল্প সময় অস্তর অস্তর; ঘন ঘন।",
+        "examples": [
+          "তাই বরি দি টনটনি পুটি লাগারি।"
+        ]
+      },
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "ক্ষিপ্রতার সঙ্গে।",
+        "examples": [
+          "ইটগুইন এগগু এগগু করি টনটনি ধইআ তুল। <mark>টক্কর</mark> ṭɔkkɔr [<হি. টক্র = ধাকা]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "প্রতিযোগিতা।",
+        "examples": [
+          "দুই মিত্তার মাজে ঢুলক বাজানির টক্কর অয়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টন্নাত্তি",
+    "transliteration": "tonnatti",
+    "phonetics": "ṭɔnnatti",
+    "etymology": "[<ধ্ব. টন্ টন্ (= দ্রুততা সূচক) + আতৃতি বিশেষণে]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "টন্ করে; পলক না-পড়তে।",
+        "examples": [
+          "হে টননাত্তি হউলগু লাগাই দিছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টন্নাররি",
+    "transliteration": "tonnarori",
+    "phonetics": "ṭɔnnarɔri",
+    "etymology": "[<দ্র. টননাত্তি]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "দ্র. টননাত্তি।",
+        "cross_references": [
+          "টননাত্তি"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টপাটপ",
+    "transliteration": "topatop",
+    "phonetics": "ṭɔpaṭɔp",
+    "etymology": "[<ধ্ব. টপটপ= দ্রুততা সূচক]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "তাড়াতাড়ি।",
+        "examples": [
+          "দিতেউ হে টপাটপ খাইলাইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টং",
+    "transliteration": "tng",
+    "phonetics": "ṭŋ",
+    "etymology": "[<প্রা. টক্ষ <সং টক্ষ = উচ্চস্থান]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "মাচা উপর ঘর।",
+        "examples": [
+          "উচুঁ মাচার উপর ঘরটি তৈরি করা হয়। বন্য শৃকর, মোষ প্রভৃতির হাত থেকে শস্যক্ষেত রক্ষার জন্য এই ঘরে বসে পাহারা দেন কৃষকরা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টংগি",
+    "transliteration": "tnggi",
+    "phonetics": "ṭŋgi",
+    "etymology": "[<ববাং টং + ই তপ্র. সাদৃশ্যে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাড়ির বাইরে অবস্থিত বৈঠকখানা।",
+        "examples": [
+          "বেরু (=বাইরের) মানরে টংগিত বআইও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টংটংগা",
+    "transliteration": "tngtngga",
+    "phonetics": "ṭŋṭŋga",
+    "etymology": "[<ধ্ব. টংটং দীর্ঘতা সূচক]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "খুব লম্বা; খুব উঁচু; শাখা-প্রশাখাহীন।"
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "⇒ তার বএশ নাই দেখতেউ টংটাংগা। ⇒ চিরির আগারো টংটংগা এক গাছ। ⇒ প্রাণী ও অপ্রাণী উভয় ক্ষেত্রেই ব্যবহৃত হয়।"
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টাইআ",
+    "transliteration": "taia",
+    "phonetics": "ṭaia",
+    "etymology": "[< আঞ্চ. বাং ঠাইআ < বাং ঠান্ডা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ঠান্ডা।",
+        "examples": [
+          "আত দিআ দেখি মা'র পাও একেরে ঠাইআ!"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "শীত।",
+        "examples": [
+          "ঠাইআর দিনো ফতাবালা ফুতনো তনে উঠিবার মনে কয় না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টাইট",
+    "transliteration": "tait",
+    "phonetics": "ṭaiṭ",
+    "etymology": "[<ইং Tight = দৃঢ়ভাবে স্থাপিত]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "খুব আটোসাটো।",
+        "examples": [
+          "টাইট জামা পিনদিস না।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "দৃঢ়ভাবে সংলগ্ন।",
+        "examples": [
+          "খুটার ছানদা টাইট অইছে না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টাইন",
+    "transliteration": "tain",
+    "phonetics": "ṭain",
+    "etymology": "[<বাং ঠাঁই < সং স্থান]",
+    "senses": [
+      {
+        "raw_text": "[<বাং ঠাঁই < সং স্থান] অনু. — নিকট; কাছে। ⇒ ইনো কেওরর টাইন টেকা পাইতায় না।"
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টাইন্ব",
+    "transliteration": "tainbo",
+    "phonetics": "ṭainbɔ",
+    "etymology": "[<প্রাবা. টা + ইন বহুবচনে < প্রা. অট্ট]",
+    "senses": [
+      {
+        "raw_text": "[<প্রাবা. টা + ইন বহুবচনে < প্রা. অট্ট] অ.প্র. — বহুত্ববোধক প্রত্যয়। মানে—গুলো, সমষ্টি, রাশি ইত্যাদি। ⇒ বইটাইন দেরুটাইন হইরোটাইন মেঘটাইন চাউলটাইন মানুশটাইন ⇒ টাইন’ এর একবচন টা’। যেমন, বইনটা চকিটা"
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টাউআ",
+    "transliteration": "taua",
+    "phonetics": "ṭaua",
+    "etymology": "[< ববাং শব্দ টাউআ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গলাধাকা।",
+        "examples": [
+          "একই টাউআয় হিগে হবাড়ি ছাড়িছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টাউআইআ",
+    "transliteration": "tauaia",
+    "phonetics": "ṭauaia",
+    "etymology": "[<ববাং টাউআ + ইআ ক্রিবিণ.]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "ঘাড়ে ধরে।",
+        "examples": [
+          "বেশ বেরাচেরা করলে টাউআইয়া খাবাইদিয়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টাউআনি",
+    "transliteration": "tauani",
+    "phonetics": "ṭauani",
+    "etymology": "[<ববাং √ টাউআ]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "ঘাড়ে ধরে ঝাঁকানো।",
+        "examples": [
+          "হি রুন্র ঘাড়ো ধরি টাউআর।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  },
+  {
+    "headword": "টাউট",
+    "transliteration": "taut",
+    "phonetics": "ṭauṭ",
+    "etymology": "[<ইং Taut = পানান]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "যে প্রতারণা করে; ধাউড়।",
+        "examples": [
+          "‘মাতে উঠে ঠুটে এমন টাউটে লইছে আমার লগ। ‘থ’ দিআ থই মনে মনে কই ট্টিংগিন পিলাগ্ন র্রা ।’ আনন্দ না ভাষার অভিধান ও ভাষাতত্ত"
+        ]
+      }
+    ],
+    "source_page": "IMG_0170"
+  }
+]

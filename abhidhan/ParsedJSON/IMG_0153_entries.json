@@ -1,0 +1,313 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "> ছুর ⇒ খবর পাইআ ছুবে দউড়িআ আইছি।"
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছুর",
+    "transliteration": "chhur",
+    "phonetics": "c∫hur",
+    "etymology": "[< প্রা. সুংড]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কীটপতঙ্গের মুখের সৃক্ষ্ম অগ্রভাগ; Antenna.",
+        "examples": [
+          "ইচার ছুর।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "শস্যাদির সৃক্ষ্ম চুলের মতো আগা।",
+        "examples": [
+          "ভেড়াপাওআ ধানর ছুর; জবর ছুর।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "সৃক্ষ্ শুঙ্গা।"
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছুর",
+    "transliteration": "chhur",
+    "phonetics": "c∫hur",
+    "etymology": "[< সং সূত্র]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "সূত্র; Clue.",
+        "examples": [
+          "রহস্য সমাধানের সূত্র।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "ছুতো; উপলক্ষ। দ্র. ছুত।"
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছুড়ানি",
+    "transliteration": "chhudo়ani",
+    "phonetics": "c∫huḍɔ়ani",
+    "etymology": "[< আঞ্চবাং ছোড়ানি < হি. ছোড়ান + ই উপায় অর্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "চাবি; তালা খোলার কাঠি।",
+        "examples": [
+          "'দেখছস বেটির ফুটানি, কমরো বান্দে ছুড়ানি।’ — বরাক ছড়া"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছুলা",
+    "transliteration": "chhula",
+    "phonetics": "c∫hula",
+    "etymology": "[< বাং ছোল = ছাল < সং ছল্লী]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "নারকোল বা সুপারির খোসা; ছোবড়া।",
+        "examples": [
+          "ধুনাবাততির লাগি ছুলা কাটিআ রাখ।"
+        ]
+      },
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "খোসা ছাড়ানো।",
+        "examples": [
+          "কূলপইত কলাখরেং ইল্ডায নি?"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেআ",
+    "transliteration": "chhea",
+    "phonetics": "c∫hea",
+    "etymology": "[< বাং ছায়া < সং ছায়া]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ছায়া।",
+        "examples": [
+          "মাধানকু ছেআ হরু অই জায়।",
+          "রইদ বড় কড়া, চল অউ আমগাছর ছেআত বই।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেই",
+    "transliteration": "chhei",
+    "phonetics": "c∫hei",
+    "etymology": "[< ববাং শব্দ ছেই]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ডান বা বাম দিকে বাঁক নেওয়ার জন্য আদেশ।",
+        "examples": [
+          "হাতি পরিচালনার পরিভাষা। ‘ছেইআও’ বলে বাঁ। পায়ে হাতির কানের কাছে মৃদু আঘাত করলে হাতি ডানদিকে মোড় নেবে। আর ডান পায়ে আঘাত করলে বাঁ দিকে ফিরবে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেতানি",
+    "transliteration": "chhetani",
+    "phonetics": "c∫hetani",
+    "etymology": "[< ববাং চেতানি মহাপ্রাণিতে]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "দ্র. চেতানি।",
+        "cross_references": [
+          "চেতানি"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেথানি",
+    "transliteration": "chhethani",
+    "phonetics": "c∫hethani",
+    "etymology": "[< ববাং চেথানি মহাপ্রাণিতে]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "দ্র. চেথানি।",
+        "cross_references": [
+          "চেথানি"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেটাং ছেটাং",
+    "transliteration": "chhetang chhetang",
+    "phonetics": "c∫heṭaŋ c∫heṭaŋ",
+    "etymology": "[< ধ্বন্যাত্মক]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "কড়া; যা শুনতে কানে বাজে।",
+        "examples": [
+          "তাইর ছেটাং ছেটাং মাত সইজজো অয় না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেটাং ছেটাং করা",
+    "transliteration": "chhetang chhetang kora",
+    "phonetics": "c∫heṭaŋ c∫heṭaŋ kɔra",
+    "etymology": "[< ধ্ব. ছেটাং ছেটাং ∼ √কর্]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "রাগ ও বিরক্তি প্রকাশ করা।",
+        "examples": [
+          "তুমি হকলসময় ছেটাং ছেটাং কর এর শালে ত কামলা টিকইন না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেত",
+    "transliteration": "chhet",
+    "phonetics": "c∫het",
+    "etymology": "[< ধ্ব. ছেত্ = সাঁতলানোর আওয়াজ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "সাঁতলানোর আওয়াজ; পিঠা ভাজার শব্দ।",
+        "examples": [
+          "ছেত ছনিআউ বুঝছি মইএ পিঠা বানাইত্রা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেত করি",
+    "transliteration": "chhet kori",
+    "phonetics": "c∫het kɔri",
+    "etymology": "[< ধ্ব. ছেত করি < অস. ক্রি. করিয়া]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "পূর্ব প্রস্তুতি ছাড়া; সামান্য কারণে।",
+        "examples": [
+          "তাইন ছেত করি হাটাই লাইছইন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেদা",
+    "transliteration": "chheda",
+    "phonetics": "c∫heda",
+    "etymology": "[< ববাং শব্দ ছেদা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "শজারু। ব্যঞ্জন লোপে ‘ছেদা’ অর্থাৎ অস্ত্রের আঘাতে যার কিছু হয় না।",
+        "examples": [
+          "শাকসবজি, কচু, আনারস প্রভৃতির মূল খাদক কাঁটাদেহী ক্ষুদ্র জন্তু বিশেষ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেদ্",
+    "transliteration": "chhed",
+    "phonetics": "c∫hed",
+    "etymology": "[< ধ্ব. ছেদ্ = অস্ত্রাঘাতের আওয়াজ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দা, তলোয়ার প্রভৃতি অস্ত্রের আঘাত। আজার ছেদে নাও <math>\\Rightarrow</math> এক ছেদে চেলি।’ — বরাক প্রবাদ"
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেদানি",
+    "transliteration": "chhedani",
+    "phonetics": "c∫hedani",
+    "etymology": "[< ধ্ব. ছেদ্]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "দা, কুড়ুল, কোদাল প্রভৃতি দিয়ে আঘাত করা।",
+        "examples": [
+          "আনদু ছেদাইলে অয় না, গাছর রগ চিনা লাগে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেন",
+    "transliteration": "chhen",
+    "phonetics": "c∫hen",
+    "etymology": "[< আঞ্চবাং ছেন = লিঙ্গ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "পুরুষের গুপ্তাঙ্গ।"
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "গালি বিশেষ।"
+      }
+    ],
+    "source_page": "IMG_0153"
+  },
+  {
+    "headword": "ছেনদা",
+    "transliteration": "chhenoda",
+    "phonetics": "c∫henɔda",
+    "etymology": "[< প্রা. ছিদ্দ < সং ছিদ্র]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ছিদ্র; যন্ত্র দিয়ে তৈরি ছিদ্র।",
+        "examples": [
+          "আগর দি অপার-হপার ছেনদা কর।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "বড় ফুটো।",
+        "examples": [
+          "নাওর ছেনদাবায় বুরবুরাইআ পানি হয়ার।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0153"
+  }
+]

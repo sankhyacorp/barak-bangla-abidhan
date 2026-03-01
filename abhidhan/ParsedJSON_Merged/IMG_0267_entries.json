@@ -1,0 +1,240 @@
+[
+  {
+    "headword": "বাজু",
+    "transliteration": "baju",
+    "phonetics": "baʒu",
+    "etymology": "[< ফা. বাজু = বাহু, পক্ষ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাহুর অলংকার বিশেষ।"
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "প্রান্ত; পার্শ্ব; দিক।",
+        "examples": [
+          "‘বারবাজু লেপাপুছা ভিতরবাজু কুমড়াপচা।' —বরাক প্রবাদ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাজুমারা",
+    "transliteration": "bajumara",
+    "phonetics": "baʒumara",
+    "etymology": "[< ববাং বাজু (<ফা. বাজু = বাহু, পক্ষ) = পার্শ ~ ববাং √ মার্ + আ কৃপ্র.]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "পক্ষাঘাত রোগ; Paralysis।",
+        "examples": [
+          "এই রোগে শরীরের কোনো অংশ বা অঙ্গ- প্রত্যঙ্গাদি অবশ বা নিষ্ক্রিয় হয়ে যায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাঝাড়",
+    "transliteration": "bajhado়",
+    "phonetics": "baʒhaḍɔ়",
+    "etymology": "[< বাং বাঁশ + ঝাড় সংকোচনে দ্র. বা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাঁশের ঝাড়।",
+        "examples": [
+          "বাঝাড়র তলে বয়ার লেটি রইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাঝার",
+    "transliteration": "bajhar",
+    "phonetics": "baʒhar",
+    "etymology": "[< দ্র. বাঝাড়]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দ্র. বাঝাড়।",
+        "cross_references": [
+          "বাঝাড়"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাট্",
+    "transliteration": "bat",
+    "phonetics": "baṭ",
+    "etymology": "[< ববাং বাটা < হি বাটনা (= ভাগ করে দেওয়া)]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "লাভের পাওনা অংশ; বখরা।",
+        "examples": [
+          "তাই বাট না পাইলে ত হাটাইবউ।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "উত্তরাধিকার সূত্রে সম্পত্তির প্রাপ্য ভাগ।",
+        "examples": [
+          "বইনাইনতে তারার বাট নিলে গি তোর আর থাকব ক জইট জমিন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাট্",
+    "transliteration": "bat",
+    "phonetics": "baṭ",
+    "etymology": "[< মবা. ঠাম = গঠন; আকার)]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "শরীরের গঠন।",
+        "examples": [
+          "তাইর শইল্লর বাট অলা সুন্দর।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাস্তুশাস্ত্র মতে ঘরের মাপ-জোখ।",
+        "examples": [
+          "পনচমি দিন ঘরর বাট লইয়া ইআন ফালাইয়ৄ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাটু",
+    "transliteration": "batu",
+    "phonetics": "baṭu",
+    "etymology": "[< ববাং শব্দ বাট]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাস্তুশাস্ত্র সম্মত গৃহনির্মাণের মাপজোখ ও ভিটার দিক নির্ণয়।",
+        "examples": [
+          "বরাক উপত্যকার লৌকিক বাস্তুশাস্ত্রের সন্ধান পাওয়া গেছে। এটি আসলে লোকমুখে প্রচলিত গৃহনির্মাণের বিধি।",
+          "কুন বাটে ঘর বানাইতায়?"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাটইআ",
+    "transliteration": "batoia",
+    "phonetics": "baṭɔia",
+    "etymology": "[<ববাং শব্দ বাটইআ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "একপ্রকার ছোট পাখি।"
+      },
+      {
+        "part_of_speech": "বাগধা. বি.",
+        "definition": "ভাগ্য।",
+        "examples": [
+          "বাটবরাত ভালা থাকলে মোর ধন মুই পাইমু।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাটলই",
+    "transliteration": "batoloi",
+    "phonetics": "baṭɔlɔi",
+    "etymology": "[< ববাং শব্দ. বাটলই]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "পিতলের পুরু হাঁড়ি; ছোট হাঁড়ি।",
+        "examples": [
+          "কর্তার লাগি উগার তনে বাটলইগু বার করি মানজো।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাটা",
+    "transliteration": "bata",
+    "phonetics": "baṭa",
+    "etymology": "[< হি. বাটনা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "ভাগ করে দেওয়া।",
+        "examples": [
+          "মাছটাইন হুমান করি বাট।"
+        ]
+      },
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "বিতরণ করা।",
+        "examples": [
+          "তারা পরসাদ বাটিত্রা। বাণে, bața [< মৈথিলি. বটু]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "পানসুপারি সাজিয়ে দেওয়ার বিশেষ আকৃতির থালা।",
+        "examples": [
+          "পানর বাটাখান জামাইবেটারে আউগাই দেও। বা"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "টাইল",
+    "transliteration": "tail",
+    "phonetics": "ṭail",
+    "etymology": "[< আঞ্চ. বাটালি অপিনিহিতি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "সিকি ইঞ্চি থেকে আড়াই ইঞ্চি চওড়া ফলা বিশিষ্ট কাঠ ছেদনের অস্ত্র বিশেষ; বাটালি; Chisel",
+        "cross_references": [
+          "টাংগি"
+        ]
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাটাম",
+    "transliteration": "batam",
+    "phonetics": "baṭam",
+    "etymology": "[< আঞ্চবাং বাটাম]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কাঠ মিস্ত্রির স্কেল। Im bullantach placeten indania"
+      }
+    ],
+    "source_page": "IMG_0267"
+  },
+  {
+    "headword": "বাত্তি",
+    "transliteration": "batti",
+    "phonetics": "batti",
+    "etymology": "[< বাং বাতি বর্ণদ্বিত্বে < সং বর্তিকা]",
+    "senses": [
+      {
+        "raw_text": "[< বাং বাতি বর্ণদ্বিত্বে < সং বর্তিকা] বি. — মীপাবনি। ⇒ '৫২৭ খ্রিস্টপূর্বান্দে কার্তিক মাসে স্বাতী নক্ষত্রে অমাবস্যার রাত্রিশেষে জৈনগুরু মহাবীরের নির্বাণ প্রাপ্তি ইইলে, তাঁহার নির্বাণ স্থান পাবা নগরীতে দীপদানোৎসব হইয়াছিল (হরিবংশ)। ইহাই দীপাবলির মূল বলিয়া উক্ত।’ ᅭ বাভাঅ."
+      }
+    ],
+    "source_page": "IMG_0267"
+  }
+]

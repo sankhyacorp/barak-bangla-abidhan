@@ -1,0 +1,324 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "ওদের খাদ্য কীটপতঙ্গ। ওরা তুলা দিয়ে সূতা তৈরি করে, গিঁটও দিতে পারে।"
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেকনি",
+    "transliteration": "tekoni",
+    "phonetics": "ṭekɔni",
+    "etymology": "[<আঞ্চ. ঠেকনা অল্পপ্রাণিতে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ঠেকিয়ে রাখবার জন্য ব্যবহৃত দড়ির গাঁট; ঠেকিয়ে রাখবার জন্য ব্যবহৃত কাঠের দণ্ড।"
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "আকার ইঙ্গিতে উদ্দেশ্য অনুমান করা; মুখের কথা শোনে ভেতরের কথা বুঝতে পারা; হাবভাবে মনোভাব বোঝা।",
+        "examples": [
+          "বছাইবুড়ায় টে কইতে টেংরা বুঝতো পারে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেকর",
+    "transliteration": "tekor",
+    "phonetics": "ṭekɔr",
+    "etymology": "[< বাং ঠোকর]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "হাতের আঙুলের পিঠ দিয়ে জোরে আঘাত।",
+        "examples": [
+          "'টেকর' সাধারণত মাথায় মারা হয়। চুলোচুলির মতো টেকর মারার প্রচলন মেয়েদের মধ্যেই বেশি।",
+          "উকইন চাবাত গিআ তুড়া লড়িলেউ তাই টেকর মারে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেকাৢ",
+    "transliteration": "tekaৢ",
+    "phonetics": "ṭekaৢ",
+    "etymology": "[<ববাং শব্দ √ টেক ধ্বন্যাত্মক]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "ডালা দিয়ে চালের গুড়ি (= চূর্ণ) বা শস্যের অনাবশ্যক অংশ বিশেষ পদ্ধতিতে পৃথক করা।",
+        "examples": [
+          "গুড়িটাইন টেকিলাও বাদে ভাজিবায়।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "অপব্যয় করা।",
+        "examples": [
+          "টেকা উড়াইও না বাদে পচতাইবায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেকাু",
+    "transliteration": "tekau",
+    "phonetics": "ṭekau",
+    "etymology": "[<বাং টাকা স্বরবিকারে < সং টঙ্ক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "টাকা, ভারতীয় মুদ্রার একক।",
+        "examples": [
+          "সেরে একটেকা কম লও।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "পয়সাকড়ি; ধন।",
+        "examples": [
+          "বেপারো লাগিআ তাইন বউত টেকা খুআইছইন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেকি",
+    "transliteration": "teki",
+    "phonetics": "ṭeki",
+    "etymology": "[<বাং টেকা + ই যুক্তার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "টাকার নোট বা মুদ্রা।",
+        "examples": [
+          "একটেকি — একটাকার নোট বা মুদ্রা পাঁচটেকি — পাঁচটাকার নোট বা মুদ্রা দশটেকি — দশ টাকার নোট একশোটেকি — একশো টাকার নোট।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেনাই",
+    "transliteration": "tenai",
+    "phonetics": "ṭenai",
+    "etymology": "[<ববাং শব্দ টেনাই]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "শরীরের স্বাভাবিক বাড় নেই এমন।",
+        "examples": [
+          "শব্দটি প্রাণী ও উদ্ভিদের ক্ষেত্রে প্রযোজ্য।",
+          "টেনাই পুআয় ভার বইতো পারব নি?"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেনাই লাগা",
+    "transliteration": "tenai laga",
+    "phonetics": "ṭenai laga",
+    "etymology": "[<ববাং টেনাই ~ √ লাগ]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "স্বাভাবিকের চেয়ে কম বাড়া।",
+        "examples": [
+          "গাছগু টেনাই লাগি রইছে ফাশউশ কুনতা দেও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেপ",
+    "transliteration": "tep",
+    "phonetics": "ṭep",
+    "etymology": "[<বাং টোপ]",
+    "senses": [
+      {
+        "raw_text": "[<বাং টোপ]"
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "মাছ ধরবার জন্য বড়শিতে গাঁথা খাদ্য। ভাত, ময়দার গুলি, সিদল, কেঁচো দিয়ে ছোটমাছের আর চেং, শিঙি, পুঁটি, চিংড়ি দিয়ে বড়মাছের টোপ বানানো হয়। ;"
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেপা",
+    "transliteration": "tepa",
+    "phonetics": "ṭepa",
+    "etymology": "[<ধ্ব. টেপ্ টেপ্ = জলবিন্দু পতনের আওয়াজা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গাছের পাতায় জমে থাকা বৃষ্টি বা কুয়াশার অজস্র জলবিন্দু।",
+        "examples": [
+          "টেপায় মোর আগচালা খাইলাইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেপা পড়া",
+    "transliteration": "tepa podo়a",
+    "phonetics": "ṭepa pɔḍɔ়a",
+    "etymology": "[<ববাং টেপা ~ √ পড়]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "গাছ থেকে অনবরত ট্যাপ্ ট্যাপ্ করে জল পড়া।"
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেপিটুলা",
+    "transliteration": "tepitula",
+    "phonetics": "ṭepiṭula",
+    "etymology": "[<ববাং টেপি ~ অনুগামী টুলা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "অতি সাধারণ শ্রেণীর মানুষজন।"
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেপি",
+    "transliteration": "tepi",
+    "phonetics": "ṭepi",
+    "etymology": "[<ববাং টেপ + ই ক্ষুদ্রার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ক্ষুদ্র; অল্প বয়সের।",
+        "examples": [
+          "কইর (= কই মাছের) টেপি (= বাচ্চা)। দ্র. পেচি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টের",
+    "transliteration": "ter",
+    "phonetics": "ṭer",
+    "etymology": "[<আঞ্চ. টের দ্র. ‘ঠারেঠোরে’]",
+    "senses": [
+      {
+        "raw_text": "[<আঞ্চ. টের দ্র. ‘ঠারেঠোরে’] বিণ, — হুঁশ।"
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টের পাবা",
+    "transliteration": "ter paba",
+    "phonetics": "ṭer paba",
+    "etymology": "[<ববাং টের ~ √ পা]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "হুঁশ হওয়া; জানতে পারা।",
+        "examples": [
+          "নিজর ঘাড়ো পড়লে হকলেউ টের পাইন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেরটেরাইআ",
+    "transliteration": "teroteraia",
+    "phonetics": "ṭerɔṭeraia",
+    "etymology": "[<ধ্ব. টের্ টের্ হেলাদোলার ভাববাচকা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "ধীরে ধীরে হেলেদোলে পা ফেলে।",
+        "examples": [
+          "শিশুর বেলায় কেবল প্রযোজ্য।",
+          "পুআয় ন'মাশো টেরটেরাইআ আটা হিখিলাইসে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেরা",
+    "transliteration": "tera",
+    "phonetics": "ṭera",
+    "etymology": "[<সং তির্যক = বাঁকা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বাঁকা [চোখের চাহনি]; সামঞ্জস্যহীন।",
+        "examples": [
+          "ছুগরিগুর দেখলাম হকতাউ ভালা খালি টেরা।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাঁকা কথা।",
+        "examples": [
+          "মালিকর টেরাচেংগামি মাতে মুই কাম ছাড়িছি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেংটোংগাইআ",
+    "transliteration": "tengtonggaia",
+    "phonetics": "ṭeŋṭoŋgaia",
+    "etymology": "[<ববাং টেংটেংআ + ইআ তপ্র সাদৃশ্যে]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "লাফিয়ে লাফিয়ে; ঠেকনা দিয়ে দিয়ে।",
+        "examples": [
+          "পা দুটি কাঠির মতো হলে বা পা আহত অথবা অস্বাভাবিক হলে ক্রিয়া বিশেষণটি প্রযোজ্য।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0175"
+  },
+  {
+    "headword": "টেংগর",
+    "transliteration": "tenggor",
+    "phonetics": "ṭeŋgɔr",
+    "etymology": "[<আঞ্চবাং টেংগর]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "পাজি; দুষ্ট। বাংলা ভাষার অভিধান ও ভাষাত ্ত"
+      }
+    ],
+    "source_page": "IMG_0175"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "headword": "বাউগ",
+    "transliteration": "baug",
+    "phonetics": "baug",
+    "etymology": "[< বাং বাঁকা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "সোজা নয় এমন; বাঁকা।",
+        "examples": [
+          "তকতা ইখানর মাঝখান বাউগ।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "কৌশল।",
+        "examples": [
+          "কুন বাউগে জনারইগুরে আটকাইতাম।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাউগে বাউগে",
+    "transliteration": "bauge bauge",
+    "phonetics": "bauge bauge",
+    "etymology": "[< ববাং বাউগ আম্রড়নো]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "ধীরে ধীরে; অনুকূল ভঙ্গিতে।",
+        "examples": [
+          "বাউগে বাউগে বার কর, নাইলে ফাটি জাইব।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাউগড়া",
+    "transliteration": "baugodo়a",
+    "phonetics": "baugɔḍɔ়a",
+    "etymology": "[< আঞ্চ. বাগুড়া অপিনিহিতি < সং বন্ধন]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "সুপারি বা নারিকেল গাছের খোল সহ পাতা। ৩আর বাউগড়া দি টাট্টি দিলে একবচ্ছর কুলায়।"
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাউগড়িআ",
+    "transliteration": "baugodo়ia",
+    "phonetics": "baugɔḍɔ়ia",
+    "etymology": "[< ববাং বাউগ + আড় + ইআ তপ্র. বৈশিষ্ট্যে < সং ভঙ্গ]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "যার হাত বা পা’দুটি সাঁড়াশির মতো বাঁকা।",
+        "examples": [
+          "বাউগড়িআ পুজন বল খেড়িত ভালা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাউড়িআ",
+    "transliteration": "baudo়ia",
+    "phonetics": "bauḍɔ়ia",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "কাজকর্মে বাঁ হাত যার বেশি চলে।",
+        "examples": [
+          "বাউড়িআ মেসতইর অইলেও কাম ভালা করে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাউটি",
+    "transliteration": "bauti",
+    "phonetics": "bauṭi",
+    "etymology": "[< আমবা. বাহুঠী = হস্তাভরণ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "হাতের বালা বিশেষ। বাউটি<sub>২</sub> bauṭi [< ববাং বাউটা + ই লিপ্র স্ত্রীং]"
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "নষ্ট চরিত্রা।",
+        "examples": [
+          "বাউটি বেটির কিতা জামাইর ঠিক থাকে নি আইজ এগগু কাইল আরগগু।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "অশিষ্ট গালি বিশেষ।",
+        "examples": [
+          "বাউটির বাউটি কানো গেশলে।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "আড্ডাবাজ মেয়ে।",
+        "examples": [
+          "বাউটি আবো ঘর লইসে না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাউটা",
+    "transliteration": "bauta",
+    "phonetics": "bauṭa",
+    "etymology": "[< ববাং আউল-বাউল = ছন্নছাড়া]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ভবঘুরে; নষ্ট চরিত্র।",
+        "examples": [
+          "বাউটা ছুগরারে পুড়ি কিগে দিত।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাউলা",
+    "transliteration": "baula",
+    "phonetics": "baula",
+    "etymology": "[< বাং বাউল = সাধক সম্প্রদায় বিশেষ + আ সম্বন্ধার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বাউল সম্বন্ধীয়; বাউলদের রচিত গীত।",
+        "examples": [
+          "পরির বাড়িত আইজ সারা রাইত বাউলা কিরতন, জাইতে নি?"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বাউন্ডুলের মতো স্বভাব যুক্ত।",
+        "examples": [
+          "বাউলা বেটাইনতরে হেংগা করি সুখ পাইতে নায।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "সঠিক পথ নির্দেশ করা; যথাযথ পন্থা বাতলে দেওয়া।",
+        "examples": [
+          "তাইরে বাউগ লাগাইআ দিছি এমনেউ জাগাত জাইব।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "পলায়নের সুযোগ খোঁজা।",
+        "examples": [
+          "তারে কামর সময় কানো পাইতায় হি গিআ হারছে, তুড়া আগে দেখছি অনো বাউগ্লা বাউগ্লি করের।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "সময় নষ্ট করা; অন্যের কাজে হস্তক্ষেপ করা; পশু করা।",
+        "examples": [
+          "বাউলাড়া দিআ তাই বিআখান আর অইতে দিলি না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাউলি",
+    "transliteration": "bauli",
+    "phonetics": "bauli",
+    "etymology": "[< ববাং শব্দ. বাউলি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "রন্ধনের হাড়ি কড়াই প্রভৃতি ধরার লোহার তৈরি সাঁড়াশি।",
+        "examples": [
+          "বাউলি দি তসলাগু লামা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাউশ",
+    "transliteration": "baush",
+    "phonetics": "bau∫",
+    "etymology": "[< বাউশ (খেত)]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "হেমন্তের শস্য; তিল, সর্বে প্রভৃতি ক্ষেত; সবজি ক্ষেত।",
+        "examples": [
+          "'আউশে রাজা নায় বাউশে রাজা।'"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাও",
+    "transliteration": "bao",
+    "phonetics": "bao",
+    "etymology": "[< আমবা. বাঅ < সং বাত]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দৃষিত হাওয়া।",
+        "examples": [
+          "বাও লাগিআ বউর শরিল ফুলিছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাও দেবা",
+    "transliteration": "bao deba",
+    "phonetics": "bao deba",
+    "etymology": "[< আমবা বাআ ~ বাং √ দে]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "কুলা দিয়ে বাতাস করা। কুকী।",
+        "examples": [
+          "চাত্লো তারা চাইরো জনে ধান বাও দিত্রা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাওআ",
+    "transliteration": "baoa",
+    "phonetics": "baoa",
+    "etymology": "[< সং √বহ্ = বাওয়া]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "আরোহণ করা।",
+        "examples": [
+          "খাসিআয় বানদরর লাখান গাছ বাইন।"
+        ]
+      },
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "নৌকা চালানো; বাওয়া।",
+        "examples": [
+          "গুলার কালো ভুর আর বুংগা বাইআ কত মানু পার করছি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  },
+  {
+    "headword": "বাওটা",
+    "transliteration": "baota",
+    "phonetics": "baoṭa",
+    "etymology": "[< ববাং বাও (=বায়ু) + উঠা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "টাটকা নয় এমন; বাসি। বাওটা সালন",
+        "examples": [
+          "বাওটা পিঠা"
+        ]
+      }
+    ],
+    "source_page": "IMG_0262"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "headword": "ফাংফুং",
+    "transliteration": "fangfung",
+    "phonetics": "faŋfuŋ",
+    "etymology": "[< আঞ্চ. ফাংফুং]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ফাঁকিবাজি।",
+        "examples": [
+          "পড়াত ফাংফুং করিও না বাদে পসতাইবায়।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ঠগ।",
+        "examples": [
+          "মেসতইরবেটা বড় ফাংফুং আপদ ফালাইআ কাম করে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফি",
+    "transliteration": "fi",
+    "phonetics": "fi",
+    "etymology": "[< বাং পিসি সংকোচন ও মহাপ্রাণিতো]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাবার বোন।",
+        "examples": [
+          "ফি' র ঘরর বইন আইসলি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফিআ",
+    "transliteration": "fia",
+    "phonetics": "fia",
+    "etymology": "[< ববাং ফি (=পিসি) +আ লিপ্র পুং]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাবার বোনের স্বামী; পিসা। স্ত্রীবাচক শব্দ ‘ফি’ থেকে গঠিত ‘ফিআ’। আরো দৃ. ⇒ মই > মউআ বইন > বউনা",
+        "examples": [
+          "ফিআর বাড়িত তনে পেরাইল তেল আনমু।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফিকা",
+    "transliteration": "fika",
+    "phonetics": "fika",
+    "etymology": "[< হি. ফীকা < প্রা. অপিক]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "দুধ মেশানো নয় যাতে।",
+        "examples": [
+          "এলকু ফিকা চা'র চল বেশ্।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "অনুজ্জ্বল। ফিটfit্ [<ইং fit = A kind of violent sickness that comes on very suddenly.]"
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "মূর্ছারোগ।",
+        "examples": [
+          "পুড়িইগু থুড়া বাদে বাদে ফিট অর।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফিআলা",
+    "transliteration": "fiala",
+    "phonetics": "fiala",
+    "etymology": "[< ববাং শব্দ ফিআলা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "শ্বেতসরিষা",
+        "examples": [
+          "হালকা হলুদ রঙের সরিষা বিশেষ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফিরা",
+    "transliteration": "fira",
+    "phonetics": "fira",
+    "etymology": "[< আঞ্চবাং √ ফির < হি. ফিরনা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "ফিরে আসা; প্রত্যাবর্তন করা।",
+        "examples": [
+          "ভূবনপাড়ো হউ জে গেশলো আর ফিরিছে না।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "প্রত্যাগমন।",
+        "examples": [
+          "বিয়ের কয়েক দিন পর বরসহ বধূর পিতৃগৃহে আগমন।",
+          "দ্র. ফিরাজাত্রা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফিরা জাত্রা",
+    "transliteration": "fira jatra",
+    "phonetics": "fira ʒatra",
+    "etymology": "[< ববাং ফিরা + জাত্রা < সং যাত্রা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দ্র. ফিরা।",
+        "cross_references": [
+          "ফিরা"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. বি.",
+        "definition": "যৌন তাড়নায় উন্মত্ত স্ত্রীগোরু।",
+        "examples": [
+          "ফিরাগাইর পুনদে পুনদে একপাল ডামা ঘুরিত্রা। ⇔ 'পাল খাবা' দ্র. ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফিরিআ",
+    "transliteration": "firia",
+    "phonetics": "firia",
+    "etymology": "[< হি. ফির্ (= আবার) + ইআ স্বার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "পুনরায়।",
+        "examples": [
+          "তুইন ফিরিআ গেলে ফিরিআ আইলে কি?"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফিরিবার",
+    "transliteration": "firibar",
+    "phonetics": "firibar",
+    "etymology": "[< হি. ফির্ ~ বাং সমার্থ আবার]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "পুনরায়; আবার।",
+        "examples": [
+          "কিতা থইআ গেশলো গি, ফিরিবার ঘুরিআ আইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফিরিলরি",
+    "transliteration": "firilori",
+    "phonetics": "firilɔri",
+    "etymology": "[< ববাং ফিরা ~ লড়া অনুগামী শব্দ]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "বারবার।",
+        "examples": [
+          "‘ঠগর-ঘরর-ঠগে (=প্রতারক) ফিরিলরি ঠগে।’ —বরাক প্রবাদ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফিশ",
+    "transliteration": "fish",
+    "phonetics": "fi∫",
+    "etymology": "[< ইং Fees = বেতন; দেয়ক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বিদ্যালয় সমূহে প্রবর্তিত বেতন, পরীক্ষার দেয়ক, গ্রন্থাগারের ফি ইত্যাদি।",
+        "examples": [
+          "মেট্টিক পরিখকার ফিশ অলা বাড়িছে।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "এক প্রকারের তাস খেলা।"
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফু",
+    "transliteration": "fu",
+    "phonetics": "fu",
+    "etymology": "[< বাং ফুঁ < সং ফুৎকার]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ফুৎকার।",
+        "examples": [
+          "চুংগাত ফু; হাখো ফু; বাশিত ফু।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "ঝাড়ফুঁক; বিষ, ভূত প্রভৃতি ঝাড়ার সময় ওঝারা মন্ত্র আবৃত্তি করতে করতে যে ফুৎকার দেয়।",
+        "examples": [
+          "থামার ফু; নজ্রর ফু; কচখার ফু।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  },
+  {
+    "headword": "ফুু",
+    "transliteration": "fuu",
+    "phonetics": "fuu",
+    "etymology": "[< ধ্ব. শুশুকের নিশ্বাসের শব্দ ‘ফু’]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "তিমি জাতীয় জলজন্তু বিশেষ; শুশুক; Dolphin I",
+        "examples": [
+          "আগে আগে বারিশাত বরাকেদি ফু উজাইতা। বাংলা ভাষার আভধান ও ভাষাতত্ত"
+        ]
+      }
+    ],
+    "source_page": "IMG_0247"
+  }
+]

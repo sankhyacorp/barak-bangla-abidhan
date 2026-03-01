@@ -1,0 +1,215 @@
+[
+  {
+    "headword": "গিথা",
+    "transliteration": "githa",
+    "phonetics": "githa",
+    "etymology": "[<বাং গাঁথা = বেঁধা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "বেঁধা ; সূঁচ দিয়ে পরপর যুক্ত করা।",
+        "examples": [
+          "কান গিথা; টেপ গিথা। মালা গিথা;"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিদড়",
+    "transliteration": "gidodo়",
+    "phonetics": "gidɔḍɔ়",
+    "etymology": "[<হি. গিধড় = শেয়াল]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "সবসময় অপরিচ্ছন্ন থাকে এমন।",
+        "examples": [
+          "গিদড়র লাখান থাকলে বেমার ত অইব। ময়য়ন্সিংহ আঞ্চলিক বাংলায় ‘গিদড়’ মানে শূকর। এখানে শূকরের অপরিচ্ছন্নতাই অর্থধারাকে প্রভাবিত করেছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিরতাইন",
+    "transliteration": "girotain",
+    "phonetics": "girɔtain",
+    "etymology": "[<ববাং গিরস (সংগৃহস্থ) + তাইন নিথ. খীশ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গৃহকর্ত্রী ; গৃহস্থের স্ত্রী।",
+        "examples": [
+          "গিরস না পাইলে গিরতাইনর আতে গুআ দিআ আইও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিরমাই",
+    "transliteration": "giromai",
+    "phonetics": "girɔmai",
+    "etymology": "[<সং গরিমন্ <সং গুরু + ইমন]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "দেমাক ; গর্ব।",
+        "examples": [
+          "জাতর গিরমাই দেখাইস না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিরধনি",
+    "transliteration": "girodhoni",
+    "phonetics": "girɔdhɔni",
+    "etymology": "[<সং - গৃধিনী = শকুন বিশেষ ; স্ত্রী শকুন]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "শকুন পাখি।",
+        "examples": [
+          "গিরধনিএ মরা জনতু খাইআ আমরার ভালা করইন। > সং ‘গৃধিনী’ মধ্যস্বরাগমে ‘গিরধনি’। অর্থপ্রসারে বিশেষধরনের শকুন বা স্ত্রী শকুন থেকে ‘শকুন পাখি’।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিরমানি",
+    "transliteration": "giromani",
+    "phonetics": "girɔmani",
+    "etymology": "[<সং গরিমন]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দ্র. গিরমাই",
+        "cross_references": [
+          "গিরমাই"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিরস্",
+    "transliteration": "giros",
+    "phonetics": "girɔs",
+    "etymology": "[<প্রাবা, ভ্রং গিরস্থ <সং গৃহস্থ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "যে চাষবাস বা ঘরবাড়ি নিয়ে থাকে: সংসারী লোক।",
+        "examples": [
+          "গিরস বাড়িত আছইন নি?"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "মালিক। >22 গুআ ⇒ ই গাইর গিরস কে বা? অপভংশে ও প্রাচীন বাংলায় ‘গিরস্থ’ শব্দটির প্রচলন ছিল এখন বরাক বাংলায় এর ব্যবহার ব্যাপক। প্রাবা. দৃ. ‘দশ গিরস্থ বলিবে অতিথ নারী , চোরা।’ — মানিকরাজার গান।"
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিরস্তি",
+    "transliteration": "girosti",
+    "phonetics": "girɔsti",
+    "etymology": "[<ববাং গিরস (<প্রাবা. গিরস্থ) + তি তপ্র. বৃত্তি অর্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গৃহস্থের কাজকর্ম; সংসারী মানুষের বৃত্তি বা ঘরবাড়ি চাষবাস।",
+        "examples": [
+          "তান বড় গিরসতি, কেরেচ লবন ছাড়া কুনতা লংদেন না।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "সংসার।",
+        "examples": [
+          "আমি বইরাগি অইলেও খেত্গিরস্তি লইআ থাকি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিরো",
+    "transliteration": "giro",
+    "phonetics": "giro",
+    "etymology": "[<ফা. গিরও = গিঁট]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বন্ধক। Ī",
+        "examples": [
+          "পিত্লর উউগু গিরো দিআ কুললে কুড়িটেকা পাইছি। Ī <math>\\gg</math> শব্দটি শ্রীহট্টেও প্রচলিত।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিড়ানি",
+    "transliteration": "gido়ani",
+    "phonetics": "giḍɔ়ani",
+    "etymology": "[<ববাং শব্দ √গিড়া]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "বাঁকা কথা শোনানো ; ব্যঙ্গ করা।",
+        "examples": [
+          "অত গিড়াইস্ না।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাঁকা কথা।",
+        "examples": [
+          "মানরে গিড়ানি ভালা নায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গিলট",
+    "transliteration": "gilot",
+    "phonetics": "gilɔṭ",
+    "etymology": "[<ববাং শব্দ. গিলট।]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "স্বাভাবিক অবস্থায় যে বস্তু নরম থাকার কথা তার মধ্যে সৃষ্টি হওয়া কঠিন অংশ।",
+        "examples": [
+          "গাল বা স্তন ইত্যাদি শরীরের নরম অংশে সৃষ্টি হওয়া কঠিন মাংসপিগু। পাকা পেঁপে, কলা প্রভৃতির ভেতর শক্ত অংশ। কোনো তরল পদার্থ জমে ভেতরে ভেতরে কঠিন হয়ে যাওয়া অংশ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  },
+  {
+    "headword": "গুআ",
+    "transliteration": "gua",
+    "phonetics": "gua",
+    "etymology": "[<আমবা. গুআ <সং গুবাক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "সুপারি। দ্র. গুটা > > 6 গুআকুটনি তোরে।' — কুকী।",
+        "cross_references": [
+          "গুটা"
+        ],
+        "examples": [
+          "গুআর আটি (= সুপারির হাট) গুআর ছই (= সুপারির ছড়া) ⇨ ‘লংকাত আশলো গুআ গিআ আনে অনুমান (= হনুমান)’ দেখিতে সুন্দর গুআ খাইতে লাগে পান।’ — বরাক গীত > আমবা. দৃ. ‘গুআ পান দিআঁ দৃতী পাঠায়ুলোঁ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0123"
+  }
+]

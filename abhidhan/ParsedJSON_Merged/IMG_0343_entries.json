@@ -1,0 +1,231 @@
+[
+  {
+    "headword": "হাপতা",
+    "transliteration": "hapota",
+    "phonetics": "ɦapɔta",
+    "etymology": "[< বাং সপ্তাহ হকারীভবনে < সং সপ্ত + অহন ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ক্রমান্বয়ে সাতদিন; সপ্তাহ।",
+        "examples": [
+          "গেল হাপতার তলপ আবো পাইছে না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হাফ",
+    "transliteration": "haf",
+    "phonetics": "ɦaf",
+    "etymology": "[< দ্র. হাফডুলা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "হাড়; নাড়ি; শরীরের কবজা।",
+        "examples": [
+          "দ্র. হাফডুলা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হাফটিআ",
+    "transliteration": "hafotia",
+    "phonetics": "ɦafɔṭia",
+    "etymology": "[< বাং ক্রিয়ারূপ সাপটিয়া]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "জাপটে; সাপের মতো বেস্টন করে। > ক্রি. রূপ সাপটিয়া হকারীভবনে > হাপটিআ মহাপ্রাণিতে হাফটিআ।",
+        "examples": [
+          "তাই নেনারে হাফটিআ ধরিআ দউড়াইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হাফডুলা",
+    "transliteration": "hafodula",
+    "phonetics": "ɦafɔḍula",
+    "etymology": "[< ববাং হাফ ~ √ডুল্]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "শরীরের হাড় বা নাড়ি স্থানচ্যুত হওয়া।",
+        "examples": [
+          "চাল তনে পড়িআ তার হাফ ডুলিছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হাবুই",
+    "transliteration": "habui",
+    "phonetics": "ɦabui",
+    "etymology": "[< বাং সবাই হকারীভবন]",
+    "senses": [
+      {
+        "part_of_speech": "সর্ব.",
+        "definition": "সকল; সবাই; সব।",
+        "examples": [
+          "আমরা হাবুই একলগে জাইমু।",
+          "হাবুই + গেছি = হাবুইগেছি (= সবগাছি)",
+          "হাবুই + তা = হাবুইতা (= সবকিছু)"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হারুইতা",
+    "transliteration": "haruita",
+    "phonetics": "ɦaruita",
+    "etymology": "[< ববাং হারুই (দ্র.) + তা (< বাং তাহা)]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "সবকিছু।",
+        "examples": [
+          "আমরা খাই জেমন গরুর লগে ঘাস, তারা হাবুইতা বুঝইন উকালতি ফাস।’ — আনন্দ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হাবুগেছি",
+    "transliteration": "habugechhi",
+    "phonetics": "ɦabugec∫hi",
+    "etymology": "[< ববাং হাবুই + গেছি < গেছা < বাং গাছা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "সবগাছি।",
+        "examples": [
+          "হাবুগেছি খের ফেনিত তুলিলাও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হামসা",
+    "transliteration": "hamosa",
+    "phonetics": "ɦamɔsa",
+    "etymology": "[< আঞ্চ. হামসায়া < ফা. হস্সায়হ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "অঞ্চল; Region।",
+        "examples": [
+          "এখানে পরগণা বা তার চেয়ে ছোট বা বড় মোটামুটি বিশেষ বৈশিষ্ট্য সম্পন্ন অঞ্চলই ‘হাম্সা’।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হামি",
+    "transliteration": "hami",
+    "phonetics": "ɦami",
+    "etymology": "[< সামী হকারী ভবনে < আমবা. সাম্বী]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দা, খুনতি, কাস্তে প্রভৃতির বাটের মুখে লাগানো গোলাকার লোহার বেড়ি। আমবা. দৃ. ‘সুবন্ধের সাম্বী হিরার বান্ধিল কাম।’ কুকী ⇒ শ্রীহট্টেও প্রচলিত।"
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হামুক",
+    "transliteration": "hamuk",
+    "phonetics": "ɦamuk",
+    "etymology": "[< বাং শামুক হকারীভবনে < সং শস্বুকা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ঝিনুক জাতীয় কঠিন আবরণযুক্ত জলচর প্রাণী বিশেষ; শামুক।",
+        "examples": [
+          "হামুক কাফনা খাইলে আসে (=হাঁসে) বারোমাস ডিম পাড়ইন। والطلاللة"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হারু",
+    "transliteration": "haru",
+    "phonetics": "ɦaru",
+    "etymology": "[< সং সার হকারীভবনে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ফলের শাঁস; কোনোকিছুর উৎকৃষ্ট অংশ; শ্রেষ্ঠ অংশ: নিষ্কর্য। ‘কালা কানাই ধলা ফুল হার ফালাইআ বাকল তুল।’ —বরাক ধাঁধা (মুরতা গাছ ও বেত) হার<sub>্</sub> har [< সং সার হকারীভবনে] ę"
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "অন্তর; মন।",
+        "examples": [
+          "হাইর মাত মাতিতেউ হারো ধরি লাইসে নি?"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "প্রকৃত।",
+        "examples": [
+          "হারকথা কইলে হকলরউ মুখ কালা অয়।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. বি.",
+        "definition": "অন্তরঙ্গ বন্ধু বা আত্মীয়।",
+        "examples": [
+          "অতদিন আমিউ তারে চাইলাম, বিআর বাদেউ হউরবাড়ির মানু তার হারর কুটুম। <"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হারা",
+    "transliteration": "hara",
+    "phonetics": "ɦara",
+    "etymology": "[< বাং সারা = সমগ্র হকারীভবনে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "সমস্ত; সমগ্র।",
+        "examples": [
+          "‘হারাদিন এলেবেলে হাই আইতে বারা ভানে।’ — বরাক প্রবাদ hara [< বাং সারা = সম্পাদন করা হারা হকারীভবনে] ড় ক্রি: — সমাপ্ত করা; সম্পন্ন করা।",
+          "ইশকুলর (স্কুল আরম্ভ হওয়ার) আগে মুই রানধা হারি জেলাউক।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  },
+  {
+    "headword": "হারা",
+    "transliteration": "hara",
+    "phonetics": "ɦara",
+    "etymology": "[< বাং সারি হকারীভবনে (দ্র. হারি<sub>১</sub>)]",
+    "senses": [
+      {
+        "raw_text": "[< বাং সারি হকারীভবনে (দ্র. হারি<sub>১</sub>)] খ বি. --- পঙ্ক্তি; সারি। s বাংলা ভাষার অভিধান ও ভাষাত ত্ত"
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "দফা; বার।",
+        "examples": [
+          "তুমি তো এক মাত্রে একশো হারা কইআ হারছো।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0343"
+  }
+]

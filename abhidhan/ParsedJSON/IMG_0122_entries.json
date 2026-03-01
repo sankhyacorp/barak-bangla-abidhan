@@ -1,0 +1,284 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "> গাবিন"
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গাবিন",
+    "transliteration": "gabin",
+    "phonetics": "gabin",
+    "etymology": "[<আঞ্চ বাং গাভিন <সং গর্ভিনী]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গর্ভবতী ; পোয়াতি।",
+        "examples": [
+          "গাবিন গাইরে হমান জাগাত ডিগ্রা দিস।",
+          "শব্দটি সাধারণত পশুদের বেলায় প্রযোজ্য। মানুষীর বেলা অশিষ্ঠার্থে। যেমন,",
+          "আরক বেটার লগে ফুতিআ গাবিন অইছত সারা গাউএ জাননইন।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "শরীর গুটিয়ে জায়গা করে দেওয়া।",
+        "examples": [
+          "তুড়া গা মারো, বুড়া বেটিগুরে বইবার দেও।."
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. বি.",
+        "definition": "শরীরের শক্তি প্রদর্শন।",
+        "examples": [
+          "কলর কাম গার গাটটামিএ অয় না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গারি",
+    "transliteration": "gari",
+    "phonetics": "gari",
+    "etymology": "[< ববাং শব্দ গারি]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "পুরু ; Thick",
+        "examples": [
+          "রাগ ইখান জেলা গারি অলা উম।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গাড়া",
+    "transliteration": "gado়a",
+    "phonetics": "gaḍɔ়a",
+    "etymology": "[<তে. গড্ড = জলের খাত]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "মাটিতে ঢুকানো।",
+        "examples": [
+          "মুগইর দি দুই বাড়ি দিলে খুটা এমনেউ গাড়িব।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গাড়াউনি",
+    "transliteration": "gado়auni",
+    "phonetics": "gaḍɔ়auni",
+    "etymology": "[<ববাং গাড়া + উনি তপ্র. ‘পূর্ণ’ / ‘লিপ্ত’ অর্থে।]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গভীর কাদাময় স্থান; গাড্ডা।",
+        "examples": [
+          "হাড়াবায় বড় গাড়াউনি বয়ার গাড়ি জাইব।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গান্দ্রাউনি",
+    "transliteration": "gandrauni",
+    "phonetics": "gandrauni",
+    "etymology": "[<ববাং গান্দ্রা + উনি তপ্র ‘পূর্ণ/ লিপ্ত’ অর্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "আবর্জনায় পরিপূর্ণ স্থান ; দুর্গন্ধময় জায়গা।",
+        "examples": [
+          "গান্দ্রাউনিত পাড়া দিছো হিনান করি আও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গাড়িআ",
+    "transliteration": "gado়ia",
+    "phonetics": "gaḍɔ়ia",
+    "etymology": "[<ববাং √গাড় + ইআ কৃপ্র. বৈশিষ্ট্যে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "অলস প্রকৃতির।",
+        "examples": [
+          "গাড়িআ মানর জিবনো কুনতা অয় না।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "অত্যস্ত অলস ও দীর্ঘসূত্র।",
+        "examples": [
+          "কামলা ইগু গাড়িআ হুঅর কুনু কাম তারেদি লাগালগ করানি জায় না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গালা",
+    "transliteration": "gala",
+    "phonetics": "gala",
+    "etymology": "[<বাং √গাল (=গলানো) <সং গল = ক্ষরিত হওয়া]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "(পাকা ফল) টিপে (বিচি) বার করা: (ছোট মাছ) টিপে (পেটের ভড়) বের করা।",
+        "examples": [
+          "কাঠলর রআগুইন গালিআ বিচি লও।",
+          "মখামাছ টাইন গালিআ ধই লাও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গালা",
+    "transliteration": "gala",
+    "phonetics": "gala",
+    "etymology": "[<বাং গাল + আ তপ্র. সম্বন্ধার্থে]",
+    "senses": [
+      {
+        "raw_text": "[<বাং গাল + আ তপ্র. সম্বন্ধার্থে]"
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "মাছের চোয়ালের তীক্ষ্ণ কাঁটা। গানা, gala (< প্র. গানা, ]"
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "লাঙলের নিম্নাংশের বাঁকা জায়গা।",
+        "examples": [
+          "গালা ফালের ঠিক উপরে ও ঈশের নিচের বাঁক।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গালামারা",
+    "transliteration": "galamara",
+    "phonetics": "galamara",
+    "etymology": "[<ববাং গালা ~ √মার]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "মাছের তীক্ষ্ণ কাঁটা দিয়ে বেঁধা।",
+        "examples": [
+          "হিংগিএ গালা মারলে শাফর লাখান বিশ উঠে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গালি",
+    "transliteration": "gali",
+    "phonetics": "gali",
+    "etymology": "[<বাং গালা (= বের করে দেওয়া) <সং গল্ (= ক্ষরণে)]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাঁধ বা আল কেটে তৈরি জল নিষ্কাশনের পথ।",
+        "examples": [
+          "পুকরির গালিত চেফা বআ, মাছ হুমাইবা।",
+          "বাং গালা + ই কৃপ্র নামপদ গঠনে > গালি।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "মনোযোগ দেওয়া।",
+        "examples": [
+          "হে গা লাগাইলে অতবিলে বেরখান অইজাইত।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গাং",
+    "transliteration": "gang",
+    "phonetics": "gaŋ",
+    "etymology": "[<আমবা. গাঙ্গ <সং গঙ্গা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "নদী। “সংস্কৃত গঙ্গা হইতে বাঙ্গালায় ‘গাঙ’ আসিয়াছে। কিন্তু গাঙ শব্দের অর্থ গঙ্গানদী নয়, যেকোনো নদী’’ —সেন। আদিমধ্যবাংলা শ্রীকৃষ্ণকীর্তনে ‘গাঙ্গ’ শব্দটি ‘গঙ্গানদী’ অর্থে [⇒ ‘তোন্দো গাঙ্গ বারানসী সরুপেঁসি জাণ।’] এবং ‘যেকোনো নদী’ অর্থেও [⇒ ‘যদি গাঙ্গ উজান বহে।’] পাই। মনে হয়, এই সময় শব্দটির অর্থ বিস্তার ঘটে ‘গঙ্গানদী’ থেকে ‘যে কোনো নদী’ . অর্থ প্রাধান্য পেয়েছে।",
+        "examples": [
+          "ববাং 'তুমি জে গাংগর মাছ আমি হউ গাংগর চিল।’ — বরাকপ্রবাদ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গাংগি",
+    "transliteration": "ganggi",
+    "phonetics": "gaŋgi",
+    "etymology": "[<আমবা. গাঙ্গ + ই তপ্র সম্বন্ধার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "নদীজাত; নদী সম্বন্ধীয়।",
+        "examples": [
+          "লাসো গাংগি মাছ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গিআইত",
+    "transliteration": "giait",
+    "phonetics": "giait",
+    "etymology": "[<সং জ্ঞাতি (= সগোত্র)অপিনিহিতি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "স্বজাতির ঘনিষ্ঠ লোক ; আত্মীয়স্বজন; একবংশের বংশধর।",
+        "examples": [
+          "ইনো জাতিগিআইত নাই থাকমু কিলা!"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  },
+  {
+    "headword": "গিআন",
+    "transliteration": "gian",
+    "phonetics": "gian",
+    "etymology": "[<আমবা. গেআন <সং জ্ঞান]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বোধ ; বোঝবার ক্ষমতা।",
+        "examples": [
+          "অততা কওআর বাদেও তাইর গিআন অইল না। >> আমবা. দৃ. ‘এভোঁহো কাহ্নাঞিঁ তোত না ভৈল"
+        ]
+      }
+    ],
+    "source_page": "IMG_0122"
+  }
+]

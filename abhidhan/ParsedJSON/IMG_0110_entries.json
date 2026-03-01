@@ -1,0 +1,304 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "গোবিন্দ।"
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুআফ",
+    "transliteration": "khuaf",
+    "phonetics": "khuaf",
+    "etymology": "[<ফা. খবাব = স্বপ্ন]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দিবাস্বপ্ন; কল্পনা।",
+        "examples": [
+          "ই কানডো চখুর আগে দেখছি, খুআফ নায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "র",
+    "transliteration": "r",
+    "phonetics": "r",
+    "etymology": "[<ববাং √খু = সেঁদিয়ে যাওয়া ; লুকিয়ে পড়া]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "সেঁদিয়ে যাওয়া ; লুকিয়ে থাকা।",
+        "examples": [
+          "‘খাসলত জায় না মইললে, কাথার তলে খুইলে।’ — বরাকপ্রবাদ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুআনি",
+    "transliteration": "khuani",
+    "phonetics": "khuani",
+    "etymology": "[<দ্র. কুআনি]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "দ্র. কুআনি।",
+        "cross_references": [
+          "কুআনি"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুচ",
+    "transliteration": "khuch",
+    "phonetics": "khuc∫",
+    "etymology": "[< সং কুঞ্চন (√ কুঞ্চ)]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ভাঁজ পড়েছে এমন। ‘মুখ কালা কপাল খুচ, এরে দেখলে তিন দুশ।’—বরাকপ্রবাদ বি — ভাঁজ।",
+        "examples": [
+          "হাড়িত (= শাড়িতে) খুচ ধরছে, ভাংগো।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুচ ধরা",
+    "transliteration": "khuch dhora",
+    "phonetics": "khuc∫ dhɔra",
+    "etymology": "[<ববাং খুচ ~ √ধর]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "চামড়ায় বা কাপড়ে অনাকাঙ্ক্ষিত ভাঁজ পড়া; জরাগ্রস্ত হওয়া।",
+        "cross_references": [
+          "খুচ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুচি",
+    "transliteration": "khuchi",
+    "phonetics": "khuc∫i",
+    "etymology": "[<ববাং খুচ (= ভাঁজ) + ই তপ্র স্বার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "নিপাট ভাঁজ।",
+        "examples": [
+          "হমান করি হাড়ির খুচি দে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুচি দেবা",
+    "transliteration": "khuchi deba",
+    "phonetics": "khuc∫i deba",
+    "etymology": "[<ববাং খুচি ~ √ দে]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "নিপাট করে ভাঁজ করা।",
+        "examples": [
+          "দ্র. খুচি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুচিধরা",
+    "transliteration": "khuchidhora",
+    "phonetics": "khuc∫idhɔra",
+    "etymology": "[<ববাং খুচ = কোঁচড় ~ √ধর + আ কৃপ্র. কর্তায়]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "যে বা যারা শিশুসন্তান চুরি করে নিয়ে যায়; ছেলেধরা।",
+        "examples": [
+          "হরুতারে একলা ছাড়িঅ না, খুচিধরা বারইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "রুজনাউলি",
+    "transliteration": "rujonauli",
+    "phonetics": "ruʒɔnauli",
+    "etymology": "[<ববাং √ খুজ (= যাচ্ঞা করা)-ন- আ + উলি কর্তায়। বি.,]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "যে চায়; যাচক।",
+        "examples": [
+          "'কার বাড়িত কিতা ধরে, তারা জানইন ভালা, এর উফরে রাইত পুআইলে খুজনাউলির জালা।’ — আনন্দ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "র্জা্",
+    "transliteration": "rja",
+    "phonetics": "rʒa",
+    "etymology": "[<বাং √ খুঁজ + আ]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "সন্ধান করা।",
+        "examples": [
+          "দুইদিন তনে হে তার কাউক্নি খুজের, পার না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "অন্বেষণ।",
+        "examples": [
+          "খুজার বাদে পাইলে পাইলায়, না পাইলে আইও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুজা",
+    "transliteration": "khuja",
+    "phonetics": "khuʒa",
+    "etymology": "[<দ্র. খুজা,]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "চাওয়া; যাচ্ঞা করা।",
+        "examples": [
+          "গাছো কুন্তা ধরলেউ মানে খুজইন।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "যাচ্না। বাংলায় দাঁড়িয়েছে ‘চাওয়া’।",
+        "examples": [
+          "মানর গেছে টেকা খুজা মোর শরম লাগে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুটা",
+    "transliteration": "khuta",
+    "phonetics": "khuṭa",
+    "etymology": "[<সং কৃট = বৃক্ষ > বৃক্ষকাণ্ড]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কাঠ বা বাঁশের খুঁটি বৃহদার্থে খুটা। খুটা ৢkhuṭa [< ধ্ব. খুট্ খুট্ শস্যাদি কুড়ানোর শব্দ]"
+      },
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "ঠোঁট দিয়ে কুড়িয়ে খাওয়া।",
+        "examples": [
+          "পারয় সারা ধান খুটিলাইছে। — কুড়ানো।",
+          "কেনে ছিত্রাইলে, হলে (জলিদ) খুটিলা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুটা দেবা",
+    "transliteration": "khuta deba",
+    "phonetics": "khuṭa deba",
+    "etymology": "[<ববাং খুটা ~ √দে]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "দোষ দেওয়া ; গঞ্জনা দেওয়া। থেকেই আঞ্চলিক বাংলায় খুঁটা > ববাং খুটা। খুটি ধরা — বাগধা. ক্রি. -— কর্দমাক্ত পিচ্ছিল স্থানে পায়ের বুড়ো আঙুল দিয়ে চাপ দিয়ে ধরা বা চলা।",
+        "examples": [
+          "তাই মোরে হুদদাহুদদি খুটা দিল।",
+          "হে কুনুরকম খুটি ধরিয়া পাড়া দের।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুটির জুর",
+    "transliteration": "khutir jur",
+    "phonetics": "khuṭir ʒur",
+    "etymology": "[<ববাং খুটি ~ জুর <বাং জোর]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "চলার শক্তি।",
+        "examples": [
+          "খুটির জুর নাই, নাইলে পুআর আতেদি চাইলাম না অনে।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "দোষ বার করা।",
+        "examples": [
+          "মোর হড়িএ হকলতাত খুত কাড়ইন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুতি",
+    "transliteration": "khuti",
+    "phonetics": "khuti",
+    "etymology": "[< ববাং শব্দ খুতি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "খুচরো পয়সা রাখার ছোট থলে।",
+        "examples": [
+          "তুমার খুতিত্ কতর ভাংতি আছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  },
+  {
+    "headword": "খুদ্মানিক",
+    "transliteration": "khudmanik",
+    "phonetics": "khudmanik",
+    "etymology": "[<আঞ্চ বাং ক্ষুদেমানি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ছোট থানকুনি।",
+        "examples": [
+          "‘এইটি মণ্ডুকপর্ণী, যাকে আমরা চলতি কথায় থুলকুড়ি বা থানকুনি বলি। কোচবিহার অঞ্চলে একে বলে মানামানি, অবশ্য বাংলা ও মালাবার ভিন্ন এই"
+        ]
+      }
+    ],
+    "source_page": "IMG_0110"
+  }
+]

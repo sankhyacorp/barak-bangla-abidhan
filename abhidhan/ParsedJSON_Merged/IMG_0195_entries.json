@@ -1,0 +1,241 @@
+[
+  {
+    "headword": "তিত্নি",
+    "transliteration": "titni",
+    "phonetics": "titni",
+    "etymology": "[<আঞ্চ. তিত্নি]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "অতি ক্ষুদ্র।",
+        "examples": [
+          "তিতনি পুঁটি খাবা জায় না।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "পোনামাছ; শিশু; ছানাপোনা।"
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিতপুটি",
+    "transliteration": "titoputi",
+    "phonetics": "titɔpuṭi",
+    "etymology": "[<ববাং তিত্নি + পুটি সংকোচনে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ছোট আকারের পুঁটিমাছ বিশেষ। দ্র. পুটি।",
+        "cross_references": [
+          "পুটি"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিথি",
+    "transliteration": "tithi",
+    "phonetics": "tithi",
+    "etymology": "[< ববাং শব্দ তিথি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বিনুনি; সাপের মতো লম্বা করে বাঁধা চুল।",
+        "examples": [
+          "তাইর চুল গারি আর লামবা, তিথি বলিলে পরির লাখান দেখা জায়।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা.",
+        "definition": "নাবালক ছেলে; অল্পবয়সি ছেলে। দ্র. আংলা।",
+        "examples": [
+          "'তিন আংলা ছাগি, মাত হুনো তার। বড় মানর লগে তর্কো, মুর্খো কুথাকার।’ আনন্দ"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "একাধিক মাধ্যমে কার্যসিদ্ধি করা।",
+        "examples": [
+          "মাতিআ লাভ নাই, সরকারি টেকাগুইন উগাইছি তিন কুটায় বাইংগন পাড়িআ।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "সামান্য লোক।",
+        "examples": [
+          "তিন না তেরো, হে কয় বুড়াইল নাও একলাউ তুলিলাইব।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিনপনচাশ",
+    "transliteration": "tinoponochash",
+    "phonetics": "tinɔpɔnɔc∫a∫",
+    "etymology": "[<ববাং তিনা + পইনচাশ < সং ত্রিপঞ্চাশৎ]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "৫৩ সংখ্যা বা সংখ্যক।"
+      },
+      {
+        "part_of_speech": "বাগধা. বি.",
+        "definition": "অপরিণত বিচারবুদ্ধি।",
+        "examples": [
+          "‘ছকুড়ি গুলামর তিনপাবা আকল।’ --বরাক প্রবাদ"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. বি.",
+        "definition": "অতি জ্ঞানবৃদ্ধর পরামর্শ ও উপদেশ।",
+        "examples": [
+          "'তিনমুড়িলার বুদ্ধি লইও, আর গরাসে গরাসে মাছর মুড়ি খাইও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিন মুড়িলা",
+    "transliteration": "tin mudo়ila",
+    "phonetics": "tin muḍɔ়ila",
+    "etymology": "[<বাং তিন ~ ব্বাং মুঢ় + ই তপ্র. স্বার্থে + লা তপ্র. যুক্তার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বয়সে এবং জ্ঞানে অতিবৃদ্ধ। জেগে ওঠে এবং মাথা হাঁটু নিচে অবনমিত হয় তখনই তাকে বলা হয় ‘তিনমুড়িলা’।",
+        "examples": [
+          "বৃদ্ধ হতে হতে যখন পিঠের কুঁজ মাথার মতো বরাক উপত্যকার আঞ্চলিক বা ."
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিনা",
+    "transliteration": "tina",
+    "phonetics": "tina",
+    "etymology": "[<প্রাবা. তিণা < প্রা. তিন্নি < সং ত্রীনি]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "৩ সংখ্যক।",
+        "examples": [
+          "বরাক উপত্যকায় বিভিন্ন গণনায় ‘তিন’ এর প্রাচীনতর রূপটি এখনো বজায় আছে। যেমন ডাংগুলি খেলার গণনায় — গাইআ, দুইআ, তিনা, চারা, পান্জা ইত্যাদি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিনবেংগা",
+    "transliteration": "tinobengga",
+    "phonetics": "tinɔbeŋga",
+    "etymology": "[<বাং তিন ~ ভাঙা < সং <u>ত্রিভঙ্গা</u>]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বাঁকা ও কুৎসিত।",
+        "examples": [
+          "তিনবেংগা ডাল তিনবেংগা শরিল"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিরতির",
+    "transliteration": "tirotir",
+    "phonetics": "tirɔtir",
+    "etymology": "[<ধ্ব. তির্তির্ = ক্ষীণতা ব্যঞ্জক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ক্ষীণ প্রবাহ ব্যঞ্জক; ক্ষীণ জলম্রোতের শব্দ।",
+        "examples": [
+          "গাং হুকাই গেছে, তিরতির পানি জার।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ক্ষীণ জলম্রোত সম্পন্ন।",
+        "examples": [
+          "তিরতির গাং।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তির",
+    "transliteration": "tir",
+    "phonetics": "tir",
+    "etymology": "[<ববাং শব্দ তির]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "আড়কাঠ; beam.",
+        "examples": [
+          "এক ঝাউকরার তিরে শুল্লো বছর কুলাইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিরিতিরি",
+    "transliteration": "tiritiri",
+    "phonetics": "tiritiri",
+    "etymology": "[<ধ্ব. তর তর বেগসূচক আদরে ই’]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "হাঁস-মুরগির ছাওকে ডাকার সংকেত ধ্বনি।"
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "শাখাশুন্য ও লম্বা।",
+        "examples": [
+          "'ইরি ইরি বিন্না তিরি তিরি গাছ বাড়ির বিন্না চব্বিশ আত। -বরাক ধাঁধা (সুপারি গাছ)"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিরাশ",
+    "transliteration": "tirash",
+    "phonetics": "tira∫",
+    "etymology": "[<ভ্রং তৃষা < সং তৃষ্ণা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "জল পানের ইচ্ছা; পিপাসা। সে সুখ সায়র দৈবে শুকায়ল তিয়াসে পরাণ যায়।' —চণ্ডীদাস",
+        "examples": [
+          "তিরাশে বুক ফাটি জার।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  },
+  {
+    "headword": "তিরাশি",
+    "transliteration": "tirashi",
+    "phonetics": "tira∫i",
+    "etymology": "[<ববাং তিরাশ (= তৃষ্ণা) + ই ত ্র বিশেষণা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "পিপাসা পেয়েছে এমন; তৃষ্ণার্ত।",
+        "examples": [
+          "'ভুখাশির ভাত আর তিরাশির পানি, এরে জে দান করে বেহেস্তের নিশানি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0195"
+  }
+]

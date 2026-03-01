@@ -1,0 +1,4185 @@
+<!-- © সাংখ্য চক্রবর্তী (Sankhya Chakravarty). All rights reserved. -->
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>বরাক উপত্যকার আঞ্চলিক বাংলা ভাষার অভিধান</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;600;700&display=swap" rel="stylesheet">
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<style>
+:root {
+  --bg: #ffffff;
+  --card-bg: #ffffff;
+  --border: #dcdcdc;
+  --accent: #052962;
+  --accent-light: #506991;
+  --accent-highlight: #c70000;
+  --brand-yellow: #ffe500;
+  --text: #121212;
+  --text-light: #707070;
+  --highlight: #ffe500;
+  --shadow: rgba(18,18,18,0.04);
+  --pos-bg: #f0f0f0;
+  --example-bg: #fafafa;
+  --nav-bg: #052962;
+  --nav-text: #ffffff;
+  --rule: #c6c6c6;
+  --serif: 'Noto Serif Bengali', Georgia, 'Times New Roman', serif;
+  --sans: 'Noto Sans Bengali', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: var(--serif);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Masthead ──────────────────────────────────────────── */
+.masthead {
+  background: var(--nav-bg);
+  color: var(--nav-text);
+  text-align: center;
+  padding: 18px 24px 14px;
+  border-bottom: 4px solid var(--brand-yellow);
+}
+.masthead h1 {
+  font-family: var(--serif);
+  font-size: 1.55rem;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+  line-height: 1.3;
+}
+
+/* ─── Home Page (Guardian-style) ────────────────────────── */
+.home-container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0 20px 60px;
+}
+/* Headline block with book cover */
+.home-headline {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  border-top: 4px solid var(--brand-yellow);
+  padding: 36px 0 28px;
+  margin-bottom: 0;
+}
+.home-headline-cover {
+  width: 180px;
+  min-width: 180px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  border: 1px solid var(--rule);
+}
+.home-headline-text h2 {
+  font-family: var(--serif);
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+  margin-bottom: 14px;
+}
+.home-headline-text .home-standfirst {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  color: var(--text-light);
+  line-height: 1.55;
+  max-width: 700px;
+}
+.home-byline {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 0;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 32px;
+  font-family: var(--sans);
+  font-size: 0.88rem;
+}
+.home-byline-name {
+  font-weight: 700;
+  color: var(--accent);
+  font-size: 1.15rem;
+}
+.home-byline-meta {
+  color: var(--text-light);
+  font-size: 0.78rem;
+}
+.home-byline-badge {
+  display: inline-block;
+  background: var(--brand-yellow);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 2px;
+  letter-spacing: 0.3px;
+  margin-left: auto;
+}
+/* Stats row — minimal Guardian pillar style */
+.home-stats-bar {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-top: 1px solid var(--accent);
+  margin-bottom: 32px;
+}
+.home-stat {
+  padding: 16px 12px;
+  border-right: 1px solid var(--rule);
+  text-align: left;
+}
+.home-stat:last-child { border-right: none; }
+.home-stat-num {
+  font-family: var(--serif);
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: var(--accent);
+  line-height: 1.1;
+}
+.home-stat-label {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  color: var(--text-light);
+  margin-top: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+/* Cards — Guardian section links */
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  margin-bottom: 40px;
+  border-top: 1px solid var(--accent);
+}
+.home-card {
+  background: #f6f6f6;
+  border-right: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  padding: 20px 16px 24px;
+  cursor: pointer;
+  transition: background 0.15s;
+  text-align: left;
+}
+.home-card:last-child { border-right: none; }
+.home-card:hover { background: #fff7cc; }
+.home-card::before {
+  content: '';
+  display: block;
+  width: 48px;
+  height: 3px;
+  background: var(--brand-yellow);
+  margin-bottom: 12px;
+}
+.home-card-icon {
+  font-size: 1.6rem;
+  margin-bottom: 6px;
+}
+.home-card-title {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 6px;
+  line-height: 1.25;
+}
+.home-card-desc {
+  font-family: var(--sans);
+  font-size: 0.76rem;
+  color: var(--text-light);
+  line-height: 1.5;
+}
+/* About — editorial body */
+.home-about {
+  border-top: 1px solid var(--accent);
+  padding: 24px 0 28px;
+  margin-bottom: 32px;
+}
+.home-about h3 {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 14px;
+}
+.home-about p {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  color: var(--text);
+  line-height: 1.85;
+  margin-bottom: 12px;
+  max-width: 720px;
+}
+.home-about p strong { color: var(--accent); }
+/* Author bio — feature box */
+.home-author-bio {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+  background: #f6f6f6;
+  padding: 28px;
+  margin-bottom: 36px;
+  border-top: 3px solid var(--brand-yellow);
+}
+.home-author-bio img {
+  width: 160px;
+  min-width: 160px;
+  height: auto;
+  border-radius: 4px;
+  border: 3px solid #fff;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+}
+.home-author-bio-text h3 {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+.home-author-bio-text p {
+  font-family: var(--serif);
+  font-size: 0.88rem;
+  color: #333;
+  line-height: 1.75;
+}
+.home-author-bio-text a {
+  color: var(--accent);
+  font-family: var(--sans);
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+.home-author-bio-text a:hover { text-decoration: underline; }
+/* Footer */
+.home-footer {
+  border-top: 1px solid var(--rule);
+  padding-top: 16px;
+  text-align: center;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  color: var(--text-light);
+}
+@media (max-width: 700px) {
+  .home-headline { flex-direction: column; align-items: center; text-align: center; gap: 20px; }
+  .home-headline-cover { width: 140px; min-width: 140px; }
+  .home-headline-text h2 { font-size: 1.6rem; }
+  .home-headline-text .home-standfirst { font-size: 0.98rem; }
+  .home-cards { grid-template-columns: 1fr 1fr; }
+  .home-card { border-right: none; border-left: none; }
+  .home-card:nth-child(odd) { border-right: 1px solid var(--rule); }
+  .home-stats-bar { grid-template-columns: repeat(2, 1fr); }
+  .home-stat:nth-child(2) { border-right: none; }
+  .home-author-bio { flex-direction: column; align-items: center; text-align: center; }
+  .home-author-bio img { width: 130px; min-width: 130px; height: 130px; }
+  .home-container { padding: 0 14px 40px; }
+  .home-byline { flex-wrap: wrap; }
+  .home-byline-badge { margin-left: 0; margin-top: 4px; }
+}
+
+/* ─── Toolbar ───────────────────────────────────────────── */
+.toolbar {
+  background: #fff;
+  border-bottom: 1px solid var(--rule);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  height: 44px;
+}
+.mode-toggle { display: flex; gap: 0; margin-right: auto; }
+.mode-btn {
+  padding: 10px 22px;
+  border: none;
+  background: transparent;
+  color: var(--text-light);
+  cursor: pointer;
+  font-size: 0.88rem;
+  font-family: var(--sans);
+  font-weight: 600;
+  transition: all 0.15s;
+  border-bottom: 3px solid transparent;
+  line-height: 1;
+}
+.mode-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+.mode-btn:hover:not(.active) { color: var(--text); }
+.stats {
+  font-family: var(--sans);
+  font-size: 0.73rem;
+  color: var(--text-light);
+  white-space: nowrap;
+}
+.settings-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+  color: var(--text-light);
+  flex-shrink: 0;
+}
+.settings-bar button {
+  background: transparent;
+  border: 1px solid var(--rule);
+  color: var(--text-light);
+  font-size: 0.72rem;
+  padding: 4px 12px;
+  border-radius: 100px;
+  cursor: pointer;
+  font-family: var(--sans);
+  font-weight: 600;
+  transition: all 0.15s;
+}
+.settings-bar button:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+.user-name {
+  font-family: var(--sans); color: var(--text-light);
+  font-size: 0.75rem; cursor: pointer; font-weight: 600;
+}
+.user-name:hover { color: var(--accent); }
+
+/* ─── Mode containers ───────────────────────────────────── */
+#dictMode, #prabadMode {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 0;
+}
+#prabadMode { display: none; }
+#introMode { display: none; }
+#bhashaMode { display: none; }
+
+/* ─── Intro Mode Layout ─────────────────────────────────── */
+.intro-layout {
+  display: flex;
+  min-height: calc(100vh - 120px);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.intro-sidebar {
+  width: 260px;
+  min-width: 220px;
+  border-right: 1px solid var(--rule);
+  background: #fafafa;
+  padding: 18px 0;
+  position: sticky;
+  top: 44px;
+  height: calc(100vh - 44px);
+  overflow-y: auto;
+}
+.intro-sidebar-title {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--accent-light);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 0 20px 10px;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 6px;
+}
+.intro-tree { list-style: none; padding: 0; margin: 0; }
+.intro-tree-item {
+  padding: 10px 20px 10px 24px;
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  color: var(--text);
+  cursor: pointer;
+  border-left: 3px solid transparent;
+  transition: all 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.intro-tree-item:hover {
+  background: #f0f0f0;
+  color: var(--accent);
+}
+.intro-tree-item.active {
+  background: #e8eef6;
+  color: var(--accent);
+  border-left-color: var(--accent);
+  font-weight: 600;
+}
+.intro-tree-icon {
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+.intro-tree-pages {
+  font-size: 0.7rem;
+  color: #888;
+  font-weight: 400;
+  margin-left: 2px;
+}
+/* Collapsible section header */
+.intro-tree-section {
+  padding: 10px 20px 10px 24px;
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  color: var(--text);
+  cursor: pointer;
+  border-left: 3px solid transparent;
+  transition: all 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  user-select: none;
+}
+.intro-tree-section:hover { background: #f0f0f0; color: var(--accent); }
+.intro-tree-section.expanded { border-left-color: var(--accent); color: var(--accent); font-weight: 600; }
+.intro-tree-section .intro-tree-arrow {
+  font-size: 0.6rem;
+  transition: transform 0.2s;
+  flex-shrink: 0;
+  color: #999;
+  width: 10px;
+  text-align: center;
+}
+.intro-tree-section.expanded .intro-tree-arrow { transform: rotate(90deg); }
+/* Page sub-items */
+.intro-tree-pages-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.25s ease;
+}
+.intro-tree-pages-list.open { max-height: 500px; }
+.intro-tree-page {
+  padding: 5px 20px 5px 52px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: #555;
+  cursor: pointer;
+  border-left: 3px solid transparent;
+  transition: all 0.15s;
+}
+.intro-tree-page:hover { background: #f0f0f0; color: var(--accent); }
+.intro-tree-page.active {
+  background: #e8eef6;
+  color: var(--accent);
+  border-left-color: var(--accent);
+  font-weight: 600;
+}
+.intro-content {
+  flex: 1;
+  padding: 32px 40px;
+  max-width: 820px;
+  overflow-y: auto;
+}
+.intro-section-title {
+  font-family: var(--serif);
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.intro-section-title::after {
+  content: '';
+  display: block;
+  height: 4px;
+  background: var(--brand-yellow);
+  width: 48px;
+  margin-top: 8px;
+}
+.intro-section-meta {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--text-light);
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--rule);
+}
+.intro-page-block {
+  margin-bottom: 28px;
+}
+.intro-page-label {
+  font-family: var(--sans);
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--text-light);
+  letter-spacing: 0.5px;
+  margin: 20px 0 6px;
+  padding: 4px 10px;
+  background: #f5f5f5;
+  border-left: 3px solid var(--brand-yellow);
+  display: inline-block;
+}
+.intro-page-text {
+  font-family: var(--serif);
+  font-size: 1rem;
+  line-height: 2;
+  color: var(--text);
+  text-align: justify;
+}
+.intro-page-text p {
+  margin-bottom: 4px;
+}
+.intro-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  color: var(--text-light);
+  font-family: var(--sans);
+  font-size: 1rem;
+}
+@media (max-width: 768px) {
+  .intro-layout { flex-direction: column; }
+  .intro-sidebar {
+    width: 100%; height: auto; position: relative; top: 0;
+    border-right: none; border-bottom: 1px solid var(--rule);
+    padding: 10px 0;
+  }
+  .intro-tree-item { padding: 8px 16px 8px 20px; font-size: 0.82rem; }
+  .intro-tree-section { padding: 8px 16px 8px 20px; font-size: 0.82rem; }
+  .intro-tree-page { padding: 4px 16px 4px 42px; font-size: 0.75rem; }
+  .intro-content { padding: 20px 16px; }
+  .intro-section-title { font-size: 1.4rem; }
+}
+
+/* ─── Bhashatattwa Mode (page-based viewer with formatting) ── */
+.bhasha-page-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--brand-yellow);
+}
+.bhasha-page-header .page-title {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.bhasha-page-header a {
+  color: var(--accent-light);
+  text-decoration: none;
+  font-size: 0.8rem;
+}
+.bhasha-page-header a:hover { text-decoration: underline; }
+.bhasha-block-heading {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin: 28px 0 10px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid var(--brand-yellow);
+}
+.bhasha-block-section-title {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--accent-light);
+  margin: 20px 0 8px;
+}
+.bhasha-block-numbered {
+  font-family: var(--serif);
+  font-size: 1rem;
+  line-height: 1.9;
+  color: var(--text);
+  margin: 14px 0 6px;
+  padding-left: 8px;
+  border-left: 3px solid var(--accent-light);
+}
+.bhasha-block-paragraph {
+  font-family: var(--serif);
+  font-size: 1rem;
+  line-height: 1.9;
+  color: var(--text);
+  margin: 8px 0;
+  text-align: justify;
+}
+.bhasha-block-example-group {
+  margin: 10px 0 10px 20px;
+  padding: 10px 16px;
+  background: #f7f9fb;
+  border-left: 3px solid #b0c4de;
+  border-radius: 0 6px 6px 0;
+}
+.bhasha-example-item {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: #333;
+  padding: 2px 0;
+}
+.bhasha-example-item .arrow {
+  color: var(--accent-highlight);
+  font-weight: 700;
+  padding: 0 4px;
+}
+.bhasha-block-sub-examples {
+  margin: 8px 0 8px 28px;
+}
+.bhasha-sub-item {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: #333;
+  padding: 2px 0 2px 12px;
+  border-left: 2px solid #ddd;
+  margin: 2px 0;
+}
+.bhasha-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0 16px;
+  font-family: var(--serif);
+  font-size: 0.92rem;
+}
+.bhasha-table th {
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  text-align: left;
+  padding: 8px 14px;
+  font-size: 0.85rem;
+  letter-spacing: 0.3px;
+}
+.bhasha-table td {
+  padding: 7px 14px;
+  border-bottom: 1px solid #e8e8e8;
+  vertical-align: top;
+  line-height: 1.6;
+}
+.bhasha-table tr:nth-child(even) td {
+  background: #f9f9fb;
+}
+.bhasha-table tr:hover td {
+  background: #eef3fa;
+}
+@media (max-width: 768px) {
+  .bhasha-block-heading { font-size: 1.15rem; }
+  .bhasha-table { font-size: 0.82rem; }
+  .bhasha-table th, .bhasha-table td { padding: 5px 8px; }
+  .bhasha-block-example-group { margin-left: 8px; padding: 8px 10px; }
+}
+
+/* ─── Bhasha Edit Mode ──────────────────────────────────── */
+.bhasha-full-layout {
+  max-width: none !important;
+}
+.bhasha-full-layout .intro-content {
+  max-width: none;
+}
+.bhasha-edit-split {
+  display: flex;
+  gap: 0;
+  height: calc(100vh - 56px);
+  width: 100%;
+}
+.bhasha-edit-editor-pane {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  min-width: 0;
+}
+.bhasha-edit-img-pane {
+  flex: 0 0 42%;
+  overflow: auto;
+  background: #1a1a1a;
+  border-left: 3px solid var(--brand-yellow);
+  position: relative;
+}
+.bhasha-edit-img-pane img {
+  width: 100%;
+  display: block;
+  cursor: zoom-in;
+}
+.bhasha-edit-img-pane img.zoomed {
+  width: 200%;
+  cursor: zoom-out;
+}
+.bhasha-edit-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  padding: 4px 8px;
+  background: #f5f5f7;
+  border-bottom: 1px solid #ddd;
+  align-items: center;
+}
+.bhasha-edit-toolbar button {
+  border: 1px solid #ccc;
+  background: #fff;
+  border-radius: 4px;
+  padding: 3px 7px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: #333;
+  line-height: 1.3;
+  min-width: 26px;
+  transition: background 0.15s;
+}
+.bhasha-edit-toolbar button:hover {
+  background: #e8e8ec;
+  border-color: #999;
+}
+.bhasha-edit-toolbar button.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+.bhasha-edit-toolbar .tb-sep {
+  width: 1px;
+  height: 20px;
+  background: #ccc;
+  margin: 0 3px;
+}
+.bhasha-edit-toolbar .tb-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  align-items: center;
+  width: 100%;
+  padding: 1px 0;
+}
+.bhasha-edit-toolbar input[type="color"] {
+  width: 24px; height: 22px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 0;
+  cursor: pointer;
+  vertical-align: middle;
+}
+.bhasha-edit-toolbar input[type="number"] {
+  width: 42px;
+  padding: 3px 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  text-align: center;
+}
+.bhasha-spell-panel {
+  display: none;
+  background: #fffbe6;
+  border-bottom: 1px solid #e8d888;
+  padding: 6px 12px;
+  font-size: 0.82rem;
+  color: #555;
+  max-height: 140px;
+  overflow-y: auto;
+}
+.bhasha-spell-panel.visible { display: block; }
+.bhasha-spell-panel .spell-word {
+  display: inline-block;
+  background: #fff3cd;
+  border: 1px solid #e8c96a;
+  border-radius: 3px;
+  padding: 1px 8px;
+  margin: 2px 3px;
+  cursor: pointer;
+  font-family: var(--serif);
+}
+.bhasha-spell-panel .spell-word:hover { background: #ffe69c; }
+.bhasha-edit-area .spell-err {
+  border-bottom: 2px wavy #c70000;
+  cursor: help;
+}
+.bhasha-edit-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 18px 22px;
+  font-family: var(--serif);
+  font-size: 1rem;
+  line-height: 1.9;
+  color: var(--text);
+  outline: none;
+}
+.bhasha-edit-area:focus {
+  box-shadow: inset 0 0 0 2px rgba(39,76,119,0.15);
+}
+.bhasha-edit-area table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+}
+.bhasha-edit-area table td,
+.bhasha-edit-area table th {
+  border: 1px solid #bbb;
+  padding: 6px 10px;
+  min-width: 60px;
+  vertical-align: top;
+}
+.bhasha-edit-area table th {
+  background: #e8edf3;
+  font-weight: 600;
+}
+.bhasha-edit-area blockquote {
+  border-left: 3px solid var(--accent-light);
+  margin: 10px 0 10px 4px;
+  padding: 6px 14px;
+  color: #555;
+  background: #f9f9fb;
+}
+.bhasha-edit-area h2 { font-size: 1.3rem; margin: 18px 0 6px; color: var(--accent); }
+.bhasha-edit-area h3 { font-size: 1.15rem; margin: 14px 0 4px; color: var(--accent-light); }
+.bhasha-edit-area hr { border: none; border-top: 2px solid var(--brand-yellow); margin: 16px 0; }
+/* Block indicators in edit mode */
+.bhasha-edit-area[contenteditable="true"] [class*="bhasha-block-"] {
+  position: relative;
+  min-height: 1.2em;
+  transition: outline-color 0.15s;
+}
+.bhasha-edit-area[contenteditable="true"] [class*="bhasha-block-"]:hover {
+  outline: 1px dashed rgba(39,76,119,0.15);
+  outline-offset: 2px;
+}
+.bhasha-edit-area[contenteditable="true"] .bhasha-block-active {
+  outline: 2px dashed rgba(39,76,119,0.3) !important;
+  outline-offset: 2px;
+}
+.bhasha-edit-toolbar select {
+  padding: 4px 6px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.82rem;
+  background: #fff;
+  cursor: pointer;
+  font-family: var(--sans);
+  color: #333;
+}
+.bhasha-edit-toolbar select:focus {
+  border-color: var(--accent);
+  outline: none;
+}
+.bhasha-edit-toolbar .tb-group-label {
+  font-size: 0.6rem;
+  color: #999;
+  letter-spacing: 0.3px;
+  padding: 0 2px;
+  font-family: var(--sans);
+}
+.bhasha-edit-footer {
+  display: flex;
+  gap: 8px;
+  padding: 8px 14px;
+  background: #f5f5f7;
+  border-top: 1px solid #ddd;
+  justify-content: flex-end;
+  align-items: center;
+}
+.bhasha-edit-footer .save-status {
+  flex: 1;
+  font-size: 0.8rem;
+  color: #888;
+}
+.bhasha-edit-footer button {
+  padding: 7px 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+.bhasha-edit-footer .btn-save {
+  background: var(--accent);
+  color: #fff;
+}
+.bhasha-edit-footer .btn-save:hover { background: #1d4e79; }
+.bhasha-edit-footer .btn-cancel {
+  background: #e8e8ec;
+  color: #333;
+}
+.bhasha-edit-footer .btn-cancel:hover { background: #d0d0d5; }
+.intro-content:has(.bhasha-edit-split) {
+  max-width: none;
+  padding: 0;
+}
+
+/* ─── Search Box (shared pattern) ───────────────────────── */
+.search-box {
+  position: sticky;
+  top: 44px;
+  z-index: 90;
+  background: var(--bg);
+  padding: 16px 24px 10px;
+  border-bottom: 1px solid var(--rule);
+}
+.search-input-wrap {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.search-input-wrap input {
+  flex: 1;
+  padding: 13px 18px;
+  font-size: 1.05rem;
+  font-family: var(--sans);
+  border: 1px solid var(--rule);
+  border-radius: 0;
+  outline: none;
+  background: #fff;
+  transition: border-color 0.2s;
+}
+.search-input-wrap input:focus {
+  border-color: var(--accent);
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+.search-input-wrap input::placeholder { color: #bbb; }
+.search-filters {
+  display: flex;
+  gap: 16px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+  font-family: var(--sans);
+}
+.search-filters label {
+  font-size: 0.8rem;
+  color: var(--text-light);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 500;
+}
+.search-filters input[type="radio"] { accent-color: var(--accent); }
+.result-count {
+  margin-left: auto;
+  font-size: 0.78rem;
+  color: var(--text-light);
+  font-family: var(--sans);
+  font-weight: 600;
+}
+
+/* ─── Prabad search box ─────────────────────────────────── */
+.prabad-search-box {
+  position: sticky;
+  top: 44px;
+  z-index: 90;
+  background: var(--bg);
+  padding: 16px 24px 10px;
+  border-bottom: 1px solid var(--rule);
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.prabad-search-box input {
+  flex: 1;
+  padding: 10px 16px;
+  font-size: 0.95rem;
+  font-family: var(--sans);
+  border: 1px solid var(--rule);
+  border-radius: 0;
+  outline: none;
+  background: #fff;
+}
+.prabad-search-box input:focus {
+  border-color: var(--accent);
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+.prabad-stats {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--text-light);
+  white-space: nowrap;
+}
+
+/* ─── Letter / Section Nav ──────────────────────────────── */
+.letter-nav {
+  position: sticky;
+  top: 100px;
+  z-index: 89;
+  background: #fff;
+  border-bottom: 1px solid var(--rule);
+  padding: 8px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px;
+}
+.letter-btn {
+  padding: 5px 10px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: #fff;
+  color: var(--text-light);
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: all 0.15s;
+  font-weight: 600;
+}
+.letter-btn:hover { background: #f0f0f0; color: var(--accent); border-color: var(--accent-light); }
+.letter-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); font-weight: 700; }
+
+/* ─── Book Content ──────────────────────────────────────── */
+#bookContent { padding: 28px 32px; }
+.letter-section { margin-bottom: 48px; }
+.letter-heading {
+  font-family: var(--serif);
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--accent);
+  padding-bottom: 8px;
+  margin-bottom: 4px;
+}
+.letter-heading::after {
+  content: '';
+  display: block;
+  height: 4px;
+  background: var(--brand-yellow);
+  width: 48px;
+  margin-top: 6px;
+}
+.book-entry { padding: 16px 0; border-bottom: 1px solid #e8e8e8; }
+.book-entry:last-child { border-bottom: none; }
+.book-headword {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+  display: inline;
+}
+.book-translit { font-family: var(--sans); font-style: italic; color: var(--text-light); font-size: 0.85rem; margin-left: 8px; }
+.book-phonetics { color: var(--accent-light); font-size: 0.85rem; margin-left: 6px; font-family: 'Noto Sans', sans-serif; }
+.book-etymology { font-style: italic; color: var(--text-light); font-size: 0.82rem; margin-left: 8px; }
+.book-sense { margin: 5px 0 5px 20px; }
+.book-pos { font-family: var(--sans); font-weight: 700; color: var(--accent-light); font-size: 0.85rem; }
+.book-def { font-size: 0.93rem; }
+.book-example { margin-left: 20px; font-size: 0.85rem; color: var(--text-light); font-style: italic; }
+.book-example::before { content: '⇒ '; color: var(--accent-light); font-style: normal; }
+.book-notes { margin: 6px 0 0 20px; font-size: 0.8rem; color: #5d4037; font-style: italic; }
+.book-crossref { margin-left: 20px; font-size: 0.82rem; color: var(--accent-highlight); font-family: var(--sans); }
+
+/* ─── Search Result Cards ───────────────────────────────── */
+.entry-card {
+  background: var(--card-bg);
+  border-top: 1px solid var(--accent);
+  padding: 22px 0;
+  position: relative;
+}
+.entry-card + .entry-card { border-top: 1px solid var(--rule); }
+.entry-card:first-child { border-top: 2px solid var(--accent); }
+.entry-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+.headword { font-family: var(--serif); font-size: 1.55rem; font-weight: 700; color: var(--text); letter-spacing: -0.3px; }
+.transliteration { font-family: var(--sans); font-size: 0.88rem; color: var(--text-light); font-style: italic; }
+.phonetics { font-size: 0.88rem; color: var(--accent-light); font-family: 'Noto Sans', 'Segoe UI', sans-serif; }
+.phonetics::before { content: '/'; }
+.phonetics::after { content: '/'; }
+.speak-btn {
+  background: none; border: none; cursor: pointer; font-size: 1rem;
+  color: #bbb; padding: 2px 4px; border-radius: 4px; transition: color 0.15s; vertical-align: baseline;
+}
+.speak-btn:hover { color: var(--accent); }
+.etymology { font-family: var(--sans); font-size: 0.82rem; color: var(--text-light); margin-bottom: 10px; font-style: italic; }
+.sense { margin: 12px 0; padding-left: 18px; border-left: 3px solid var(--brand-yellow); }
+.sense-number { font-family: var(--sans); font-size: 0.75rem; font-weight: 700; color: var(--accent); margin-right: 6px; }
+.pos-tag {
+  display: inline-block; background: var(--accent); color: #fff;
+  padding: 1px 10px; border-radius: 100px; font-size: 0.72rem;
+  font-weight: 700; font-family: var(--sans); margin-right: 8px; letter-spacing: 0.3px;
+}
+.definition { font-size: 1rem; margin-top: 4px; line-height: 1.7; }
+.example {
+  background: transparent; border-left: 2px solid var(--rule);
+  padding: 5px 14px; margin: 8px 0; font-size: 0.88rem;
+  color: var(--text-light); font-style: italic;
+}
+.example::before { content: '⇒ '; color: var(--accent-light); font-weight: 600; font-style: normal; }
+.cross-ref { font-family: var(--sans); font-size: 0.82rem; color: var(--accent-highlight); margin-top: 4px; }
+.cross-ref a { color: var(--accent-highlight); text-decoration: none; border-bottom: 1px solid currentColor; cursor: pointer; }
+.cross-ref a:hover { color: var(--accent); }
+.raw-text { font-size: 0.88rem; color: var(--text-light); padding: 6px 0; }
+.notes {
+  margin-top: 12px; padding: 12px 16px; background: #fff8e1;
+  font-size: 0.83rem; color: #5d4037; border-left: 3px solid #f9a825; font-family: var(--sans);
+}
+.source-page { text-align: right; font-family: var(--sans); font-size: 0.7rem; color: var(--text-light); margin-top: 10px; letter-spacing: 0.3px; }
+.source-page a { color: var(--text-light); text-decoration: none; border-bottom: 1px dotted var(--rule); transition: color 0.15s; }
+.source-page a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.highlight { background: var(--brand-yellow); color: var(--text); padding: 0 2px; }
+
+/* ─── Edit Feature ──────────────────────────────────────── */
+.edit-btn {
+  background: none; border: none; cursor: pointer; font-size: 0.75rem;
+  color: #ccc; padding: 2px 6px; border-radius: 4px; transition: color 0.15s; font-family: var(--sans);
+}
+.edit-btn:hover { color: var(--accent); }
+.entry-card.edited { border-left: 3px solid #2e7d32; padding-left: 20px; }
+.book-entry.edited { border-left: 3px solid #2e7d32; padding-left: 14px; }
+.edited-badge {
+  display: inline-block; background: #e8f5e9; color: #2e7d32;
+  font-size: 0.62rem; padding: 1px 8px; border-radius: 100px;
+  margin-left: 8px; vertical-align: middle; font-family: var(--sans); font-weight: 700; letter-spacing: 0.3px;
+}
+
+/* ─── Modal ─────────────────────────────────────────────── */
+.modal-overlay {
+  position: fixed; inset: 0; background: rgba(5,41,98,0.55);
+  z-index: 1000; display: flex; align-items: center; justify-content: center; padding: 20px;
+}
+.modal {
+  background: #fff; width: 100%; max-width: 680px; max-height: 90vh;
+  overflow-y: auto; box-shadow: 0 16px 48px rgba(5,41,98,0.3); border-top: 4px solid var(--brand-yellow);
+}
+.modal-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 18px 28px; border-bottom: 1px solid var(--rule);
+  background: #fff; position: sticky; top: 0; z-index: 10;
+}
+.modal-header h2 { font-family: var(--serif); font-size: 1.1rem; color: var(--accent); font-weight: 700; }
+.modal-close { background: none; border: none; font-size: 1.5rem; cursor: pointer; color: #999; padding: 4px 8px; transition: color 0.15s; }
+.modal-close:hover { color: var(--accent); }
+.modal-body { padding: 24px 28px; }
+.form-group { margin-bottom: 16px; }
+.form-group label {
+  display: block; font-family: var(--sans); font-size: 0.78rem; font-weight: 700;
+  color: var(--accent-light); margin-bottom: 5px; text-transform: uppercase; letter-spacing: 0.5px;
+}
+.form-group input, .form-group textarea {
+  width: 100%; padding: 10px 14px; border: 1px solid var(--rule);
+  font-family: var(--serif); font-size: 0.95rem; outline: none; transition: border-color 0.2s;
+}
+.form-group input:focus, .form-group textarea:focus { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.form-group textarea { resize: vertical; min-height: 60px; }
+.sense-edit-group {
+  border: 1px solid var(--rule); border-left: 3px solid var(--brand-yellow);
+  padding: 14px 16px; margin-bottom: 12px; background: #fafafa;
+}
+.sense-edit-group h4 {
+  font-family: var(--sans); font-size: 0.8rem; color: var(--accent);
+  margin-bottom: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;
+}
+.modal-footer {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 16px 28px; border-top: 1px solid var(--rule); background: #fafafa;
+  gap: 10px; flex-wrap: wrap; position: sticky; bottom: 0; z-index: 10;
+}
+.modal-footer .btn {
+  padding: 9px 22px; border-radius: 100px; border: none; cursor: pointer;
+  font-family: var(--sans); font-size: 0.82rem; font-weight: 700; transition: opacity 0.15s; letter-spacing: 0.3px;
+}
+.modal-footer .btn:hover { opacity: 0.85; }
+.btn-save { background: var(--accent); color: #fff; }
+.btn-cancel { background: transparent; color: var(--text-light); border: 1px solid var(--rule) !important; }
+.btn-cancel:hover { background: #f0f0f0 !important; }
+.btn-revert { background: #e65100; color: #fff; }
+.btn-history { background: var(--accent-light); color: #fff; }
+.btn-sm { padding: 6px 14px; font-size: 0.75rem; }
+
+/* ─── History ───────────────────────────────────────────── */
+.history-item { padding: 12px 0; border-bottom: 1px solid var(--rule); }
+.history-item:last-child { border-bottom: none; }
+.history-meta { font-family: var(--sans); font-size: 0.72rem; color: var(--text-light); margin-bottom: 4px; }
+.history-meta strong { color: var(--accent); }
+.history-changes { font-size: 0.85rem; color: var(--text); }
+.history-changes .field-name { font-weight: 700; color: var(--accent); }
+
+/* ─── Prabad Content ────────────────────────────────────── */
+#prabadContent { padding: 20px 28px; }
+.prabad-section { margin-bottom: 40px; }
+.prabad-section-heading {
+  font-family: var(--serif); font-size: 2rem; font-weight: 700; color: var(--accent); margin-bottom: 4px;
+}
+.prabad-section-heading::after {
+  content: ''; display: block; height: 4px; background: var(--brand-yellow); width: 40px; margin-top: 4px;
+}
+.prabad-item {
+  padding: 12px 0; border-bottom: 1px solid #eee;
+  display: flex; gap: 12px; align-items: baseline;
+}
+.prabad-item:last-child { border-bottom: none; }
+.prabad-sno {
+  font-family: var(--sans); font-size: 0.78rem; color: var(--accent-light);
+  font-weight: 700; min-width: 32px; text-align: right; flex-shrink: 0;
+}
+.prabad-text {
+  font-family: var(--serif); font-size: 1.05rem; line-height: 1.8;
+  color: var(--text); white-space: pre-line;
+}
+.prabad-source { font-family: var(--sans); font-size: 0.68rem; color: var(--text-light); margin-left: auto; flex-shrink: 0; }
+.prabad-source a { color: var(--accent-light); text-decoration: none; }
+.prabad-source a:hover { text-decoration: underline; }
+
+/* ─── Loading / No Results ──────────────────────────────── */
+.loading { text-align: center; padding: 80px; color: var(--text-light); font-size: 1.1rem; font-family: var(--sans); }
+.spinner {
+  display: inline-block; width: 28px; height: 28px;
+  border: 3px solid var(--rule); border-top-color: var(--accent);
+  border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 14px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.no-results { text-align: center; padding: 48px; color: var(--text-light); font-size: 1rem; font-family: var(--sans); }
+
+/* ─── Back to Top ───────────────────────────────────────── */
+.back-to-top {
+  position: fixed; bottom: 28px; right: 28px; width: 42px; height: 42px;
+  background: var(--accent); color: #fff; border: none; border-radius: 50%;
+  font-size: 1.2rem; cursor: pointer; box-shadow: 0 4px 14px rgba(5,41,98,0.35);
+  display: none; z-index: 200; transition: all 0.2s;
+}
+.back-to-top:hover { background: var(--accent-light); transform: translateY(-2px); }
+
+/* ─── Name / Login Modal ────────────────────────────────── */
+.name-modal-overlay {
+  position: fixed; inset: 0; background: rgba(5,41,98,0.55);
+  display: flex; align-items: center; justify-content: center; z-index: 10000;
+}
+.name-modal {
+  background: #fff; padding: 32px 36px; max-width: 400px; width: 90%;
+  box-shadow: 0 16px 48px rgba(5,41,98,0.3); text-align: center; border-top: 4px solid var(--brand-yellow);
+}
+.name-modal h3 { margin: 0 0 6px; font-size: 1.05rem; color: var(--accent); font-family: var(--serif); }
+.name-modal p { margin: 0 0 20px; font-size: 0.82rem; color: var(--text-light); font-family: var(--sans); }
+.name-modal input[type=text] {
+  width: 100%; padding: 11px 14px; border: 1px solid var(--rule);
+  font-size: 0.95rem; margin-bottom: 14px; font-family: var(--sans);
+}
+.name-modal input[type=text]:focus { border-color: var(--accent); outline: none; box-shadow: inset 0 0 0 1px var(--accent); }
+.name-modal .name-btn {
+  width: 100%; padding: 11px; border: none; border-radius: 100px;
+  font-size: 0.88rem; cursor: pointer; font-weight: 700; font-family: var(--sans); letter-spacing: 0.3px;
+}
+.name-modal .name-btn-primary { background: var(--accent); color: #fff; margin-bottom: 10px; }
+.name-modal .name-btn-primary:hover { opacity: 0.9; }
+.name-modal .name-btn-skip { background: transparent; color: var(--text-light); border: 1px solid var(--rule); }
+.name-modal .name-btn-skip:hover { background: #f5f5f5; }
+.name-modal .divider {
+  display: flex; align-items: center; gap: 10px;
+  margin: 18px 0; color: var(--text-light); font-size: 0.75rem; font-family: var(--sans);
+}
+.name-modal .divider::before, .name-modal .divider::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
+.name-modal .google-btn {
+  width: 100%; padding: 11px; border: 1px solid var(--rule); border-radius: 100px;
+  background: #fff; cursor: pointer; font-size: 0.85rem; color: var(--text);
+  display: flex; align-items: center; justify-content: center; gap: 8px;
+  transition: all 0.15s; font-family: var(--sans); font-weight: 600;
+}
+.name-modal .google-btn:hover { background: #f5f5f5; border-color: #999; }
+.name-modal .google-btn img { width: 18px; height: 18px; }
+
+/* ─── GitHub Settings Modal ─────────────────────────────── */
+.gh-settings-modal {
+  background: #fff; padding: 32px 36px; max-width: 480px; width: 90%;
+  box-shadow: 0 16px 48px rgba(5,41,98,0.3); text-align: left; border-top: 4px solid #333;
+}
+.gh-settings-modal h3 { margin: 0 0 6px; font-size: 1.05rem; color: #333; font-family: var(--serif); text-align: center; }
+.gh-settings-modal p { margin: 0 0 16px; font-size: 0.82rem; color: var(--text-light); font-family: var(--sans); text-align: center; }
+.gh-settings-modal label {
+  display: block; font-size: 0.82rem; font-weight: 700; color: var(--text);
+  margin-bottom: 4px; font-family: var(--sans);
+}
+.gh-settings-modal input[type=text], .gh-settings-modal input[type=password] {
+  width: 100%; padding: 10px 12px; border: 1px solid var(--rule);
+  font-size: 0.9rem; margin-bottom: 14px; font-family: monospace; box-sizing: border-box;
+}
+.gh-settings-modal input:focus { border-color: var(--accent); outline: none; box-shadow: inset 0 0 0 1px var(--accent); }
+.gh-settings-modal .gh-btn-row { display: flex; gap: 10px; margin-top: 8px; }
+.gh-settings-modal .gh-btn {
+  flex: 1; padding: 10px; border: none; border-radius: 100px;
+  font-size: 0.85rem; cursor: pointer; font-weight: 700; font-family: var(--sans);
+}
+.gh-settings-modal .gh-btn-save { background: #333; color: #fff; }
+.gh-settings-modal .gh-btn-save:hover { background: #555; }
+.gh-settings-modal .gh-btn-cancel { background: transparent; color: var(--text-light); border: 1px solid var(--rule); }
+.gh-settings-modal .gh-btn-cancel:hover { background: #f5f5f5; }
+.gh-settings-modal .gh-btn-test { background: #e8f5e9; color: #2e7d32; border: 1px solid #a5d6a7; }
+.gh-settings-modal .gh-btn-test:hover { background: #c8e6c9; }
+.gh-settings-modal .gh-status { text-align: center; font-size: 0.82rem; margin-top: 10px; font-family: var(--sans); }
+.gh-badge {
+  display: inline-block; font-size: 0.7rem; padding: 2px 8px; border-radius: 100px;
+  font-weight: 700; font-family: var(--sans); vertical-align: middle; margin-left: 6px;
+}
+.gh-badge-ok { background: #e8f5e9; color: #2e7d32; }
+.gh-badge-no { background: #fff3e0; color: #e65100; }
+
+/* ─── Responsive ────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .masthead { padding: 14px 16px 10px; }
+  .masthead h1 { font-size: 1.15rem; }
+  .toolbar { padding: 0 12px; height: 40px; gap: 8px; }
+  .mode-btn { padding: 8px 14px; font-size: 0.8rem; }
+  .stats { display: none; }
+  .search-box, .prabad-search-box { top: 40px; padding: 10px 12px 8px; }
+  .letter-nav { top: 92px; }
+  #bookContent, #prabadContent { padding: 14px 12px; }
+  .prabad-sno { min-width: 26px; font-size: 0.72rem; }
+  .prabad-text { font-size: 0.95rem; }
+  .entry-card { padding: 16px 0; }
+  .headword { font-size: 1.3rem; }
+  .letter-btn { padding: 4px 8px; font-size: 0.82rem; }
+  .modal { max-height: 95vh; }
+  .modal-body { padding: 16px 18px; }
+  .settings-bar { display: none; }
+}
+
+/* ─── Print ─────────────────────────────────────────────── */
+@media print {
+  .masthead, .toolbar, .search-box, .prabad-search-box, .letter-nav, .back-to-top { display: none !important; }
+  .entry-card { break-inside: avoid; box-shadow: none; border-top: 1px solid #999; }
+  body { background: #fff; }
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <h1>বরাক উপত্যকার আঞ্চলিক বাংলা ভাষার অভিধান</h1>
+</header>
+
+<nav class="toolbar">
+  <div class="mode-toggle">
+    <button class="mode-btn active" id="btnHome" onclick="switchMode('home')">🏠 প্রচ্ছদ</button>
+    <button class="mode-btn" id="btnDict" onclick="switchMode('dict')">📖 অভিধান</button>
+    <button class="mode-btn" id="btnPrabad" onclick="switchMode('prabad')">🗣️ প্রবাদ</button>
+    <button class="mode-btn" id="btnIntro" onclick="switchMode('intro')">📚 পরিচিতি</button>
+    <button class="mode-btn" id="btnBhasha" onclick="switchMode('bhasha')">🔬 ভাষাতত্ত্ব</button>
+  </div>
+  <span class="stats" id="statsText"></span>
+  <div class="settings-bar">
+    <span class="user-name" onclick="changeUserName()" id="userDisplay" title="ব্যবহারকারী পরিবর্তন করুন"></span>
+    <button onclick="exportEdits()" title="সম্পাদনা রপ্তানি">📤 Export</button>
+    <button onclick="document.getElementById('importFile').click()" title="সম্পাদনা আমদানি">📥 Import</button>
+    <input type="file" id="importFile" accept=".json" style="display:none" onchange="importEdits(event)">
+    <button onclick="openGitHubSettings()" title="GitHub সেটিংস" id="ghSettingsBtn">⚙️ GitHub</button>
+  </div>
+</nav>
+
+<!-- ═══ Home Mode ═════════════════════════════════════════ -->
+<div id="homeMode">
+  <div class="home-container">
+
+    <!-- Headline with book cover -->
+    <div class="home-headline">
+      <img src="Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/IMG.jpg" alt="বইয়ের প্রচ্ছদ" class="home-headline-cover">
+      <div class="home-headline-text">
+        <h2>বরাক উপত্যকার আঞ্চলিক বাংলা ভাষার অভিধান ও ভাষাতত্ত্ব</h2>
+        <div class="home-standfirst">আসামের বরাক উপত্যকায় প্রচলিত আঞ্চলিক বাংলা ভাষার প্রথম পূর্ণাঙ্গ অভিধান ও ভাষাতাত্ত্বিক বিশ্লেষণ — শব্দের গঠন, উচ্চারণ, ব্যুৎপত্তি, প্রয়োগ ও বাগর্থের বিশদ ব্যাখ্যা সমৃদ্ধ।</div>
+      </div>
+    </div>
+
+    <!-- Byline -->
+    <div class="home-byline">
+      <span class="home-byline-name">জগন্নাথ চক্রবর্তী</span>
+      <span class="home-byline-meta">ভাষাগবেষক · প্রাবন্ধিক · কবি · ঔপন্যাসিক · চিত্রকর</span>
+      <span class="home-byline-badge">২০ বছরেরও বেশি নিরলস প্রচেষ্টা</span>
+    </div>
+
+    <!-- Stats Bar -->
+    <div class="home-stats-bar">
+      <div class="home-stat"><div class="home-stat-num">৬০৪</div><div class="home-stat-label">পৃষ্ঠা</div></div>
+      <div class="home-stat"><div class="home-stat-num">২১</div><div class="home-stat-label">ভাষাতত্ত্ব অধ্যায়</div></div>
+      <div class="home-stat"><div class="home-stat-num">৯</div><div class="home-stat-label">পরিচিতি বিভাগ</div></div>
+    </div>
+
+    <!-- Section Cards -->
+    <div class="home-cards">
+      <div class="home-card" onclick="switchMode('intro')">
+        <div class="home-card-icon">📚</div>
+        <div class="home-card-title">পরিচিতি</div>
+        <div class="home-card-desc">নিবেদন, ভূমিকা, সূচিপত্র, সংকেত ও বানানবিধি।</div>
+      </div>
+      <div class="home-card" onclick="switchMode('dict')">
+        <div class="home-card-icon">📖</div>
+        <div class="home-card-title">অভিধান</div>
+        <div class="home-card-desc">আঞ্চলিক শব্দভাণ্ডার অনুসন্ধান। শব্দের অর্থ, উচ্চারণ, ব্যুৎপত্তি ও প্রয়োগ।</div>
+      </div>
+      <div class="home-card" onclick="switchMode('bhasha')">
+        <div class="home-card-icon">🔬</div>
+        <div class="home-card-title">ভাষাতত্ত্ব</div>
+        <div class="home-card-desc">ধ্বনিতত্ত্ব, রূপতত্ত্ব, শব্দার্থতত্ত্ব ও বাক্যতত্ত্ব।</div>
+      </div>
+      <div class="home-card" onclick="switchMode('prabad')">
+        <div class="home-card-icon">🗣️</div>
+        <div class="home-card-title">প্রবাদ-প্রবচন</div>
+        <div class="home-card-desc">লোকপ্রবাদ, প্রবচন ও বাগধারা সংগ্রহ।</div>
+      </div>
+    </div>
+
+    <!-- About the Book -->
+    <div class="home-about">
+      <h3>এই গ্রন্থে যা যা আছে</h3>
+      <p><strong>অভিধান</strong> — একাধারে ব্যবহারিক অভিধান ও ভাষাবিজ্ঞানসম্মত আঞ্চলিক বাংলা অভিধান। শব্দের গঠন, উচ্চারণ, ব্যুৎপত্তি, প্রয়োগ, অন্বয় ও বাগর্থগত বিবৃতি বা ব্যাখ্যার সঙ্গে সঙ্গে অর্থ, পদনির্দেশ ইত্যাদি গুরুত্বসহকারে আলোচনা করা হয়েছে। আন্তর্জাতিক ধ্বনিলিপি (IPA) অনুসারী উচ্চারণ সংযুক্ত।</p>
+      <p><strong>ভাষাতত্ত্ব</strong> — ধ্বনিতত্ত্ব ও রূপতত্ত্বের সামগ্রিক আলোচনা ছাড়াও শব্দার্থতত্ত্ব, শব্দভাণ্ডার এবং নোয়াম চমস্কি, লিওনার্দো ব্লুমফিল্ড ও ভারতীয় বৈয়াকরণদের পদ্ধতি অনুসরণে বাক্যতত্ত্ব বিশ্লেষিত হয়েছে। সংযুক্ত হয়েছে নারীর ভাষা বৈশিষ্ট্য এবং চর্যাপদ ও শ্রীকৃষ্ণকীর্তনের ভাষা।</p>
+    </div>
+
+    <!-- Author Bio -->
+    <div class="home-author-bio">
+      <img src="Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/Author.jpg" alt="জগন্নাথ চক্রবর্তী">
+      <div class="home-author-bio-text">
+        <h3>লেখক পরিচিতি — জগন্নাথ চক্রবর্তী</h3>
+        <p>জন্ম আসামের হাইলাকান্দি জেলার ছাতাচূড়া পাহাড়ের পাদমূলে, জামিরার রাজনগর গ্রামে। ১৩৬৩ বঙ্গাব্দের ১৮ই আষাঢ়। গৌহাটি বিশ্ববিদ্যালয়ের স্নাতকোত্তর।</p>
+        <p>জগন্নাথ ভাষাগবেষক, প্রাবন্ধিক, গল্পকার, কবি, ঔপন্যাসিক ও চিত্রকর। তাঁর উল্লেখযোগ্য রচনা — 'মধুমিতা', 'শোষক', 'পরিবেশ', 'দিব্যদৃষ্টি', 'তাপসী' (উপন্যাস), 'ফুডুৎ' (ছড়া), 'সেমখর : এক মায়াময় অরণ্যভূবন', 'বাংলা বানান উচ্চারণ অর্থ এবং', 'উত্তরকাছাড়ের পত্রপত্রিকা : একটি সম্পূর্ণ ইতিবৃত্ত'।</p>
+        <p>শিশুদের নৈতিক মূল্যবোধ ও প্রতিভা বিকাশের শপথে গড়ে তুলেছেন 'বিদ্যাসাগর জ্ঞানভারতী'। কর্মক্ষেত্র হাফলং। পেশা শিক্ষকতা। বৃক্ষের উপাসক — ভালোবাসেন অরণ্য, ক্ষেত আর পাখি।</p>
+        <p style="margin-top:10px"><a href="javascript:switchMode('intro')">📚 লেখকের নিবেদন পড়ুন →</a></p>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="home-footer">
+      © সাংখ্য চক্রবর্তী (Sankhya Chakravarty). সর্বস্বত্ব সংরক্ষিত।
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══ Dictionary Mode ═══════════════════════════════════ -->
+<div id="dictMode" style="display:none">
+  <div class="search-box">
+    <div class="search-input-wrap">
+      <input type="text" id="searchInput" placeholder="শব্দ খুঁজুন... (বাংলা, transliteration, বা phonetics)" autofocus autocomplete="off">
+    </div>
+    <div class="search-filters">
+      <label><input type="radio" name="searchField" value="all" checked> সব</label>
+      <label><input type="radio" name="searchField" value="headword"> শব্দ</label>
+      <label><input type="radio" name="searchField" value="transliteration"> Transliteration</label>
+      <label><input type="radio" name="searchField" value="phonetics"> Phonetics</label>
+      <label><input type="radio" name="searchField" value="definition"> সংজ্ঞা</label>
+      <span class="result-count" id="resultCount"></span>
+    </div>
+  </div>
+  <div class="letter-nav" id="dictNav"></div>
+  <div id="searchResults"></div>
+  <div id="bookContent"></div>
+</div>
+
+<!-- ═══ Prabad Mode ═══════════════════════════════════════ -->
+<div id="prabadMode">
+  <div class="prabad-search-box">
+    <input type="text" id="prabadSearch" placeholder="প্রবাদ খুঁজুন..." autocomplete="off">
+    <span class="prabad-stats" id="prabadStats"></span>
+  </div>
+  <div class="letter-nav" id="prabadNav"></div>
+  <div id="prabadContent"></div>
+</div>
+
+<!-- ═══ Intro Mode ═════════════════════════════════════════ -->
+<div id="introMode">
+  <div class="intro-layout">
+    <aside class="intro-sidebar">
+      <div class="intro-sidebar-title">বিষয়সূচি</div>
+      <ul class="intro-tree" id="introTree"></ul>
+    </aside>
+    <main class="intro-content" id="introContent">
+      <div class="intro-placeholder">← বাম দিক থেকে একটি বিভাগ নির্বাচন করুন</div>
+    </main>
+  </div>
+</div>
+
+<!-- ═══ Bhashatattwa Mode ══════════════════════════════════ -->
+<div id="bhashaMode">
+  <div class="intro-layout">
+    <aside class="intro-sidebar">
+      <div class="intro-sidebar-title">ভাষাতত্ত্ব</div>
+      <ul class="intro-tree" id="bhashaTree"></ul>
+    </aside>
+    <main class="intro-content" id="bhashaContent">
+      <div class="intro-placeholder">← বাম দিক থেকে একটি বিভাগ নির্বাচন করুন</div>
+    </main>
+  </div>
+</div>
+
+<div id="nameModalContainer"></div>
+<div id="editModalContainer"></div>
+<button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+
+<script>
+// ═══════════════════════════════════════════════════════════════════
+// Global State
+// ═══════════════════════════════════════════════════════════════════
+let allEntries = [];
+let originalEntries = [];
+let letterGroups = {};
+let currentMode = 'dict';
+let searchTimeout = null;
+let bookRendered = false;
+let prabadEntries = [];
+let prabadRendered = false;
+let prabadSearchTimeout = null;
+
+const BN_ORDER = 'অআইঈউঊঋএঐওঔকখগঘঙচছজঝঞটঠডঢণতথদধনপফবভমযরলশষসহড়ঢ়য়ৎংঃঁৰ';
+const EDITS_KEY = 'dict_edits_v1';
+const USER_KEY = 'dict_user_name';
+
+// ═══════════════════════════════════════════════════════════════════
+// GitHub API Configuration
+// ═══════════════════════════════════════════════════════════════════
+const GH_TOKEN_KEY = 'dict_github_token';
+const GH_REPO_KEY = 'dict_github_repo';
+const GH_BRANCH_KEY = 'dict_github_branch';
+
+function getGhToken() { return localStorage.getItem(GH_TOKEN_KEY) || ''; }
+function setGhToken(t) { localStorage.setItem(GH_TOKEN_KEY, t); }
+function getGhRepo() { return localStorage.getItem(GH_REPO_KEY) || ''; }
+function setGhRepo(r) { localStorage.setItem(GH_REPO_KEY, r); }
+function getGhBranch() { return localStorage.getItem(GH_BRANCH_KEY) || 'main'; }
+function setGhBranch(b) { localStorage.setItem(GH_BRANCH_KEY, b || 'main'); }
+function ghIsConfigured() { return !!(getGhToken() && getGhRepo()); }
+
+function utf8ToBase64(str) {
+  return btoa(unescape(encodeURIComponent(str)));
+}
+function base64ToUtf8(b64) {
+  return decodeURIComponent(escape(atob(b64)));
+}
+
+async function ghApiGet(path) {
+  var repo = getGhRepo(), token = getGhToken(), branch = getGhBranch();
+  var resp = await fetch('https://api.github.com/repos/' + repo + '/contents/' + path + '?ref=' + branch, {
+    headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+  });
+  if (resp.status === 404) return null;
+  if (!resp.ok) throw new Error('GitHub API error: ' + resp.status + ' ' + resp.statusText);
+  return await resp.json();
+}
+
+async function ghApiPut(path, contentBase64, message, sha) {
+  var repo = getGhRepo(), token = getGhToken(), branch = getGhBranch();
+  var body = { message: message, content: contentBase64, branch: branch };
+  if (sha) body.sha = sha;
+  var resp = await fetch('https://api.github.com/repos/' + repo + '/contents/' + path, {
+    method: 'PUT',
+    headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
+    body: JSON.stringify(body)
+  });
+  if (!resp.ok) {
+    var err = await resp.json().catch(function() { return {}; });
+    throw new Error('GitHub API error: ' + resp.status + ' ' + (err.message || resp.statusText));
+  }
+  return await resp.json();
+}
+
+// Cache for bhasha edited pages (so we see changes immediately after save)
+var bhashaEditCache = {};
+
+// ═══════════════════════════════════════════════════════════════════
+// Utility Functions
+// ═══════════════════════════════════════════════════════════════════
+function esc(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function escAttr(s) {
+  return (s || '').replace(/&/g,'&amp;').replace(/'/g,'&#39;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function hl(text, query) {
+  if (!query || !text) return esc(text);
+  const escaped = esc(text);
+  const q = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  try {
+    return escaped.replace(new RegExp('(' + q + ')', 'gi'), '<span class="highlight">$1</span>');
+  } catch { return escaped; }
+}
+
+function compareBengali(a, b) {
+  for (let i = 0; i < Math.max(a.length, b.length); i++) {
+    const ca = i < a.length ? a[i] : '';
+    const cb = i < b.length ? b[i] : '';
+    const ia = BN_ORDER.indexOf(ca);
+    const ib = BN_ORDER.indexOf(cb);
+    const oa = ia >= 0 ? ia : 900 + ca.charCodeAt(0);
+    const ob = ib >= 0 ? ib : 900 + cb.charCodeAt(0);
+    if (oa !== ob) return oa - ob;
+  }
+  return a.length - b.length;
+}
+
+function toBengaliNum(n) {
+  const BN = '০১২৩৪৫৬৭৮৯';
+  return String(n).replace(/[0-9]/g, d => BN[d]);
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// User & Edit Storage
+// ═══════════════════════════════════════════════════════════════════
+function getEdits() {
+  try { return JSON.parse(localStorage.getItem(EDITS_KEY) || '{}'); }
+  catch { return {}; }
+}
+function saveEdits(edits) { localStorage.setItem(EDITS_KEY, JSON.stringify(edits)); }
+function getEntryKey(entry) {
+  return (entry._originalHeadword || entry.headword || '') + '|' + (entry.source_page || '');
+}
+function getUserName() { return localStorage.getItem(USER_KEY) || ''; }
+function setUserName(name) { localStorage.setItem(USER_KEY, name); updateUserDisplay(); }
+function updateUserDisplay() {
+  const name = getUserName();
+  document.getElementById('userDisplay').textContent = name ? '👤 ' + name : '👤 সাইন ইন';
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Name / Login Modal
+// ═══════════════════════════════════════════════════════════════════
+function openNameModal(callback) {
+  const container = document.getElementById('nameModalContainer');
+  container.innerHTML = '';
+
+  const overlay = document.createElement('div');
+  overlay.className = 'name-modal-overlay';
+  const box = document.createElement('div');
+  box.className = 'name-modal';
+
+  const h3 = document.createElement('h3');
+  h3.textContent = 'আপনার নাম লিখুন';
+  box.appendChild(h3);
+
+  const p = document.createElement('p');
+  p.textContent = 'সম্পাদনা ট্র্যাক করতে আপনার নাম দিন, অথবা Google দিয়ে সাইন ইন করুন।';
+  box.appendChild(p);
+
+  const nameInput = document.createElement('input');
+  nameInput.type = 'text';
+  nameInput.placeholder = 'আপনার নাম...';
+  nameInput.value = getUserName();
+  box.appendChild(nameInput);
+
+  const saveBtn = document.createElement('button');
+  saveBtn.className = 'name-btn name-btn-primary';
+  saveBtn.textContent = 'সংরক্ষণ করুন';
+  saveBtn.onclick = function() {
+    const name = nameInput.value.trim();
+    if (name) {
+      setUserName(name);
+      closeNameModal();
+      if (callback) callback();
+    }
+  };
+  box.appendChild(saveBtn);
+
+  const divider = document.createElement('div');
+  divider.className = 'divider';
+  divider.textContent = 'অথবা';
+  box.appendChild(divider);
+
+  const googleBtn = document.createElement('button');
+  googleBtn.className = 'google-btn';
+  googleBtn.innerHTML = '<img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg" alt="G"> Google দিয়ে সাইন ইন';
+  googleBtn.onclick = function() { startGoogleSignIn(callback); };
+  box.appendChild(googleBtn);
+
+  const skipBtn = document.createElement('button');
+  skipBtn.className = 'name-btn name-btn-skip';
+  skipBtn.textContent = 'এখন না';
+  skipBtn.style.marginTop = '10px';
+  skipBtn.onclick = closeNameModal;
+  box.appendChild(skipBtn);
+
+  overlay.appendChild(box);
+  container.appendChild(overlay);
+  nameInput.focus();
+}
+
+function closeNameModal() {
+  document.getElementById('nameModalContainer').innerHTML = '';
+}
+
+function changeUserName() { openNameModal(); }
+
+function ensureUserName() {
+  if (!getUserName()) { openNameModal(); return false; }
+  return true;
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Google Sign-In
+// ═══════════════════════════════════════════════════════════════════
+const GOOGLE_CLIENT_ID = localStorage.getItem('dict_google_client_id') || '';
+
+function startGoogleSignIn(callback) {
+  if (!GOOGLE_CLIENT_ID) {
+    const cid = prompt(
+      'Google Sign-In সেটআপ:\n\n'
+      + '1. https://console.cloud.google.com/ যান\n'
+      + '2. APIs & Services → Credentials → OAuth 2.0 Client ID তৈরি করুন\n'
+      + '3. Authorized JavaScript origins এ http://localhost:8080 যোগ করুন\n'
+      + '4. Client ID এখানে পেস্ট করুন:'
+    );
+    if (cid && cid.trim()) {
+      localStorage.setItem('dict_google_client_id', cid.trim());
+      location.reload();
+    }
+    return;
+  }
+  try {
+    google.accounts.id.initialize({
+      client_id: GOOGLE_CLIENT_ID,
+      callback: function(response) { handleGoogleCredential(response, callback); },
+      auto_select: false
+    });
+    google.accounts.id.prompt();
+  } catch (err) {
+    alert('Google Sign-In ত্রুটি: ' + err.message + '\nনাম ম্যানুয়ালি লিখুন।');
+  }
+}
+
+function handleGoogleCredential(response, callback) {
+  try {
+    const parts = response.credential.split('.');
+    const payload = JSON.parse(atob(parts[1].replace(/-/g,'+').replace(/_/g,'/')));
+    const name = payload.name || payload.email || 'Google User';
+    setUserName(name);
+    localStorage.setItem('dict_user_email', payload.email || '');
+    localStorage.setItem('dict_user_picture', payload.picture || '');
+    closeNameModal();
+    if (callback) callback();
+  } catch(err) {
+    alert('Google credential parse error: ' + err.message);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// GitHub Settings Modal
+// ═══════════════════════════════════════════════════════════════════
+function openGitHubSettings() {
+  var container = document.getElementById('nameModalContainer');
+  container.innerHTML = '';
+
+  var overlay = document.createElement('div');
+  overlay.className = 'name-modal-overlay';
+  var box = document.createElement('div');
+  box.className = 'gh-settings-modal';
+
+  var h3 = document.createElement('h3');
+  h3.textContent = '⚙️ GitHub সেটিংস';
+  box.appendChild(h3);
+
+  var p = document.createElement('p');
+  p.innerHTML = 'সম্পাদনা সংরক্ষণ করতে GitHub Personal Access Token প্রয়োজন।<br>'
+    + '<a href="https://github.com/settings/tokens/new?scopes=repo&description=BengaliDictionary" target="_blank" style="color:var(--accent)">→ নতুন Token তৈরি করুন</a> (repo scope দিন)';
+  box.appendChild(p);
+
+  // Repository input
+  var lRepo = document.createElement('label');
+  lRepo.textContent = 'Repository (owner/repo):';
+  box.appendChild(lRepo);
+  var iRepo = document.createElement('input');
+  iRepo.type = 'text';
+  iRepo.id = 'ghRepoInput';
+  iRepo.placeholder = 'username/dictionary-repo';
+  iRepo.value = getGhRepo();
+  box.appendChild(iRepo);
+
+  // Branch input
+  var lBranch = document.createElement('label');
+  lBranch.textContent = 'Branch:';
+  box.appendChild(lBranch);
+  var iBranch = document.createElement('input');
+  iBranch.type = 'text';
+  iBranch.id = 'ghBranchInput';
+  iBranch.placeholder = 'main';
+  iBranch.value = getGhBranch();
+  box.appendChild(iBranch);
+
+  // Token input
+  var lToken = document.createElement('label');
+  lToken.textContent = 'Personal Access Token:';
+  box.appendChild(lToken);
+  var iToken = document.createElement('input');
+  iToken.type = 'password';
+  iToken.id = 'ghTokenInput';
+  iToken.placeholder = 'ghp_xxxxxxxxxxxxxxxxxxxx';
+  iToken.value = getGhToken();
+  box.appendChild(iToken);
+
+  // Status line
+  var statusDiv = document.createElement('div');
+  statusDiv.className = 'gh-status';
+  statusDiv.id = 'ghSettingsStatus';
+  if (ghIsConfigured()) {
+    statusDiv.innerHTML = '✔ কনফিগার করা আছে';
+    statusDiv.style.color = '#2a7';
+  }
+  box.appendChild(statusDiv);
+
+  // Buttons row
+  var btnRow = document.createElement('div');
+  btnRow.className = 'gh-btn-row';
+
+  var cancelBtn = document.createElement('button');
+  cancelBtn.className = 'gh-btn gh-btn-cancel';
+  cancelBtn.textContent = 'বাতিল';
+  cancelBtn.onclick = function() { container.innerHTML = ''; };
+  btnRow.appendChild(cancelBtn);
+
+  var testBtn = document.createElement('button');
+  testBtn.className = 'gh-btn gh-btn-test';
+  testBtn.textContent = '🔗 সংযোগ পরীক্ষা';
+  testBtn.onclick = async function() {
+    var stat = document.getElementById('ghSettingsStatus');
+    var repo = document.getElementById('ghRepoInput').value.trim();
+    var token = document.getElementById('ghTokenInput').value.trim();
+    var branch = document.getElementById('ghBranchInput').value.trim() || 'main';
+    if (!repo || !token) { stat.textContent = '✕ Repository ও Token দিন'; stat.style.color = '#c70000'; return; }
+    stat.textContent = 'পরীক্ষা হচ্ছে...'; stat.style.color = '#888';
+    try {
+      var resp = await fetch('https://api.github.com/repos/' + repo, {
+        headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+      });
+      if (resp.ok) {
+        var data = await resp.json();
+        stat.innerHTML = '✔ সংযোগ সফল! <b>' + data.full_name + '</b>';
+        stat.style.color = '#2a7';
+      } else if (resp.status === 401) {
+        stat.textContent = '✕ Token অবৈধ বা মেয়াদোত্তীর্ণ';
+        stat.style.color = '#c70000';
+      } else if (resp.status === 404) {
+        stat.textContent = '✕ Repository পাওয়া যায়নি';
+        stat.style.color = '#c70000';
+      } else {
+        stat.textContent = '✕ ত্রুটি: ' + resp.status;
+        stat.style.color = '#c70000';
+      }
+    } catch(e) {
+      stat.textContent = '✕ নেটওয়ার্ক ত্রুটি';
+      stat.style.color = '#c70000';
+    }
+  };
+  btnRow.appendChild(testBtn);
+
+  var saveBtn = document.createElement('button');
+  saveBtn.className = 'gh-btn gh-btn-save';
+  saveBtn.textContent = '💾 সংরক্ষণ';
+  saveBtn.onclick = function() {
+    var repo = document.getElementById('ghRepoInput').value.trim();
+    var token = document.getElementById('ghTokenInput').value.trim();
+    var branch = document.getElementById('ghBranchInput').value.trim() || 'main';
+    setGhRepo(repo);
+    setGhToken(token);
+    setGhBranch(branch);
+    updateGhBadge();
+    container.innerHTML = '';
+  };
+  btnRow.appendChild(saveBtn);
+  box.appendChild(btnRow);
+
+  overlay.appendChild(box);
+  container.appendChild(overlay);
+  iRepo.focus();
+}
+
+function updateGhBadge() {
+  var btn = document.getElementById('ghSettingsBtn');
+  if (!btn) return;
+  if (ghIsConfigured()) {
+    btn.innerHTML = '⚙️ GitHub <span class="gh-badge gh-badge-ok">✔</span>';
+  } else {
+    btn.innerHTML = '⚙️ GitHub <span class="gh-badge gh-badge-no">!</span>';
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Mode Switching
+// ═══════════════════════════════════════════════════════════════════
+function switchMode(mode) {
+  currentMode = mode;
+  document.getElementById('homeMode').style.display = mode === 'home' ? 'block' : 'none';
+  document.getElementById('dictMode').style.display = mode === 'dict' ? 'block' : 'none';
+  document.getElementById('prabadMode').style.display = mode === 'prabad' ? 'block' : 'none';
+  document.getElementById('introMode').style.display = mode === 'intro' ? 'block' : 'none';
+  document.getElementById('bhashaMode').style.display = mode === 'bhasha' ? 'block' : 'none';
+  document.getElementById('btnHome').classList.toggle('active', mode === 'home');
+  document.getElementById('btnDict').classList.toggle('active', mode === 'dict');
+  document.getElementById('btnPrabad').classList.toggle('active', mode === 'prabad');
+  document.getElementById('btnIntro').classList.toggle('active', mode === 'intro');
+  document.getElementById('btnBhasha').classList.toggle('active', mode === 'bhasha');
+
+  // Update home stats when shown
+  if (mode === 'home') {
+  }
+
+  if (mode === 'dict') {
+    if (allEntries.length > 0) {
+      const q = document.getElementById('searchInput').value.trim();
+      if (q) {
+        performSearch(q);
+      } else {
+        showAllEntries();
+      }
+    }
+    document.getElementById('searchInput').focus();
+  } else if (mode === 'prabad') {
+    loadPrabad();
+    document.getElementById('prabadSearch').focus();
+  } else if (mode === 'intro') {
+    loadIntro();
+  } else if (mode === 'bhasha') {
+    loadBhasha();
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Load Dictionary Data
+// ═══════════════════════════════════════════════════════════════════
+function applyEdits() {
+  const edits = getEdits();
+  for (const entry of allEntries) {
+    const key = getEntryKey(entry);
+    if (edits[key] && edits[key].versions && edits[key].versions.length > 0) {
+      const latest = edits[key].versions[edits[key].versions.length - 1].data;
+      entry._originalHeadword = edits[key].originalHeadword || entry.headword;
+      Object.assign(entry, latest);
+      entry._edited = true;
+    }
+  }
+}
+
+async function loadData() {
+  document.getElementById('bookContent').innerHTML = '<div class="loading"><div class="spinner"></div><br>অভিধান লোড হচ্ছে...</div>';
+  try {
+    const resp = await fetch('abhidhan/ParsedJSON_Merged/all_entries.json');
+    if (!resp.ok) throw new Error('Failed to load entries');
+    allEntries = await resp.json();
+    originalEntries = JSON.parse(JSON.stringify(allEntries));
+    for (const e of allEntries) { e._originalHeadword = e.headword; }
+
+    // Load server-side edits (from GitHub API if configured, else static fetch)
+    let serverEditCount = 0;
+    try {
+      let editsData = null;
+      if (ghIsConfigured()) {
+        try {
+          const ghFile = await ghApiGet('abhidhan/ParsedJSON_Merged/edits.json');
+          if (ghFile) editsData = JSON.parse(base64ToUtf8(ghFile.content));
+        } catch(ghErr) { console.log('GitHub edits read failed, trying static:', ghErr); }
+      }
+      if (!editsData) {
+        const editsResp = await fetch('abhidhan/ParsedJSON_Merged/edits.json');
+        if (editsResp.ok) editsData = await editsResp.json();
+      }
+      if (editsData) {
+        for (const [key, edit] of Object.entries(editsData)) {
+          if (!edit.latest) continue;
+          const entry = allEntries.find(e => e.headword === edit.originalHeadword && e.source_page === edit.source_page);
+          if (entry) {
+            for (const field of ['headword','transliteration','phonetics','etymology','notes','senses']) {
+              if (field in edit.latest) entry[field] = edit.latest[field];
+            }
+            entry._edited = true;
+            serverEditCount++;
+          }
+        }
+      }
+    } catch (e) { console.log('No edits file found (normal on first run)'); }
+
+    applyEdits();
+
+    // Sort
+    allEntries.sort((a, b) => compareBengali(a.headword || '', b.headword || ''));
+
+    // Group by first letter
+    letterGroups = {};
+    for (const entry of allEntries) {
+      const hw = entry.headword || '';
+      if (!hw) continue;
+      const first = hw[0];
+      if (!letterGroups[first]) letterGroups[first] = [];
+      letterGroups[first].push(entry);
+    }
+
+    const localEditCount = Object.keys(getEdits()).length;
+    const totalEdits = Math.max(serverEditCount, localEditCount);
+    document.getElementById('statsText').textContent = allEntries.length + ' শব্দ' + (totalEdits ? ' · ' + totalEdits + ' সম্পাদিত' : '');
+    showAllEntries();
+  } catch (err) {
+    document.getElementById('bookContent').innerHTML =
+      '<div class="no-results">অভিধান লোড করতে ব্যর্থ।<br><small>JSON ফাইল পাওয়া যায়নি। GitHub Pages থেকে হোস্ট করুন বা লোকাল সার্ভার চালু করুন।</small></div>';
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Dictionary: Show All / Search
+// ═══════════════════════════════════════════════════════════════════
+function showAllEntries() {
+  document.getElementById('searchResults').style.display = 'none';
+  document.getElementById('bookContent').style.display = 'block';
+  document.getElementById('dictNav').style.display = 'flex';
+  document.getElementById('resultCount').textContent = 'সর্বমোট ' + allEntries.length + ' শব্দ';
+  renderBook();
+}
+
+function performSearch(query) {
+  query = query.trim();
+  if (!query) { showAllEntries(); return; }
+
+  document.getElementById('searchResults').style.display = 'block';
+  document.getElementById('bookContent').style.display = 'none';
+  document.getElementById('dictNav').style.display = 'none';
+
+  const field = document.querySelector('input[name="searchField"]:checked').value;
+  const q = query.toLowerCase();
+  const results = [];
+  for (const entry of allEntries) {
+    if (matchEntry(entry, q, field)) {
+      results.push(entry);
+      if (results.length >= 200) break;
+    }
+  }
+  renderSearchResults(results, query);
+  const suffix = results.length >= 200 ? ' (সর্বাধিক ২০০)' : '';
+  document.getElementById('resultCount').textContent = results.length + ' ফলাফল' + suffix;
+}
+
+function matchEntry(entry, q, field) {
+  if (field === 'all' || field === 'headword') {
+    if ((entry.headword || '').toLowerCase().includes(q)) return true;
+  }
+  if (field === 'all' || field === 'transliteration') {
+    if ((entry.transliteration || '').toLowerCase().includes(q)) return true;
+  }
+  if (field === 'all' || field === 'phonetics') {
+    if ((entry.phonetics || '').toLowerCase().includes(q)) return true;
+  }
+  if (field === 'all' || field === 'definition') {
+    for (const s of (entry.senses || [])) {
+      if ((s.definition || '').toLowerCase().includes(q)) return true;
+      if ((s.raw_text || '').toLowerCase().includes(q)) return true;
+    }
+  }
+  return false;
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Render: Search Results
+// ═══════════════════════════════════════════════════════════════════
+function renderSearchResults(entries, query) {
+  const container = document.getElementById('searchResults');
+  if (!entries.length) {
+    container.innerHTML = '<div class="no-results">কোনো ফলাফল পাওয়া যায়নি।</div>';
+    return;
+  }
+  container.innerHTML = entries.map(e => renderEntryCard(e, query)).join('');
+}
+
+function renderEntryCard(entry, query) {
+  const idx = allEntries.indexOf(entry);
+  const hw = hl(entry.headword || '', query);
+  const tr = hl(entry.transliteration || '', query);
+  const ph = entry.phonetics || '';
+  const etym = entry.etymology || '';
+  const isEdited = !!entry._edited;
+
+  let html = '<div class="entry-card' + (isEdited ? ' edited' : '') + '">';
+  html += '<div class="entry-header">';
+  html += '<span class="headword">' + hw + '</span>';
+  if (tr) html += '<span class="transliteration">' + tr + '</span>';
+  if (ph) html += '<span class="phonetics">' + esc(ph) + '</span>';
+  html += '<button class="speak-btn" onclick="speak(\'' + escAttr(entry.headword || '') + '\',\'' + escAttr(ph) + '\')" title="উচ্চারণ শুনুন">&#128264;</button>';
+  html += '<button class="edit-btn" onclick="openEditModal(' + idx + ')" title="সম্পাদনা করুন">✏️ সম্পাদনা</button>';
+  if (isEdited) html += '<span class="edited-badge">সম্পাদিত</span>';
+  html += '</div>';
+
+  if (etym) html += '<div class="etymology">' + esc(etym) + '</div>';
+
+  const senses = entry.senses || [];
+  const showNum = senses.length > 1;
+  senses.forEach(function(s, i) {
+    html += '<div class="sense">';
+    if (showNum) html += '<span class="sense-number">' + (i + 1) + '.</span>';
+    if (s.part_of_speech) html += '<span class="pos-tag">' + esc(s.part_of_speech) + '</span>';
+    if (s.definition) html += '<div class="definition">' + hl(s.definition, query) + '</div>';
+    if (s.raw_text) html += '<div class="raw-text">' + hl(s.raw_text, query) + '</div>';
+    if (s.examples) {
+      for (const ex of s.examples) {
+        html += '<div class="example">' + esc(ex) + '</div>';
+      }
+    }
+    if (s.cross_references && s.cross_references.length) {
+      html += '<div class="cross-ref">দ্র. ' + s.cross_references.map(
+        function(cr) { return '<a onclick="searchWord(\'' + escAttr(cr) + '\')">' + esc(cr) + '</a>'; }
+      ).join(', ') + '</div>';
+    }
+    html += '</div>';
+  });
+
+  if (entry.notes) html += '<div class="notes">' + esc(entry.notes) + '</div>';
+
+  const sp = entry.source_page || '';
+  const pageNum = sp.replace('IMG_0', '').replace('IMG_', '');
+  const imgPath = 'Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/' + sp + '.jpg';
+  html += '<div class="source-page"><a href="' + imgPath + '" target="_blank" title="পৃষ্ঠার ছবি দেখুন">Source page ' + pageNum + '</a></div>';
+  html += '</div>';
+  return html;
+}
+
+function searchWord(word) {
+  document.getElementById('searchInput').value = word;
+  switchMode('dict');
+  performSearch(word);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Render: Book Mode (browse by letter)
+// ═══════════════════════════════════════════════════════════════════
+function renderBook() {
+  if (bookRendered) return;
+
+  const letters = Object.keys(letterGroups).sort(function(a, b) {
+    const ia = BN_ORDER.indexOf(a);
+    const ib = BN_ORDER.indexOf(b);
+    return (ia >= 0 ? ia : 999) - (ib >= 0 ? ib : 999);
+  });
+
+  // Build letter nav
+  document.getElementById('dictNav').innerHTML = letters.map(function(l) {
+    return '<button class="letter-btn" onclick="scrollToLetter(\'' + l + '\')" title="' + letterGroups[l].length + ' শব্দ">' + l + '</button>';
+  }).join('');
+
+  // Build book content
+  let bookHtml = '';
+  for (const letter of letters) {
+    const entries = letterGroups[letter];
+    bookHtml += '<div class="letter-section" id="letter-' + letter + '">';
+    bookHtml += '<div class="letter-heading">' + letter + ' <span style="font-size:0.7em;font-weight:400;color:#888">(' + entries.length + ')</span></div>';
+    for (const entry of entries) {
+      bookHtml += renderBookEntry(entry);
+    }
+    bookHtml += '</div>';
+  }
+  document.getElementById('bookContent').innerHTML = bookHtml;
+  bookRendered = true;
+}
+
+function renderBookEntry(entry) {
+  const idx = allEntries.indexOf(entry);
+  const hw = entry.headword || '';
+  const tr = entry.transliteration || '';
+  const ph = entry.phonetics || '';
+  const etym = entry.etymology || '';
+  const senses = entry.senses || [];
+  const notes = entry.notes || '';
+  const isEdited = !!entry._edited;
+
+  let html = '<div class="book-entry' + (isEdited ? ' edited' : '') + '">';
+  html += '<span class="book-headword">' + esc(hw) + '</span>';
+  html += '<button class="speak-btn" onclick="speak(\'' + escAttr(hw) + '\',\'' + escAttr(ph) + '\')" title="উচ্চারণ শুনুন">&#128264;</button>';
+  html += '<button class="edit-btn" onclick="openEditModal(' + idx + ')" title="সম্পাদনা করুন">✏️</button>';
+  if (isEdited) html += '<span class="edited-badge">সম্পাদিত</span>';
+  if (tr) html += '<span class="book-translit">' + esc(tr) + '</span>';
+  if (ph) html += '<span class="book-phonetics">/' + esc(ph) + '/</span>';
+  if (etym) html += ' <span class="book-etymology">' + esc(etym) + '</span>';
+
+  for (const s of senses) {
+    html += '<div class="book-sense">';
+    if (s.part_of_speech) html += '<span class="book-pos">' + esc(s.part_of_speech) + '</span> ';
+    if (s.definition) html += '<span class="book-def">' + esc(s.definition) + '</span>';
+    if (s.raw_text) html += '<span class="book-def">' + esc(s.raw_text) + '</span>';
+    html += '</div>';
+    if (s.examples) {
+      for (const ex of s.examples) {
+        html += '<div class="book-example">' + esc(ex) + '</div>';
+      }
+    }
+    if (s.cross_references && s.cross_references.length) {
+      html += '<div class="book-crossref">দ্র. ' + s.cross_references.map(
+        function(cr) { return '<a onclick="searchWord(\'' + escAttr(cr) + '\')" style="color:#c70000;text-decoration:none;border-bottom:1px solid currentColor;cursor:pointer">' + esc(cr) + '</a>'; }
+      ).join(', ') + '</div>';
+    }
+  }
+  if (notes) html += '<div class="book-notes">📝 ' + esc(notes) + '</div>';
+  if (entry.source_page) {
+    const pg = entry.source_page;
+    const pgNum = pg.replace('IMG_0', '').replace('IMG_', '');
+    html += '<div class="source-page"><a href="Images/Barak Upatyakar Ancholik Bhashar Abhidhan O Bhashatatwa - Copy/' + pg + '.jpg" target="_blank" title="মূল পৃষ্ঠা দেখুন">Source page ' + pgNum + '</a></div>';
+  }
+  html += '</div>';
+  return html;
+}
+
+function scrollToLetter(letter) {
+  const el = document.getElementById('letter-' + letter);
+  if (el) {
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    document.querySelectorAll('#dictNav .letter-btn').forEach(function(b) { b.classList.remove('active'); });
+    const btn = Array.from(document.querySelectorAll('#dictNav .letter-btn')).find(function(b) { return b.textContent.trim() === letter; });
+    if (btn) btn.classList.add('active');
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Edit Modal
+// ═══════════════════════════════════════════════════════════════════
+function openEditModal(idx) {
+  try {
+    if (!getUserName()) {
+      openNameModal(function() { openEditModal(idx); });
+      return;
+    }
+    const entry = allEntries[idx];
+    if (!entry) { alert('Entry not found at index ' + idx); return; }
+    const senses = entry.senses || [];
+
+    const container = document.getElementById('editModalContainer');
+    container.innerHTML = '';
+
+    const overlay = document.createElement('div');
+    overlay.className = 'modal-overlay';
+    overlay.id = 'editModal';
+    overlay.addEventListener('click', function(ev) { if (ev.target === overlay) closeEditModal(); });
+
+    const modal = document.createElement('div');
+    modal.className = 'modal';
+
+    // Header
+    const header = document.createElement('div');
+    header.className = 'modal-header';
+    header.innerHTML = '<h2>✏️ সম্পাদনা: ' + esc(entry.headword || '') + '</h2>';
+    const closeBtn = document.createElement('button');
+    closeBtn.className = 'modal-close';
+    closeBtn.innerHTML = '&times;';
+    closeBtn.onclick = closeEditModal;
+    header.appendChild(closeBtn);
+    modal.appendChild(header);
+
+    // Body
+    const body = document.createElement('div');
+    body.className = 'modal-body';
+
+    function addField(parent, labelText, id, value, isTextarea, rows) {
+      const grp = document.createElement('div');
+      grp.className = 'form-group';
+      const lbl = document.createElement('label');
+      lbl.textContent = labelText;
+      grp.appendChild(lbl);
+      let inp;
+      if (isTextarea) {
+        inp = document.createElement('textarea');
+        inp.rows = rows || 3;
+        inp.textContent = value;
+      } else {
+        inp = document.createElement('input');
+        inp.type = 'text';
+        inp.value = value;
+      }
+      inp.id = id;
+      grp.appendChild(inp);
+      parent.appendChild(grp);
+      return inp;
+    }
+
+    addField(body, 'শব্দ (Headword)', 'editHeadword', entry.headword || '', false);
+    addField(body, 'প্রতিবর্ণীকরণ (Transliteration)', 'editTranslit', entry.transliteration || '', false);
+    addField(body, 'ধ্বনিতত্ত্ব (Phonetics)', 'editPhonetics', entry.phonetics || '', false);
+    addField(body, 'ব্যুৎপত্তি (Etymology)', 'editEtymology', entry.etymology || '', false);
+
+    const sensesHeading = document.createElement('h3');
+    sensesHeading.style.cssText = 'font-size:0.95rem;margin:14px 0 8px;color:var(--accent)';
+    sensesHeading.textContent = 'অর্থসমূহ';
+    body.appendChild(sensesHeading);
+
+    const sensesDiv = document.createElement('div');
+    sensesDiv.id = 'sensesContainer';
+    body.appendChild(sensesDiv);
+
+    senses.forEach(function(s, si) {
+      const sg = document.createElement('div');
+      sg.className = 'sense-edit-group';
+      sg.id = 'senseGroup' + si;
+      const h4 = document.createElement('h4');
+      h4.textContent = 'অর্থ ' + (si + 1);
+      sg.appendChild(h4);
+      addField(sg, 'পদ (Part of Speech)', 'editPos' + si, s.part_of_speech || '', false);
+      addField(sg, 'সংজ্ঞা', 'editDef' + si, s.definition || '', true, 3);
+      addField(sg, 'উদাহরণ (প্রতি লাইনে একটি)', 'editEx' + si, (s.examples || []).join('\n'), true, 2);
+      addField(sg, 'পরস্পর-সম্পর্ক (কমা দিয়ে)', 'editCr' + si, (s.cross_references || []).join(', '), false);
+      sensesDiv.appendChild(sg);
+    });
+
+    const addSenseBtn = document.createElement('button');
+    addSenseBtn.className = 'btn btn-sm';
+    addSenseBtn.style.cssText = 'background:#e0e0e0;color:#333;margin-top:6px';
+    addSenseBtn.textContent = '+ অর্থ যোগ করুন';
+    addSenseBtn.onclick = addSenseField;
+    body.appendChild(addSenseBtn);
+
+    addField(body, 'টীকা (Notes)', 'editNotes', entry.notes || '', true, 2);
+    modal.appendChild(body);
+
+    // Footer
+    const footer = document.createElement('div');
+    footer.className = 'modal-footer';
+    const leftDiv = document.createElement('div');
+    if (entry._edited) {
+      const revertBtn = document.createElement('button');
+      revertBtn.className = 'btn btn-revert btn-sm';
+      revertBtn.textContent = '↩ মূল সংস্করণ';
+      revertBtn.onclick = function() { revertEntry(idx); };
+      leftDiv.appendChild(revertBtn);
+    }
+    const histBtn = document.createElement('button');
+    histBtn.className = 'btn btn-history btn-sm';
+    histBtn.textContent = '📋 ইতিহাস';
+    histBtn.onclick = function() { showHistory(idx); };
+    leftDiv.appendChild(histBtn);
+    footer.appendChild(leftDiv);
+
+    const rightDiv = document.createElement('div');
+    const cancelBtn = document.createElement('button');
+    cancelBtn.className = 'btn btn-cancel';
+    cancelBtn.textContent = 'বাতিল';
+    cancelBtn.onclick = closeEditModal;
+    rightDiv.appendChild(cancelBtn);
+    const saveBtn2 = document.createElement('button');
+    saveBtn2.className = 'btn btn-save';
+    saveBtn2.textContent = '💾 সংরক্ষণ';
+    saveBtn2.onclick = function() { saveEntry(idx); };
+    rightDiv.appendChild(saveBtn2);
+    footer.appendChild(rightDiv);
+    modal.appendChild(footer);
+
+    overlay.appendChild(modal);
+    container.appendChild(overlay);
+    overlay._senseCount = senses.length;
+    document.getElementById('editHeadword').focus();
+  } catch(err) {
+    alert('Edit modal error: ' + err.message);
+    console.error('openEditModal error:', err);
+  }
+}
+
+function addSenseField() {
+  const modal = document.getElementById('editModal');
+  const si = modal._senseCount || 0;
+  modal._senseCount = si + 1;
+  const container = document.getElementById('sensesContainer');
+  const div = document.createElement('div');
+  div.className = 'sense-edit-group';
+  div.id = 'senseGroup' + si;
+  div.innerHTML =
+    '<h4>অর্থ ' + (si + 1) + ' <small style="color:#999">(নতুন)</small></h4>' +
+    '<div class="form-group"><label>পদ (Part of Speech)</label><input type="text" id="editPos' + si + '" value=""></div>' +
+    '<div class="form-group"><label>সংজ্ঞা</label><textarea id="editDef' + si + '" rows="3"></textarea></div>' +
+    '<div class="form-group"><label>উদাহরণ (প্রতি লাইনে একটি)</label><textarea id="editEx' + si + '" rows="2"></textarea></div>' +
+    '<div class="form-group"><label>পরস্পর-সম্পর্ক (কমা দিয়ে)</label><input type="text" id="editCr' + si + '" value=""></div>';
+  container.appendChild(div);
+}
+
+function closeEditModal() {
+  document.getElementById('editModalContainer').innerHTML = '';
+}
+
+function saveEntry(idx) {
+  const entry = allEntries[idx];
+  const key = getEntryKey(entry);
+  const userName = getUserName();
+  const now = new Date().toISOString();
+  const originalHeadword = entry._originalHeadword || entry.headword;
+
+  const newData = {
+    headword: document.getElementById('editHeadword').value.trim(),
+    transliteration: document.getElementById('editTranslit').value.trim(),
+    phonetics: document.getElementById('editPhonetics').value.trim(),
+    etymology: document.getElementById('editEtymology').value.trim(),
+    notes: document.getElementById('editNotes').value.trim(),
+    senses: [],
+    source_page: entry.source_page,
+  };
+
+  const senseCount = document.getElementById('editModal')._senseCount || 0;
+  for (let i = 0; i < senseCount; i++) {
+    const posEl = document.getElementById('editPos' + i);
+    if (!posEl) continue;
+    const sense = {
+      part_of_speech: posEl.value.trim(),
+      definition: document.getElementById('editDef' + i).value.trim(),
+      examples: document.getElementById('editEx' + i).value.trim().split('\n').filter(function(s) { return s.trim(); }),
+      cross_references: document.getElementById('editCr' + i).value.trim().split(',').map(function(s) { return s.trim(); }).filter(Boolean),
+    };
+    if (sense.definition || sense.part_of_speech) newData.senses.push(sense);
+  }
+  if (!newData.senses.length && entry.senses && entry.senses.length) {
+    newData.senses = entry.senses;
+  }
+
+  const changes = [];
+  for (const field of ['headword','transliteration','phonetics','etymology','notes']) {
+    if ((newData[field] || '') !== (entry[field] || '')) changes.push(field);
+  }
+  if (JSON.stringify(newData.senses) !== JSON.stringify(entry.senses || [])) changes.push('senses');
+  if (!changes.length) { closeEditModal(); return; }
+
+  // Save to GitHub
+  if (ghIsConfigured()) {
+    (async function() {
+      try {
+        var filePath = 'abhidhan/ParsedJSON_Merged/edits.json';
+        var existing = await ghApiGet(filePath);
+        var serverEdits = {};
+        var sha = null;
+        if (existing) {
+          sha = existing.sha;
+          serverEdits = JSON.parse(base64ToUtf8(existing.content));
+        }
+        var editKey = originalHeadword + '|' + entry.source_page;
+        serverEdits[editKey] = {
+          originalHeadword: originalHeadword,
+          source_page: entry.source_page,
+          latest: Object.assign({}, newData),
+          user: userName,
+          date: now
+        };
+        var content = utf8ToBase64(JSON.stringify(serverEdits, null, 2));
+        await ghApiPut(filePath, content, 'Edit: ' + (newData.headword || originalHeadword), sha);
+      } catch(err) {
+        console.warn('GitHub save failed:', err);
+      }
+    })();
+  }
+
+  // Save to localStorage backup
+  const edits = getEdits();
+  if (!edits[key]) {
+    edits[key] = { originalHeadword: originalHeadword, source_page: entry.source_page, versions: [] };
+  }
+  edits[key].versions.push({ date: now, user: userName, changes: changes, data: Object.assign({}, newData) });
+  saveEdits(edits);
+
+  Object.assign(entry, newData);
+  entry._edited = true;
+  entry._originalHeadword = originalHeadword;
+
+  // Re-sort and re-group
+  allEntries.sort(function(a, b) { return compareBengali(a.headword || '', b.headword || ''); });
+  letterGroups = {};
+  for (const e of allEntries) {
+    const hw = e.headword || '';
+    if (!hw) continue;
+    const first = hw[0];
+    if (!letterGroups[first]) letterGroups[first] = [];
+    letterGroups[first].push(e);
+  }
+
+  const editCount = Object.keys(edits).length;
+  document.getElementById('statsText').textContent = allEntries.length + ' শব্দ · ' + editCount + ' সম্পাদিত';
+  closeEditModal();
+
+  bookRendered = false;
+  const q = document.getElementById('searchInput').value.trim();
+  if (q) performSearch(q); else showAllEntries();
+}
+
+function revertEntry(idx) {
+  if (!confirm('এই শব্দটি মূল সংস্করণে ফিরিয়ে আনতে চান?')) return;
+  const entry = allEntries[idx];
+  const key = getEntryKey(entry);
+  const orig = originalEntries.find(function(e) {
+    return (e.headword === (entry._originalHeadword || entry.headword)) && e.source_page === entry.source_page;
+  });
+  if (!orig) { alert('মূল এন্ট্রি পাওয়া যায়নি।'); return; }
+
+  // Revert on GitHub
+  if (ghIsConfigured()) {
+    (async function() {
+      try {
+        var filePath = 'abhidhan/ParsedJSON_Merged/edits.json';
+        var existing = await ghApiGet(filePath);
+        if (existing) {
+          var serverEdits = JSON.parse(base64ToUtf8(existing.content));
+          var editKey = (entry._originalHeadword || entry.headword) + '|' + entry.source_page;
+          delete serverEdits[editKey];
+          var content = utf8ToBase64(JSON.stringify(serverEdits, null, 2));
+          await ghApiPut(filePath, content, 'Revert: ' + (entry._originalHeadword || entry.headword), existing.sha);
+        }
+      } catch(err) {
+        console.warn('GitHub revert failed:', err);
+      }
+    })();
+  }
+
+  const edits = getEdits();
+  delete edits[key];
+  saveEdits(edits);
+
+  const origCopy = JSON.parse(JSON.stringify(orig));
+  origCopy._originalHeadword = orig.headword;
+  Object.keys(entry).forEach(function(k) { if (k !== '_originalHeadword') delete entry[k]; });
+  Object.assign(entry, origCopy);
+  delete entry._edited;
+
+  closeEditModal();
+  bookRendered = false;
+  const q = document.getElementById('searchInput').value.trim();
+  if (q) performSearch(q); else showAllEntries();
+}
+
+function showHistory(idx) {
+  const entry = allEntries[idx];
+  const key = getEntryKey(entry);
+  const edits = getEdits();
+  const record = edits[key];
+
+  let html = '';
+  if (!record || !record.versions || !record.versions.length) {
+    html = '<p style="color:#888;text-align:center;padding:20px">কোনো সম্পাদনার ইতিহাস নেই।</p>';
+  } else {
+    html = '<p style="font-size:0.85rem;color:#666;margin-bottom:10px">মোট ' + record.versions.length + 'টি সংস্করণ</p>';
+    for (let i = record.versions.length - 1; i >= 0; i--) {
+      const v = record.versions[i];
+      const d = new Date(v.date);
+      const dateStr = d.toLocaleDateString('bn-BD', { year: 'numeric', month: 'long', day: 'numeric' })
+        + ' ' + d.toLocaleTimeString('bn-BD', { hour: '2-digit', minute: '2-digit' });
+      html += '<div class="history-item">';
+      html += '<div class="history-meta"><strong>' + esc(v.user || 'অজানা') + '</strong> · ' + dateStr + '</div>';
+      html += '<div class="history-changes">পরিবর্তিত: ' + v.changes.map(function(c) { return '<span class="field-name">' + c + '</span>'; }).join(', ') + '</div>';
+      html += '</div>';
+    }
+  }
+
+  const body = document.querySelector('.modal-body');
+  if (body) {
+    body.innerHTML =
+      '<div style="display:flex;align-items:center;gap:10px;margin-bottom:12px">' +
+      '<button class="btn btn-sm" style="background:#e0e0e0;color:#333" onclick="openEditModal(' + idx + ')">← সম্পাদনায় ফিরুন</button>' +
+      '<h3 style="font-size:1rem;color:var(--accent)">📋 সম্পাদনার ইতিহাস</h3></div>' + html;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Export / Import Edits
+// ═══════════════════════════════════════════════════════════════════
+function exportEdits() {
+  const edits = getEdits();
+  const count = Object.keys(edits).length;
+  if (!count) { alert('কোনো সম্পাদনা রপ্তানি করার নেই।'); return; }
+  const exportData = {
+    exportDate: new Date().toISOString(),
+    exportedBy: getUserName(),
+    version: 1,
+    entryCount: count,
+    edits: edits
+  };
+  const blob = new Blob([JSON.stringify(exportData, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'dict_edits_' + new Date().toISOString().slice(0, 10) + '.json';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function importEdits(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const data = JSON.parse(e.target.result);
+      if (!data.edits) throw new Error('Invalid format');
+      const existing = getEdits();
+      let imported = 0;
+      for (const [key, record] of Object.entries(data.edits)) {
+        if (!existing[key]) {
+          existing[key] = record;
+          imported += record.versions ? record.versions.length : 0;
+        } else {
+          const existingDates = new Set(existing[key].versions.map(function(v) { return v.date; }));
+          for (const v of (record.versions || [])) {
+            if (!existingDates.has(v.date)) {
+              existing[key].versions.push(v);
+              imported++;
+            }
+          }
+          existing[key].versions.sort(function(a, b) { return a.date.localeCompare(b.date); });
+        }
+      }
+      saveEdits(existing);
+      alert(imported + 'টি সংস্করণ আমদানি হয়েছে। পৃষ্ঠা পুনরায় লোড হচ্ছে...');
+      location.reload();
+    } catch (err) {
+      alert('ফাইল পড়া যায়নি: ' + err.message);
+    }
+  };
+  reader.readAsText(file);
+  event.target.value = '';
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Prabad (Proverbs)
+// ═══════════════════════════════════════════════════════════════════
+async function loadPrabad() {
+  if (prabadEntries.length > 0) {
+    if (!prabadRendered) renderPrabad();
+    return;
+  }
+  document.getElementById('prabadContent').innerHTML = '<div class="loading"><div class="spinner"></div><br>প্রবাদ লোড হচ্ছে...</div>';
+  try {
+    const resp = await fetch('prabad/ParsedJSON/all_prabad.json');
+    if (!resp.ok) throw new Error('Failed to load prabad');
+    prabadEntries = await resp.json();
+    renderPrabad();
+  } catch (err) {
+    document.getElementById('prabadContent').innerHTML = '<div class="no-results">প্রবাদ লোড করতে ব্যর্থ।</div>';
+  }
+}
+
+function renderPrabad(filterText) {
+  const q = (filterText || '').trim().toLowerCase();
+  let entries = prabadEntries;
+  if (q) {
+    entries = prabadEntries.filter(function(e) { return e.idiom.toLowerCase().includes(q); });
+  }
+
+  // Group by section
+  const sectionOrder = [];
+  const sectionMap = {};
+  for (const e of entries) {
+    const sec = e.section || '—';
+    if (!sectionMap[sec]) {
+      sectionMap[sec] = [];
+      sectionOrder.push(sec);
+    }
+    sectionMap[sec].push(e);
+  }
+
+  // Sort sections
+  sectionOrder.sort(function(a, b) {
+    if (a === '—') return 1;
+    if (b === '—') return -1;
+    return compareBengali(a, b);
+  });
+
+  // Sort entries within each section
+  for (const sec of sectionOrder) {
+    sectionMap[sec].sort(function(a, b) { return compareBengali(a.idiom, b.idiom); });
+  }
+
+  // Section nav
+  const nav = document.getElementById('prabadNav');
+  if (!q) {
+    nav.innerHTML = sectionOrder.map(function(s) {
+      return '<button class="letter-btn" onclick="scrollToPrabadSection(\'' + s + '\')" title="' + sectionMap[s].length + ' প্রবাদ">' + s + '</button>';
+    }).join('');
+    nav.style.display = 'flex';
+  } else {
+    nav.style.display = 'none';
+  }
+
+  // Stats
+  document.getElementById('prabadStats').textContent = q
+    ? entries.length + ' / ' + prabadEntries.length + ' প্রবাদ'
+    : prabadEntries.length + ' প্রবাদ';
+
+  // Render sections
+  let html = '';
+  for (const sec of sectionOrder) {
+    html += '<div class="prabad-section" id="prabad-sec-' + sec + '">';
+    html += '<div class="prabad-section-heading">' + esc(sec) + ' <span style="font-size:0.55em;font-weight:400;color:#888">(' + sectionMap[sec].length + ')</span></div>';
+    for (const e of sectionMap[sec]) {
+      const idiomHtml = q ? highlightText(esc(e.idiom), q) : esc(e.idiom);
+      const pg = e.source_page || '';
+      const pgNum = pg.replace('IMG_0', '').replace('IMG_', '');
+      html += '<div class="prabad-item">';
+      html += '<span class="prabad-sno">' + toBengaliNum(e.sno) + '</span>';
+      html += '<span class="prabad-text">' + idiomHtml + '</span>';
+      if (pg) {
+        html += '<span class="prabad-source"><a href="Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/' + pg + '.jpg" target="_blank" title="মূল পৃষ্ঠা">' + pgNum + '</a></span>';
+      }
+      html += '</div>';
+    }
+    html += '</div>';
+  }
+
+  document.getElementById('prabadContent').innerHTML = html;
+  if (!q) prabadRendered = true;
+}
+
+function highlightText(html, q) {
+  if (!q) return html;
+  const regex = new RegExp('(' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+  return html.replace(regex, '<span class="highlight">$1</span>');
+}
+
+function scrollToPrabadSection(sec) {
+  const el = document.getElementById('prabad-sec-' + sec);
+  if (el) {
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    document.querySelectorAll('#prabadNav .letter-btn').forEach(function(b) { b.classList.remove('active'); });
+    const btn = Array.from(document.querySelectorAll('#prabadNav .letter-btn')).find(function(b) { return b.textContent.trim() === sec; });
+    if (btn) btn.classList.add('active');
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Intro / About Mode
+// ═══════════════════════════════════════════════════════════════════
+let introSections = [];
+let introLoaded = false;
+
+const INTRO_FILES = [
+  { key: 'lekhoker_nibedon', file: 'intro/ParsedJSON/lekhoker_nibedon.json', icon: '✍️' },
+  { key: 'bhumika',          file: 'intro/ParsedJSON/bhumika.json',          icon: '📜' },
+  { key: 'suchipatra',       file: 'intro/ParsedJSON/suchipatra.json',       icon: '📋' },
+  { key: 'ei_granthe',       file: 'intro/ParsedJSON/ei_granthe.json',       icon: '📖' },
+  { key: 'sanket_o_chihno',  file: 'intro/ParsedJSON/sanket_o_chihno.json',  icon: '🔣' },
+  { key: 'nam_sankhep',      file: 'intro/ParsedJSON/nam_sankhep.json',      icon: '🔤' },
+  { key: 'dhwanichihno',     file: 'intro/ParsedJSON/dhwanichihno.json',     icon: '🔊' },
+  { key: 'dhwani_parichay',  file: 'intro/ParsedJSON/dhwani_parichay.json',  icon: '🗣️' },
+  { key: 'bananabidhi',      file: 'intro/ParsedJSON/bananabidhi.json',      icon: '📝' },
+];
+
+async function loadIntro() {
+  if (introLoaded) return;
+  const tree = document.getElementById('introTree');
+  tree.innerHTML = '<li style="padding:16px 20px;color:#888;font-size:0.85rem">লোড হচ্ছে...</li>';
+  try {
+    const results = await Promise.all(
+      INTRO_FILES.map(function(f) { return fetch(f.file).then(function(r) { return r.json(); }); })
+    );
+    introSections = INTRO_FILES.map(function(f, i) {
+      return Object.assign({}, f, { data: results[i] });
+    });
+    renderIntroTree();
+    introLoaded = true;
+    // Auto-select first section
+    if (introSections.length > 0) {
+      showIntroSection(introSections[0].key);
+    }
+  } catch (err) {
+    tree.innerHTML = '<li style="padding:16px 20px;color:#c70000;font-size:0.85rem">লোড করতে ব্যর্থ।</li>';
+    console.error('Intro load error:', err);
+  }
+}
+
+function renderIntroTree() {
+  const tree = document.getElementById('introTree');
+  var html = '';
+  introSections.forEach(function(sec) {
+    var pages = (sec.data && sec.data.pages) ? sec.data.pages : [];
+    var nums = pages.map(function(p) { return p.page; });
+    var pageNums = '';
+    if (nums.length === 1) {
+      pageNums = ' <span class="intro-tree-pages">[p.' + nums[0] + ']</span>';
+    } else if (nums.length > 1) {
+      pageNums = ' <span class="intro-tree-pages">[p.' + nums[0] + '–' + nums[nums.length - 1] + ']</span>';
+    }
+    // Section header (clickable to expand/collapse)
+    html += '<li class="intro-tree-section" data-key="' + sec.key + '" onclick="toggleIntroTreeSection(\'' + sec.key + '\')">';
+    html += '<span class="intro-tree-arrow">▶</span>';
+    html += '<span class="intro-tree-icon">' + sec.icon + '</span>';
+    html += '<span>' + esc(sec.data.section) + pageNums + '</span>';
+    html += '</li>';
+    // Page sub-items
+    html += '<ul class="intro-tree-pages-list" data-section="' + sec.key + '">';
+    pages.forEach(function(pg) {
+      var pgNum = pg.page;
+      html += '<li class="intro-tree-page" data-key="' + sec.key + '" data-page="' + pgNum + '" onclick="showIntroPage(\'' + sec.key + '\',' + pgNum + ')">';
+      html += '📄 পৃষ্ঠা ' + pgNum;
+      html += '</li>';
+    });
+    html += '</ul>';
+  });
+  tree.innerHTML = html;
+}
+
+function toggleIntroTreeSection(key) {
+  var header = document.querySelector('.intro-tree-section[data-key="' + key + '"]');
+  var pageList = document.querySelector('.intro-tree-pages-list[data-section="' + key + '"]');
+  if (!header || !pageList) return;
+  var isOpen = pageList.classList.contains('open');
+  if (isOpen) {
+    pageList.classList.remove('open');
+    header.classList.remove('expanded');
+  } else {
+    pageList.classList.add('open');
+    header.classList.add('expanded');
+    // Also show full section content
+    showIntroSection(key);
+  }
+}
+
+function showIntroPage(sectionKey, pageNum) {
+  // Clear all active states
+  document.querySelectorAll('.intro-tree-page, .intro-tree-section').forEach(function(el) {
+    el.classList.remove('active');
+  });
+  // Mark this page active
+  var pageEl = document.querySelector('.intro-tree-page[data-key="' + sectionKey + '"][data-page="' + pageNum + '"]');
+  if (pageEl) pageEl.classList.add('active');
+  // Also mark parent section as expanded
+  var secHeader = document.querySelector('.intro-tree-section[data-key="' + sectionKey + '"]');
+  if (secHeader) secHeader.classList.add('expanded');
+  var pageList = document.querySelector('.intro-tree-pages-list[data-section="' + sectionKey + '"]');
+  if (pageList) pageList.classList.add('open');
+
+  const sec = introSections.find(function(s) { return s.key === sectionKey; });
+  if (!sec) return;
+  const d = sec.data;
+  const pageData = d.pages.find(function(p) { return p.page === pageNum; });
+  if (!pageData) return;
+  const content = document.getElementById('introContent');
+
+  var editKey = sectionKey + '_page_' + pageNum;
+
+  let html = '<div class="bhasha-page-header" style="margin-bottom:12px">'
+    + '<span class="page-title" style="font-family:var(--serif);font-size:1.4rem">' + esc(d.section) + ' — পৃষ্ঠা ' + pageNum + '</span>'
+    + '<button onclick="enterIntroEdit(\'' + editKey + '\')" style="margin-left:auto;padding:5px 14px;border:1px solid var(--accent);background:#fff;color:var(--accent);border-radius:5px;cursor:pointer;font-size:0.85rem;font-weight:600">✏️ সম্পাদনা</button>'
+    + '</div>';
+  html += '<div class="intro-section-meta">' + esc(d.section_en) + ' · পৃষ্ঠা ' + pageNum + ' · ' + pageData.image + '</div>';
+
+  // Merge lines for just this page
+  var paragraphs = mergeIntroLines(pageData.lines);
+
+  var pgImgName = pageData.image.replace('.jpg', '');
+  html += '<div class="intro-page-text">';
+  html += '<div class="intro-page-label">';
+  html += 'পৃষ্ঠা ' + pageNum;
+  html += ' <a href="Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/' + pgImgName + '.jpg" target="_blank" style="color:var(--accent-light);text-decoration:none;font-size:0.65rem;margin-left:6px" title="মূল পৃষ্ঠা দেখুন">🔗 মূল</a>';
+  html += '</div>';
+  for (var i = 0; i < paragraphs.length; i++) {
+    html += '<p>' + esc(paragraphs[i]) + '</p>';
+  }
+  html += '</div>';
+
+  content.innerHTML = html;
+  content.scrollTop = 0;
+
+  // Check for edited version of this page
+  loadIntroEditedPage(editKey, content);
+}
+
+function isTerminalEnding(line) {
+  var t = line.trim();
+  if (!t) return false;
+  var last = t.charAt(t.length - 1);
+  // দণ্ড, colon, বিসর্গ, closing paren
+  if (last === '\u0964' || last === ':' || last === '\u0983' || last === ')') return true;
+  // Double danda
+  if (t.endsWith('\u0964\u0964')) return true;
+  // Closing quote after danda: ।' or ।"
+  if ((last === '\'' || last === '\u2019' || last === '"') && t.length > 1) {
+    var prev = t.charAt(t.length - 2);
+    if (prev === '\u0964') return true;
+  }
+  return false;
+}
+
+function mergeIntroLines(lines) {
+  if (!lines || !lines.length) return [];
+  var paragraphs = [];
+  var buffer = '';
+  var lastRawLine = '';
+
+  for (var i = 0; i < lines.length; i++) {
+    var line = lines[i].trim();
+    if (!line) continue;
+
+    if (!buffer) {
+      buffer = line;
+      lastRawLine = line;
+      continue;
+    }
+
+    // Join if previous OCR line is long (full column width) and doesn't end with sentence-final punctuation
+    var shouldJoin = (lastRawLine.length > 50 && !isTerminalEnding(lastRawLine));
+
+    if (shouldJoin) {
+      buffer += ' ' + line;
+    } else {
+      paragraphs.push(buffer);
+      buffer = line;
+    }
+    lastRawLine = line;
+  }
+  if (buffer) paragraphs.push(buffer);
+  return paragraphs;
+}
+
+var introEditCache = {};
+var introEditingKey = null;
+
+function showIntroSection(key) {
+  // Update active state
+  document.querySelectorAll('.intro-tree-page, .intro-tree-section').forEach(function(el) {
+    el.classList.remove('active');
+  });
+  var secHeader = document.querySelector('.intro-tree-section[data-key="' + key + '"]');
+  if (secHeader) { secHeader.classList.add('active'); secHeader.classList.add('expanded'); }
+  var pageList = document.querySelector('.intro-tree-pages-list[data-section="' + key + '"]');
+  if (pageList) pageList.classList.add('open');
+
+  const sec = introSections.find(function(s) { return s.key === key; });
+  if (!sec) return;
+  const d = sec.data;
+  const content = document.getElementById('introContent');
+
+  let html = '<div class="bhasha-page-header" style="margin-bottom:12px">'
+    + '<span class="page-title" style="font-family:var(--serif);font-size:1.4rem">' + esc(d.section) + '</span>'
+    + '<button onclick="enterIntroEdit(\'' + key + '\')" style="margin-left:auto;padding:5px 14px;border:1px solid var(--accent);background:#fff;color:var(--accent);border-radius:5px;cursor:pointer;font-size:0.85rem;font-weight:600">✏️ সম্পাদনা</button>'
+    + '</div>';
+  html += '<div class="intro-section-meta">' + esc(d.section_en) + ' · ' + esc(d.page_range) + '</div>';
+
+  // Flatten all pages' lines, inserting page markers
+  var allLines = [];
+  var pageMarkers = {}; // index -> page info
+  for (const page of d.pages) {
+    pageMarkers[allLines.length] = page;
+    for (const line of page.lines) {
+      allLines.push(line);
+    }
+  }
+
+  // Merge OCR lines into real paragraphs
+  var paragraphs = mergeIntroLines(allLines);
+
+  // Build page-marker positions (map paragraph index to page info)
+  // Track which raw line index each paragraph starts at
+  var rawIdx = 0;
+  var paraPageMap = {};
+  var usedLines = 0;
+  for (var pi = 0; pi < paragraphs.length; pi++) {
+    // Check if any page starts within this paragraph's span
+    if (pageMarkers[usedLines]) {
+      paraPageMap[pi] = pageMarkers[usedLines];
+    }
+    // Count how many raw lines this paragraph consumed
+    var paraText = paragraphs[pi];
+    var consumed = 0;
+    var accum = '';
+    for (var ri = usedLines; ri < allLines.length; ri++) {
+      var rl = allLines[ri].trim();
+      if (!rl) { consumed++; continue; }
+      if (!accum) {
+        accum = rl;
+      } else {
+        accum += ' ' + rl;
+      }
+      consumed++;
+      if (accum.length >= paraText.length) break;
+    }
+    usedLines += consumed;
+  }
+
+  html += '<div class="intro-page-text">';
+  for (var pi = 0; pi < paragraphs.length; pi++) {
+    // Insert page marker at page boundaries
+    if (paraPageMap[pi]) {
+      var pg = paraPageMap[pi];
+      var pgNum = pg.image.replace('IMG_', '').replace('.jpg', '');
+      html += '<div class="intro-page-label">';
+      html += 'পৃষ্ঠা ' + pgNum;
+      html += ' <a href="Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/' + pg.image.replace('.jpg','') + '.jpg" target="_blank" style="color:var(--accent-light);text-decoration:none;font-size:0.65rem;margin-left:6px" title="মূল পৃষ্ঠা দেখুন">🔗 মূল</a>';
+      html += '</div>';
+    }
+    html += '<p>' + esc(paragraphs[pi]) + '</p>';
+  }
+  html += '</div>';
+
+  content.innerHTML = html;
+  content.scrollTop = 0;
+
+  // If an edited version exists, load and display it
+  loadIntroEditedPage(key, content);
+}
+
+async function loadIntroEditedPage(key, contentEl) {
+  try {
+    var editedHtml = null;
+    if (introEditCache[key]) {
+      editedHtml = introEditCache[key];
+    } else {
+      var resp = await fetch('intro/EditedHTML/' + key + '.html');
+      if (resp.ok) editedHtml = await resp.text();
+    }
+    if (editedHtml) {
+      var parsed = parseIntroEditKey(key);
+      var sec = introSections.find(function(s) { return s.key === parsed.sectionKey; });
+      var d = sec ? sec.data : {};
+      var titleText = esc(d.section || key);
+      if (parsed.pageNum !== null) titleText += ' — পৃষ্ঠা ' + parsed.pageNum;
+      var html = '<div class="bhasha-page-header" style="margin-bottom:12px">'
+        + '<span class="page-title" style="font-family:var(--serif);font-size:1.4rem">' + titleText + ' <span style="font-size:0.7rem;color:#2a7;font-weight:normal">✔ সম্পাদিত</span></span>'
+        + '<button onclick="enterIntroEdit(\'' + key + '\')" style="margin-left:auto;padding:5px 14px;border:1px solid var(--accent);background:#fff;color:var(--accent);border-radius:5px;cursor:pointer;font-size:0.85rem;font-weight:600">✏️ সম্পাদনা</button>'
+        + '</div>';
+      html += '<div class="intro-section-meta">' + esc(d.section_en || '') + ' · ' + esc(d.page_range || '') + '</div>';
+      html += '<div class="bhasha-edit-area" style="padding:0">' + editedHtml + '</div>';
+      contentEl.innerHTML = html;
+    }
+  } catch(e) { /* no edited version */ }
+}
+
+// ─── Shared Toolbar Builder ───────────────────────────────
+function buildEditToolbarHtml(editorId, spellBtnId, spellPanelId, blockTypeId, imgUploadId) {
+  return '<div class="bhasha-edit-toolbar">'
+    +   '<div class="tb-row">'
+    +     '<span class="tb-group-label">ব্লক:</span>'
+    +     '<select id="' + blockTypeId + '" onchange="changeBhashaBlockType(this.value,\'' + editorId + '\',\'' + blockTypeId + '\')" title="ব্লকের ধরন">'
+    +       '<option value="paragraph">¶ অনুচ্ছেদ</option>'
+    +       '<option value="heading">H শিরোনাম</option>'
+    +       '<option value="section-title">§ বিভাগ</option>'
+    +       '<option value="numbered"># সংখ্যায়িত</option>'
+    +       '<option value="example-group">⁃ উদাহরণ</option>'
+    +       '<option value="sub-examples">⁃⁃ উপ-উদাহরণ</option>'
+    +     '</select>'
+    +     '<button onclick="addBhashaBlockBelow(\'' + editorId + '\')" title="নতুন ব্লক">+</button>'
+    +     '<button onclick="deleteBhashaBlock(\'' + editorId + '\')" title="ব্লক মুছুন">🗑</button>'
+    +     '<span class="tb-sep"></span>'
+    +     '<span class="tb-group-label">টেক্সট:</span>'
+    +     tbBtn('bold', '<b>B</b>', 'বোল্ড (Ctrl+B)')
+    +     tbBtn('italic', '<i>I</i>', 'ইটালিক (Ctrl+I)')
+    +     tbBtn('underline', '<u>U</u>', 'আন্ডারলাইন (Ctrl+U)')
+    +     tbBtn('strikeThrough', '<s>S</s>', 'স্ট্রাইক')
+    +     tbBtn('superscript', 'x²', 'সুপারস্ক্রিপ্ট')
+    +     tbBtn('subscript', 'x₂', 'সাবস্ক্রিপ্ট')
+    +     '<span class="tb-sep"></span>'
+    +     '<span class="tb-group-label">আকার:</span>'
+    +     '<input type="number" id="bhFontSize_' + editorId + '" value="16" min="8" max="72" step="1" onchange="bhashaSetFontSize(this.value,\'' + editorId + '\')" title="অক্ষরের আকার (px)">'
+    +     '<button onclick="bhashaSetFontSize(parseInt(document.getElementById(\'bhFontSize_' + editorId + '\').value||16)+2,\'' + editorId + '\')" title="বড়ো">A+</button>'
+    +     '<button onclick="bhashaSetFontSize(Math.max(8,parseInt(document.getElementById(\'bhFontSize_' + editorId + '\').value||16)-2),\'' + editorId + '\')" title="ছোটো">A−</button>'
+    +     '<span class="tb-sep"></span>'
+    +     '<span class="tb-group-label">রঙ:</span>'
+    +     '<input type="color" value="#333333" onchange="document.execCommand(\'foreColor\',false,this.value)" title="অক্ষরের রঙ">'
+    +     '<input type="color" value="#ffff00" onchange="document.execCommand(\'hiliteColor\',false,this.value)" title="হাইলাইট">'
+    +     '<button onclick="document.execCommand(\'hiliteColor\',false,\'transparent\')" title="হাইলাইট সরান">∕🟡</button>'
+    +   '</div>'
+    +   '<div class="tb-row" style="border-top:1px solid #e8e8ec;padding-top:3px">'
+    +     '<span class="tb-group-label">সাজানো:</span>'
+    +     '<button onclick="document.execCommand(\'justifyLeft\',false,null)" title="বামে">≡◁</button>'
+    +     '<button onclick="document.execCommand(\'justifyCenter\',false,null)" title="মাঝে">≡</button>'
+    +     '<button onclick="document.execCommand(\'justifyRight\',false,null)" title="ডানে">▷≡</button>'
+    +     '<button onclick="document.execCommand(\'justifyFull\',false,null)" title="সমপ্রসারিত">≡≡</button>'
+    +     '<span class="tb-sep"></span>'
+    +     '<span class="tb-group-label">ইন্ডেন্ট:</span>'
+    +     '<button onclick="document.execCommand(\'indent\',false,null)" title="ইন্ডেন্ট (ডানে)">⇥</button>'
+    +     '<button onclick="document.execCommand(\'outdent\',false,null)" title="আউটডেন্ট (বামে)">⇤</button>'
+    +     '<span class="tb-sep"></span>'
+    +     '<span class="tb-group-label">সরান:</span>'
+    +     '<button onclick="document.execCommand(\'removeFormat\',false,null)" title="ইনলাইন ফরম্যাট সরান">✕fmt</button>'
+    +     '<button onclick="clearBlockToPlain(\'' + editorId + '\',\'' + blockTypeId + '\')" title="ব্লক → সাধারণ অনুচ্ছেদ">⇧¶</button>'
+    +     '<span class="tb-sep"></span>'
+    +     '<span class="tb-group-label">টেবিল:</span>'
+    +     '<button onclick="insertBhashaTable()" title="টেবিল ঢোকান">☐</button>'
+    +     '<button onclick="insertBhashaTableRow()" title="সারি যোগ">+r</button>'
+    +     '<button onclick="insertBhashaTableCol()" title="কলাম যোগ">+c</button>'
+    +     '<button onclick="deleteBhashaTableRow()" title="সারি মুছুন">−r</button>'
+    +     '<button onclick="deleteBhashaTableCol()" title="কলাম মুছুন">−c</button>'
+    +     '<span class="tb-sep"></span>'
+    +     '<button onclick="document.getElementById(\'' + imgUploadId + '\').click()" title="ছবি">🖼️</button>'
+    +     '<button onclick="document.execCommand(\'insertHorizontalRule\',false,null)" title="রেখা">─</button>'
+    +     '<button onclick="document.execCommand(\'undo\',false,null)" title="Undo (Ctrl+Z)">↩</button>'
+    +     '<button onclick="document.execCommand(\'redo\',false,null)" title="Redo (Ctrl+Y)">↪</button>'
+    +     '<span class="tb-sep"></span>'
+    +     '<button onclick="toggleBhashaSpellCheck(\'' + editorId + '\',\'' + spellBtnId + '\',\'' + spellPanelId + '\')" id="' + spellBtnId + '" title="বানান পরীক্ষা (বাংলা+English)">🔍 বানান</button>'
+    +   '</div>'
+    + '</div>'
+    + '<div class="bhasha-spell-panel" id="' + spellPanelId + '"></div>';
+}
+
+// ─── Intro Edit Mode ──────────────────────────────────────
+function parseIntroEditKey(key) {
+  // Returns { sectionKey, pageNum } or { sectionKey, pageNum: null } for full-section keys
+  var m = key.match(/^(.+)_page_(\d+)$/);
+  if (m) return { sectionKey: m[1], pageNum: parseInt(m[2]) };
+  return { sectionKey: key, pageNum: null };
+}
+
+async function enterIntroEdit(key) {
+  introEditingKey = key;
+  var parsed = parseIntroEditKey(key);
+  var sec = introSections.find(function(s) { return s.key === parsed.sectionKey; });
+  if (!sec) return;
+  var d = sec.data;
+  var content = document.getElementById('introContent');
+
+  // Determine which pages to show
+  var editPages = d.pages;
+  if (parsed.pageNum !== null) {
+    var singlePage = d.pages.find(function(p) { return p.page === parsed.pageNum; });
+    editPages = singlePage ? [singlePage] : d.pages;
+  }
+
+  // First page image for the side pane
+  var firstPage = editPages.length > 0 ? editPages[0] : null;
+  var imgUrl = firstPage
+    ? 'Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/' + firstPage.image.replace('.jpg', '') + '.jpg'
+    : '';
+
+  // Build initial editor content: prefer cache, then edited HTML, else generate from current view
+  var initialHtml = '';
+  if (introEditCache[key]) {
+    initialHtml = introEditCache[key];
+  } else {
+    try {
+      var resp = await fetch('intro/EditedHTML/' + key + '.html');
+      if (resp.ok) initialHtml = await resp.text();
+    } catch(e) {}
+  }
+
+  if (!initialHtml) {
+    // Generate from merged paragraphs
+    var allLines = [];
+    for (var p = 0; p < editPages.length; p++) {
+      for (var l = 0; l < editPages[p].lines.length; l++) {
+        allLines.push(editPages[p].lines[l]);
+      }
+    }
+    var paragraphs = mergeIntroLines(allLines);
+    for (var i = 0; i < paragraphs.length; i++) {
+      initialHtml += '<div class="bhasha-block-paragraph">' + esc(paragraphs[i]) + '</div>';
+    }
+  }
+
+  var editTitle = esc(d.section);
+  if (parsed.pageNum !== null) editTitle += ' — পৃষ্ঠা ' + parsed.pageNum;
+
+  content.innerHTML =
+    '<div class="bhasha-edit-split">'
+    +   '<div class="bhasha-edit-editor-pane">'
+    +     '<div style="padding:6px 12px;background:#f5f5f7;border-bottom:1px solid #ddd;font-size:0.85rem;font-weight:600;color:var(--accent)">' + editTitle + '</div>'
+    +     buildEditToolbarHtml('introEditor', 'introSpellBtn', 'introSpellPanel', 'introBlockType', 'introImgUpload')
+    +     '<input type="file" id="introImgUpload" accept="image/*" style="display:none" onchange="handleIntroImgUpload(this)">'
+    +     '<div class="bhasha-edit-area" contenteditable="true" id="introEditor">'
+    +       initialHtml
+    +     '</div>'
+    +     '<div class="bhasha-edit-footer">'
+    +       '<span class="save-status" id="introSaveStatus"></span>'
+    +       '<button class="btn-cancel" onclick="exitIntroEdit()">বাতিল</button>'
+    +       '<button class="btn-save" onclick="saveIntroEdit()">💾 সংরক্ষণ</button>'
+    +     '</div>'
+    +   '</div>'
+    +   '<div class="bhasha-edit-img-pane">'
+    +     (imgUrl ? '<img src="' + imgUrl + '" onclick="this.classList.toggle(\'zoomed\')" title="ক্লিক করে জুম করুন">' : '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#888">কোনো ছবি নেই</div>')
+    +   '</div>'
+    + '</div>';
+
+  // Add page navigation in image pane if multiple pages
+  if (editPages.length > 1) {
+    var imgPane = content.querySelector('.bhasha-edit-img-pane');
+    var navHtml = '<div style="display:flex;gap:4px;padding:6px 8px;background:#f5f5f7;border-bottom:1px solid #ddd;flex-wrap:wrap">';
+    for (var pi = 0; pi < editPages.length; pi++) {
+      var pgn = editPages[pi].page || editPages[pi].image.replace('IMG_','').replace('.jpg','');
+      navHtml += '<button onclick="switchIntroEditImg(this,' + pi + ')" style="padding:2px 8px;border:1px solid #ccc;border-radius:3px;background:' + (pi===0?'var(--accent);color:#fff':'#fff') + ';cursor:pointer;font-size:0.75rem" data-pidx="' + pi + '">' + pgn + '</button>';
+    }
+    navHtml += '</div>';
+    imgPane.insertAdjacentHTML('afterbegin', navHtml);
+  }
+
+  // Initialize listeners (reuse bhasha block system)
+  setTimeout(function() {
+    initEditListeners('introEditor', 'introBlockType');
+  }, 50);
+}
+
+function switchIntroEditImg(btn, pageIdx) {
+  var parsed = parseIntroEditKey(introEditingKey);
+  var sec = introSections.find(function(s) { return s.key === parsed.sectionKey; });
+  if (!sec) return;
+  var editPages = sec.data.pages;
+  if (parsed.pageNum !== null) {
+    var sp = sec.data.pages.find(function(p) { return p.page === parsed.pageNum; });
+    editPages = sp ? [sp] : sec.data.pages;
+  }
+  if (!editPages[pageIdx]) return;
+  var pg = editPages[pageIdx];
+  var imgUrl = 'Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/' + pg.image.replace('.jpg','') + '.jpg';
+  var imgEl = btn.closest('.bhasha-edit-img-pane').querySelector('img');
+  if (imgEl) imgEl.src = imgUrl;
+  // Update active button
+  btn.parentElement.querySelectorAll('button').forEach(function(b) {
+    b.style.background = '#fff'; b.style.color = '#333';
+  });
+  btn.style.background = 'var(--accent)'; btn.style.color = '#fff';
+}
+
+async function saveIntroEdit() {
+  var editor = document.getElementById('introEditor');
+  if (!editor || !introEditingKey) return;
+  var status = document.getElementById('introSaveStatus');
+  status.textContent = 'সংরক্ষণ হচ্ছে...';
+  status.style.color = '#888';
+
+  if (!ghIsConfigured()) {
+    status.textContent = '✕ GitHub সেটিংস কনফিগার করুন (⚙️ GitHub বাটন)';
+    status.style.color = '#c70000';
+    return;
+  }
+
+  try {
+    var filePath = 'intro/EditedHTML/' + introEditingKey + '.html';
+    var htmlContent = editor.innerHTML;
+
+    var existing = await ghApiGet(filePath);
+    var sha = existing ? existing.sha : null;
+
+    var userName = localStorage.getItem('dict_user_name') || 'Anonymous';
+    var content = utf8ToBase64(htmlContent);
+    await ghApiPut(filePath, content, 'পরিচিতি সম্পাদনা: ' + introEditingKey + ' by ' + userName, sha);
+
+    introEditCache[introEditingKey] = htmlContent;
+
+    status.textContent = '✔ সংরক্ষিত হয়েছে (GitHub)';
+    status.style.color = '#2a7';
+  } catch(err) {
+    status.textContent = '✕ সংরক্ষণ ব্যর্থ: ' + err.message;
+    status.style.color = '#c70000';
+    console.error('Intro save error:', err);
+  }
+}
+
+function exitIntroEdit() {
+  if (_editSelHandler) {
+    document.removeEventListener('selectionchange', _editSelHandler);
+    _editSelHandler = null;
+  }
+  if (introEditingKey) {
+    var parsed = parseIntroEditKey(introEditingKey);
+    if (parsed.pageNum !== null) {
+      showIntroPage(parsed.sectionKey, parsed.pageNum);
+    } else {
+      showIntroSection(parsed.sectionKey);
+    }
+  }
+  introEditingKey = null;
+}
+
+async function handleIntroImgUpload(input) {
+  if (!input.files || !input.files[0] || !introEditingKey) return;
+  var file = input.files[0];
+  var status = document.getElementById('introSaveStatus');
+  if (status) { status.textContent = 'ছবি আপলোড হচ্ছে...'; status.style.color = '#888'; }
+
+  if (!ghIsConfigured()) {
+    if (status) { status.textContent = '✕ GitHub সেটিংস কনফিগার করুন'; status.style.color = '#c70000'; }
+    input.value = '';
+    return;
+  }
+
+  var reader = new FileReader();
+  reader.onload = async function(e) {
+    var base64 = e.target.result.split(',')[1];
+    var ext = file.name.split('.').pop().toLowerCase() || 'png';
+    var timestamp = Date.now();
+    var safeFileName = introEditingKey + '_' + timestamp + '.' + ext;
+    var ghFilePath = 'intro/EditImages/' + safeFileName;
+    try {
+      await ghApiPut(ghFilePath, base64, 'ছবি যুক্ত: ' + safeFileName, null);
+      var repo = getGhRepo();
+      var branch = getGhBranch();
+      var imgUrl = 'https://raw.githubusercontent.com/' + repo + '/' + branch + '/' + ghFilePath;
+      document.execCommand('insertHTML', false,
+        '<img src="' + imgUrl + '" style="max-width:100%;margin:8px 0;display:block" alt="">');
+      if (status) { status.textContent = '✔ ছবি যুক্ত হয়েছে (GitHub)'; status.style.color = '#2a7'; }
+    } catch(err) {
+      console.error('Image upload error:', err);
+      if (status) { status.textContent = '✕ ছবি আপলোড ব্যর্থ: ' + err.message; status.style.color = '#c70000'; }
+    }
+    input.value = '';
+  };
+  reader.readAsDataURL(file);
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Bhashatattwa (ভাষাতত্ত্ব) Mode — page-based with formatting
+// ═══════════════════════════════════════════════════════════════════
+let bhashaLoaded = false;
+let bhashaPageBlocks = {};  // pageNum → [blocks]
+let bhashaSections = [];    // [{section, section_en, pages:[num,...]}]
+
+const BHASHA_JSON_FILES = [
+  'bhashatattwa/ParsedJSON/dhwanilipi_o_swaradhwani.json',
+  'bhashatattwa/ParsedJSON/byanjanadhwani.json',
+  'bhashatattwa/ParsedJSON/shwasaghat.json',
+  'bhashatattwa/ParsedJSON/barnamala_o_dwiswara.json',
+  'bhashatattwa/ParsedJSON/dhwanigata_paribartan.json',
+  'bhashatattwa/ParsedJSON/apinihiti_o_dhwani_biparyay.json',
+  'bhashatattwa/ParsedJSON/shabdatattwa.json',
+  'bhashatattwa/ParsedJSON/rupatattwa_shabdarup.json',
+  'bhashatattwa/ParsedJSON/rupatattwa_dhatu_o_kriyarup.json',
+  'bhashatattwa/ParsedJSON/rupatattwa_pratyay.json',
+  'bhashatattwa/ParsedJSON/rupatattwa_sandhi_o_samas.json',
+  'bhashatattwa/ParsedJSON/rupatattwa_bisheshya_linga_bachan.json',
+  'bhashatattwa/ParsedJSON/rupatattwa_karma_o_bisheshan.json',
+  'bhashatattwa/ParsedJSON/rupatattwa_bisheshan_sarbanam.json',
+  'bhashatattwa/ParsedJSON/rupatattwa_kriya.json',
+  'bhashatattwa/ParsedJSON/rupatattwa_anusarga_karak_bachya.json',
+  'bhashatattwa/ParsedJSON/shabdarthatattwa.json',
+  'bhashatattwa/ParsedJSON/shabdabhandar.json',
+  'bhashatattwa/ParsedJSON/bakyatattwa.json',
+  'bhashatattwa/ParsedJSON/narir_bhasha.json',
+  'bhashatattwa/ParsedJSON/charya_o_srikrishnakirtaner_bhasha.json',
+];
+
+async function loadBhasha() {
+  if (bhashaLoaded) return;
+  var tree = document.getElementById('bhashaTree');
+  tree.innerHTML = '<li style="padding:16px 20px;color:#888;font-size:0.85rem">লোড হচ্ছে...</li>';
+  try {
+    var results = await Promise.all(
+      BHASHA_JSON_FILES.map(function(f) { return fetch(f).then(function(r) { return r.json(); }); })
+    );
+    // Index all blocks by source_page & build section metadata
+    bhashaPageBlocks = {};
+    bhashaSections = [];
+    for (var i = 0; i < results.length; i++) {
+      var blocks = results[i].blocks || [];
+      var secPages = {};
+      for (var j = 0; j < blocks.length; j++) {
+        var pg = blocks[j].source_page;
+        if (!bhashaPageBlocks[pg]) bhashaPageBlocks[pg] = [];
+        bhashaPageBlocks[pg].push(blocks[j]);
+        secPages[pg] = true;
+      }
+      var sortedPages = Object.keys(secPages).map(Number).sort(function(a,b){return a-b;});
+      bhashaSections.push({
+        section: results[i].section || '',
+        section_en: results[i].section_en || '',
+        pages: sortedPages
+      });
+    }
+    renderBhashaTree();
+    bhashaLoaded = true;
+    if (bhashaSections.length > 0 && bhashaSections[0].pages.length > 0) {
+      // Expand first section and show first page
+      toggleBhashaTreeSection(0);
+      showBhashaPage(bhashaSections[0].pages[0]);
+    }
+  } catch (err) {
+    tree.innerHTML = '<li style="padding:16px 20px;color:#c70000;font-size:0.85rem">লোড করতে ব্যর্থ।</li>';
+    console.error('Bhasha load error:', err);
+  }
+}
+
+function renderBhashaTree() {
+  var tree = document.getElementById('bhashaTree');
+  var html = '';
+  for (var si = 0; si < bhashaSections.length; si++) {
+    var sec = bhashaSections[si];
+    var pgs = sec.pages;
+    var pageRange = '';
+    if (pgs.length === 1) {
+      pageRange = ' <span class="intro-tree-pages">[p.' + pgs[0] + ']</span>';
+    } else if (pgs.length > 1) {
+      pageRange = ' <span class="intro-tree-pages">[p.' + pgs[0] + '–' + pgs[pgs.length-1] + ']</span>';
+    }
+    html += '<li class="intro-tree-section" data-bsec="' + si + '" onclick="toggleBhashaTreeSection(' + si + ')">';
+    html += '<span class="intro-tree-arrow">▶</span>';
+    html += '<span class="intro-tree-icon">📘</span>';
+    html += '<span>' + esc(sec.section) + pageRange + '</span>';
+    html += '</li>';
+    html += '<ul class="intro-tree-pages-list" data-bsec="' + si + '">';
+    for (var pi = 0; pi < pgs.length; pi++) {
+      html += '<li class="intro-tree-page" data-bpage="' + pgs[pi] + '" onclick="showBhashaPage(' + pgs[pi] + ')">';
+      html += '📄 পৃষ্ঠা ' + pgs[pi];
+      html += '</li>';
+    }
+    html += '</ul>';
+  }
+  tree.innerHTML = html;
+}
+
+function toggleBhashaTreeSection(secIdx) {
+  var header = document.querySelector('.intro-tree-section[data-bsec="' + secIdx + '"]');
+  var pageList = document.querySelector('.intro-tree-pages-list[data-bsec="' + secIdx + '"]');
+  if (!header || !pageList) return;
+  var isOpen = pageList.classList.contains('open');
+  if (isOpen) {
+    pageList.classList.remove('open');
+    header.classList.remove('expanded');
+  } else {
+    pageList.classList.add('open');
+    header.classList.add('expanded');
+  }
+}
+
+function formatExampleText(text) {
+  var s = esc(text);
+  s = s.replace(/\s*⇒\s*/g, ' <span class="arrow">⇒</span> ');
+  s = s.replace(/\s*&gt;\s*/g, ' <span class="arrow">→</span> ');
+  s = s.replace(/&lt;b&gt;/g, '<b>').replace(/&lt;\/b&gt;/g, '</b>');
+  return s;
+}
+
+function renderBhashaBlock(block) {
+  var h = '';
+  switch (block.type) {
+    case 'section_title':
+      h = '<div class="bhasha-block-section-title">' + esc(block.text) + '</div>';
+      break;
+    case 'heading':
+      h = '<div class="bhasha-block-heading">' + esc(block.text) + '</div>';
+      break;
+    case 'numbered':
+      var nt = esc(block.text);
+      nt = nt.replace(/&lt;b&gt;/g, '<b>').replace(/&lt;\/b&gt;/g, '</b>');
+      h = '<div class="bhasha-block-numbered">' + nt + '</div>';
+      break;
+    case 'paragraph':
+      var pt = esc(block.text);
+      pt = pt.replace(/&lt;b&gt;/g, '<b>').replace(/&lt;\/b&gt;/g, '</b>');
+      h = '<div class="bhasha-block-paragraph">' + pt + '</div>';
+      break;
+    case 'example_group':
+      h = '<div class="bhasha-block-example-group">';
+      for (var i = 0; i < block.items.length; i++) {
+        h += '<div class="bhasha-example-item">' + formatExampleText(block.items[i]) + '</div>';
+      }
+      h += '</div>';
+      break;
+    case 'sub_examples':
+      h = '<div class="bhasha-block-sub-examples">';
+      for (var i = 0; i < block.items.length; i++) {
+        var st = esc(block.items[i]);
+        st = st.replace(/&lt;b&gt;/g, '<b>').replace(/&lt;\/b&gt;/g, '</b>');
+        h += '<div class="bhasha-sub-item">' + st + '</div>';
+      }
+      h += '</div>';
+      break;
+    case 'table':
+      h = '<table class="bhasha-table">';
+      if (block.headers && block.headers.length > 0) {
+        h += '<thead><tr>';
+        for (var i = 0; i < block.headers.length; i++) {
+          h += '<th>' + esc(block.headers[i]) + '</th>';
+        }
+        h += '</tr></thead>';
+      }
+      h += '<tbody>';
+      for (var r = 0; r < block.rows.length; r++) {
+        h += '<tr>';
+        for (var c = 0; c < block.rows[r].length; c++) {
+          var ct = esc(block.rows[r][c]);
+          ct = ct.replace(/&lt;b&gt;/g, '<b>').replace(/&lt;\/b&gt;/g, '</b>');
+          h += '<td>' + ct + '</td>';
+        }
+        h += '</tr>';
+      }
+      h += '</tbody></table>';
+      break;
+    default:
+      h = '<div class="bhasha-block-paragraph">' + esc(block.text || '') + '</div>';
+  }
+  return h;
+}
+
+function showBhashaPage(pageNum) {
+  // Clear all active page highlights
+  document.querySelectorAll('#bhashaTree .intro-tree-page').forEach(function(el) {
+    el.classList.toggle('active', el.getAttribute('data-bpage') === String(pageNum));
+  });
+  // Ensure the parent section is expanded
+  for (var si = 0; si < bhashaSections.length; si++) {
+    if (bhashaSections[si].pages.indexOf(pageNum) !== -1) {
+      var secHeader = document.querySelector('.intro-tree-section[data-bsec="' + si + '"]');
+      var pageList = document.querySelector('.intro-tree-pages-list[data-bsec="' + si + '"]');
+      if (secHeader) secHeader.classList.add('expanded');
+      if (pageList) pageList.classList.add('open');
+      break;
+    }
+  }
+
+  var blocks = bhashaPageBlocks[pageNum];
+  if (!blocks) return;
+
+  var content = document.getElementById('bhashaContent');
+  var imgFile = 'IMG_' + String(pageNum).padStart(4, '0') + '.jpg';
+  var imgHref = 'Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/' + imgFile;
+
+  var html = '<div class="bhasha-page-header">'
+    + '<span class="page-title">পৃষ্ঠা ' + pageNum + '</span>'
+    + '<a href="' + imgHref + '" target="_blank" title="মূল পৃষ্ঠা দেখুন">🔗 মূল ছবি</a>'
+    + '<button onclick="enterBhashaEdit(' + pageNum + ')" style="margin-left:auto;padding:5px 14px;border:1px solid var(--accent);background:#fff;color:var(--accent);border-radius:5px;cursor:pointer;font-size:0.85rem;font-weight:600">✏️ সম্পাদনা</button>'
+    + '</div>';
+
+  for (var i = 0; i < blocks.length; i++) {
+    html += renderBhashaBlock(blocks[i]);
+  }
+
+  content.innerHTML = html;
+  content.scrollTop = 0;
+
+  // If an edited version exists, load and display it instead of parsed blocks
+  loadBhashaEditedPage(pageNum, content, imgHref);
+}
+
+async function loadBhashaEditedPage(pageNum, contentEl, imgHref) {
+  try {
+    var editedHtml = null;
+    // Check local cache first (for immediate display after save)
+    if (bhashaEditCache[pageNum]) {
+      editedHtml = bhashaEditCache[pageNum];
+    } else {
+      var resp = await fetch('bhashatattwa/EditedHTML/page_' + String(pageNum).padStart(4, '0') + '.html');
+      if (resp.ok) editedHtml = await resp.text();
+    }
+    if (editedHtml) {
+      var html = '<div class="bhasha-page-header">'
+        + '<span class="page-title">পৃষ্ঠা ' + pageNum + ' <span style="font-size:0.7rem;color:#2a7;font-weight:normal">✔ সম্পাদিত</span></span>'
+        + '<a href="' + imgHref + '" target="_blank" title="মূল পৃষ্ঠা দেখুন">🔗 মূল ছবি</a>'
+        + '<button onclick="enterBhashaEdit(' + pageNum + ')" style="margin-left:auto;padding:5px 14px;border:1px solid var(--accent);background:#fff;color:var(--accent);border-radius:5px;cursor:pointer;font-size:0.85rem;font-weight:600">✏️ সম্পাদনা</button>'
+        + '</div>';
+      html += '<div class="bhasha-edit-area" style="padding:0">' + editedHtml + '</div>';
+      contentEl.innerHTML = html;
+    }
+  } catch(e) { /* no edited version, keep parsed blocks */ }
+}
+
+// ─── Edit Mode ───────────────────────────────────────────
+let bhashaEditingPage = null;
+
+function getBhashaImgUrl(pageNum) {
+  return 'Images/Barak%20Upatyakar%20Ancholik%20Bhashar%20Abhidhan%20O%20Bhashatatwa%20-%20Copy/IMG_'
+    + String(pageNum).padStart(4, '0') + '.jpg';
+}
+
+async function enterBhashaEdit(pageNum) {
+  bhashaEditingPage = pageNum;
+  var content = document.getElementById('bhashaContent');
+  var imgUrl = getBhashaImgUrl(pageNum);
+
+  // Build initial editor content: prefer cache, then edited HTML, else generate from blocks
+  var initialHtml = '';
+  if (bhashaEditCache[pageNum]) {
+    initialHtml = bhashaEditCache[pageNum];
+  } else {
+    try {
+      var resp = await fetch('bhashatattwa/EditedHTML/page_' + String(pageNum).padStart(4, '0') + '.html');
+      if (resp.ok) {
+        initialHtml = await resp.text();
+      }
+    } catch(e) {}
+  }
+
+  if (!initialHtml) {
+    // Generate from parsed blocks
+    var blocks = bhashaPageBlocks[pageNum] || [];
+    for (var i = 0; i < blocks.length; i++) {
+      initialHtml += renderBhashaBlock(blocks[i]);
+    }
+  }
+
+  content.innerHTML =
+    '<div class="bhasha-edit-split">'
+    +   '<div class="bhasha-edit-editor-pane">'
+    +     buildEditToolbarHtml('bhashaEditor', 'bhSpellBtn', 'bhashaSpellPanel', 'bhashaBlockType', 'bhashaImgUpload')
+    +     '<input type="file" id="bhashaImgUpload" accept="image/*" style="display:none" onchange="handleBhashaImgUpload(this)">'
+    +     '<div class="bhasha-edit-area" contenteditable="true" id="bhashaEditor">'
+    +       initialHtml
+    +     '</div>'
+    +     '<div class="bhasha-edit-footer">'
+    +       '<span class="save-status" id="bhashaSaveStatus"></span>'
+    +       '<button class="btn-cancel" onclick="exitBhashaEdit()">বাতিল</button>'
+    +       '<button class="btn-save" onclick="saveBhashaEdit()">💾 সংরক্ষণ</button>'
+    +     '</div>'
+    +   '</div>'
+    +   '<div class="bhasha-edit-img-pane">'
+    +     '<img src="' + imgUrl + '" onclick="this.classList.toggle(\'zoomed\')" title="ক্লিক করে জুম করুন">'
+    +   '</div>'
+    + '</div>';;
+
+  // Initialize block labels and cursor tracking
+  setTimeout(function() {
+    initBhashaEditListeners();
+  }, 50);
+}
+
+function tbBtn(cmd, label, title) {
+  return '<button onclick="document.execCommand(\'' + cmd + '\',false,null)" title="' + title + '">' + label + '</button>';
+}
+
+// ─── Font size, color, spell check ─────────────────
+function bhashaSetFontSize(px, editorId) {
+  px = parseInt(px) || 16;
+  if (px < 8) px = 8;
+  if (px > 72) px = 72;
+  var input = document.getElementById('bhFontSize_' + (editorId || 'bhashaEditor'));
+  if (input) input.value = px;
+  // execCommand fontSize only supports 1-7; use CSS span instead
+  var sel = window.getSelection();
+  if (!sel.rangeCount || sel.isCollapsed) return;
+  // Wrap selection in span with font-size
+  document.execCommand('fontSize', false, '7');
+  // Find the font tags created and replace with span
+  var editor = document.getElementById(editorId || 'bhashaEditor');
+  if (!editor) return;
+  var fonts = editor.querySelectorAll('font[size="7"]');
+  fonts.forEach(function(f) {
+    var span = document.createElement('span');
+    span.style.fontSize = px + 'px';
+    span.innerHTML = f.innerHTML;
+    f.parentNode.replaceChild(span, f);
+  });
+}
+
+function toggleBhashaSpellCheck(editorId, btnId, panelId) {
+  var panel = document.getElementById(panelId || 'bhashaSpellPanel');
+  var btn = document.getElementById(btnId || 'bhSpellBtn');
+  if (!panel) return;
+  if (panel.classList.contains('visible')) {
+    panel.classList.remove('visible');
+    panel.innerHTML = '';
+    if (btn) btn.classList.remove('active');
+    // Remove squiggles
+    var editor = document.getElementById(editorId || 'bhashaEditor');
+    if (editor) {
+      editor.querySelectorAll('.spell-err').forEach(function(el) {
+        var parent = el.parentNode;
+        while (el.firstChild) parent.insertBefore(el.firstChild, el);
+        parent.removeChild(el);
+        parent.normalize();
+      });
+    }
+    return;
+  }
+  if (btn) btn.classList.add('active');
+  runBhashaSpellCheck(panel, editorId);
+}
+
+function runBhashaSpellCheck(panel, editorId) {
+  var editor = document.getElementById(editorId || 'bhashaEditor');
+  if (!editor) return;
+  panel.classList.add('visible');
+  panel.innerHTML = '<i>পরীক্ষা চলছে...</i>';
+
+  // Get plain text
+  var text = editor.innerText || '';
+  // Basic heuristic spell check for Bengali: look for common patterns
+  // - mixed script words (partial Devanagari in Bengali text)
+  // - orphan Latin chars in Bengali word context
+  // - repeated punctuation artifacts from OCR
+  var errors = [];
+  // Pattern 1: Devanagari chars in Bengali text
+  var reDevanagari = /[\u0900-\u097F]+/g;
+  var m;
+  while ((m = reDevanagari.exec(text)) !== null) {
+    errors.push({ word: m[0], reason: 'দেবনাগরী লিপি (OCR ত্রুটি?)' });
+  }
+  // Pattern 2: Sinhala chars
+  var reSinhala = /[\u0D80-\u0DFF]+/g;
+  while ((m = reSinhala.exec(text)) !== null) {
+    errors.push({ word: m[0], reason: 'সিংহলা লিপি (OCR ত্রুটি?)' });
+  }
+  // Pattern 3: Isolated single Latin letters in Bengali context (not inside English words)
+  var reStrayLatin = /(?<=[\u0980-\u09FF])\s*[a-zA-Z]\s*(?=[\u0980-\u09FF])/g;
+  while ((m = reStrayLatin.exec(text)) !== null) {
+    errors.push({ word: m[0].trim(), reason: 'ভুল ল্যাটিন অক্ষর' });
+  }
+  // Pattern 4: math tags from OCR artifacts
+  if (text.indexOf('<math>') !== -1) {
+    errors.push({ word: '<math>...</math>', reason: 'OCR math আর্টিফ্যাক্ট' });
+  }
+  // Pattern 5: Common Bengali typo patterns - repeated chars
+  var reRepeat = /([\u0980-\u09FF])\1{3,}/g;
+  while ((m = reRepeat.exec(text)) !== null) {
+    errors.push({ word: m[0], reason: 'পুনরাবৃত্ত অক্ষর' });
+  }
+  // Pattern 6: Likely broken words: consonant cluster with no vowel sign for > 4 chars
+  var reLongCluster = /[\u0995-\u09B9\u09CE]{5,}/g;
+  while ((m = reLongCluster.exec(text)) !== null) {
+    // Skip if contains hasanta/virama
+    if (m[0].indexOf('\u09CD') === -1) {
+      errors.push({ word: m[0], reason: 'সম্ভাব্য OCR ত্রুটি' });
+    }
+  }
+
+  // Deduplicate
+  var seen = {};
+  var unique = [];
+  errors.forEach(function(e) {
+    var key = e.word + '|' + e.reason;
+    if (!seen[key]) { seen[key] = true; unique.push(e); }
+  });
+
+  if (unique.length === 0) {
+    panel.innerHTML = '✔ কোনো সমস্যা পাওয়া যায়নি';
+    return;
+  }
+
+  var html = '<b>' + unique.length + 'টি সম্ভাব্য সমস্যা:</b> ';
+  unique.forEach(function(e) {
+    html += '<span class="spell-word" title="' + e.reason + '" onclick="bhashaFindInEditor(this.textContent)">' + escAttr(e.word) + '</span>';
+  });
+  panel.innerHTML = html;
+}
+
+function bhashaFindInEditor(word) {
+  var editor = document.getElementById('bhashaEditor');
+  if (!editor || !word) return;
+  // Use window.find for simplicity
+  if (window.find) {
+    editor.focus();
+    window.find(word, false, false, true);
+  }
+}
+
+function escAttr(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+// ─── Shared Block Operations (used by bhasha & intro editors) ────
+var BHASHA_BLOCK_CLASSES = [
+  'bhasha-block-heading', 'bhasha-block-section-title', 'bhasha-block-paragraph',
+  'bhasha-block-numbered', 'bhasha-block-example-group', 'bhasha-block-sub-examples'
+];
+var _editSelHandler = null;
+// Keep old name for backward compat
+var _bhashaSelHandler = null;
+
+function findBhashaBlock(node, editorId) {
+  var el = node;
+  if (!el) return null;
+  if (el.nodeType === 3) el = el.parentElement;
+  var editor = document.getElementById(editorId || 'bhashaEditor');
+  while (el && el !== editor && el !== document.body) {
+    if (el.classList) {
+      for (var i = 0; i < BHASHA_BLOCK_CLASSES.length; i++) {
+        if (el.classList.contains(BHASHA_BLOCK_CLASSES[i])) return el;
+      }
+    }
+    if (el.tagName === 'TABLE') return el;
+    el = el.parentElement;
+  }
+  return null;
+}
+
+function getBhashaBlockType(el) {
+  if (!el) return '';
+  if (el.tagName === 'TABLE') return 'table';
+  for (var i = 0; i < BHASHA_BLOCK_CLASSES.length; i++) {
+    if (el.classList.contains(BHASHA_BLOCK_CLASSES[i])) {
+      return BHASHA_BLOCK_CLASSES[i].replace('bhasha-block-', '');
+    }
+  }
+  return '';
+}
+
+function swapBlockClass(block, newType) {
+  BHASHA_BLOCK_CLASSES.forEach(function(c) { block.classList.remove(c); });
+  block.classList.add('bhasha-block-' + newType);
+}
+
+function changeBhashaBlockType(newType, editorId, dropdownId) {
+  var sel = window.getSelection();
+  if (!sel.rangeCount) return;
+  var block = findBhashaBlock(sel.anchorNode, editorId);
+  if (!block) return;
+  if (block.tagName === 'TABLE') {
+    alert('টেবিলের ধরন পরিবর্তন করা যায় না');
+    updateBlockTypeDropdown(editorId, dropdownId);
+    return;
+  }
+  var currentType = getBhashaBlockType(block);
+  if (currentType === newType) return;
+
+  var simpleTypes = ['heading', 'section-title', 'paragraph', 'numbered'];
+  var compoundTypes = ['example-group', 'sub-examples'];
+  var isCurrentSimple = simpleTypes.indexOf(currentType) !== -1;
+  var isNewSimple = simpleTypes.indexOf(newType) !== -1;
+  var isCurrentCompound = compoundTypes.indexOf(currentType) !== -1;
+  var isNewCompound = compoundTypes.indexOf(newType) !== -1;
+
+  if (isCurrentSimple && isNewSimple) {
+    swapBlockClass(block, newType);
+  } else if (isCurrentCompound && isNewSimple) {
+    // Flatten compound children into text
+    var itemCls = currentType === 'example-group' ? 'bhasha-example-item' : 'bhasha-sub-item';
+    var items = block.querySelectorAll('.' + itemCls);
+    if (items.length > 0) {
+      var parts = [];
+      items.forEach(function(item) { parts.push(item.innerHTML); });
+      block.innerHTML = parts.join('<br>');
+    }
+    swapBlockClass(block, newType);
+  } else if (isCurrentSimple && isNewCompound) {
+    // Wrap content in item div
+    var childCls = newType === 'example-group' ? 'bhasha-example-item' : 'bhasha-sub-item';
+    block.innerHTML = '<div class="' + childCls + '">' + block.innerHTML + '</div>';
+    swapBlockClass(block, newType);
+  } else if (isCurrentCompound && isNewCompound) {
+    // Rename child divs
+    var oldCls = currentType === 'example-group' ? 'bhasha-example-item' : 'bhasha-sub-item';
+    var newCls = newType === 'example-group' ? 'bhasha-example-item' : 'bhasha-sub-item';
+    block.querySelectorAll('.' + oldCls).forEach(function(it) { it.className = newCls; });
+    swapBlockClass(block, newType);
+  } else {
+    swapBlockClass(block, newType);
+  }
+}
+
+function updateBlockTypeDropdown(editorId, dropdownId) {
+  var dd = document.getElementById(dropdownId || 'bhashaBlockType');
+  if (!dd) return;
+  var editor = document.getElementById(editorId || 'bhashaEditor');
+  if (!editor) return;
+  // Clear previous active
+  var prev = editor.querySelector('.bhasha-block-active');
+  if (prev) prev.classList.remove('bhasha-block-active');
+
+  var sel = window.getSelection();
+  if (!sel.rangeCount) { dd.value = 'paragraph'; return; }
+  // Verify cursor is inside editor
+  if (!editor.contains(sel.anchorNode)) { dd.value = 'paragraph'; return; }
+  var block = findBhashaBlock(sel.anchorNode, editorId);
+  if (block && block.tagName !== 'TABLE') {
+    var type = getBhashaBlockType(block);
+    if (type) dd.value = type;
+    block.classList.add('bhasha-block-active');
+  }
+}
+
+function addBhashaBlockBelow(editorId) {
+  var sel = window.getSelection();
+  var block = sel.rangeCount ? findBhashaBlock(sel.anchorNode, editorId) : null;
+  var newBlock = document.createElement('div');
+  newBlock.className = 'bhasha-block-paragraph';
+  newBlock.innerHTML = '<br>';
+  var editor = document.getElementById(editorId || 'bhashaEditor');
+  if (block) {
+    block.insertAdjacentElement('afterend', newBlock);
+  } else {
+    editor.appendChild(newBlock);
+  }
+  var range = document.createRange();
+  range.setStart(newBlock, 0);
+  range.collapse(true);
+  sel.removeAllRanges();
+  sel.addRange(range);
+}
+
+function deleteBhashaBlock(editorId) {
+  var sel = window.getSelection();
+  if (!sel.rangeCount) return;
+  var block = findBhashaBlock(sel.anchorNode, editorId);
+  if (!block) { alert('কোনো ব্লক নির্বাচিত নেই'); return; }
+  if (!confirm('এই ব্লকটি মুছে ফেলতে চান?')) return;
+  var next = block.nextElementSibling || block.previousElementSibling;
+  block.remove();
+  if (next) {
+    var range = document.createRange();
+    range.setStart(next, 0);
+    range.collapse(true);
+    sel.removeAllRanges();
+    sel.addRange(range);
+  }
+}
+
+function clearBlockToPlain(editorId, dropdownId) {
+  var sel = window.getSelection();
+  if (!sel.rangeCount) return;
+  var block = findBhashaBlock(sel.anchorNode, editorId);
+  if (!block) return;
+  if (block.tagName === 'TABLE') return;
+  var currentType = getBhashaBlockType(block);
+  // If compound, flatten children first
+  if (currentType === 'example-group' || currentType === 'sub-examples') {
+    var itemCls = currentType === 'example-group' ? 'bhasha-example-item' : 'bhasha-sub-item';
+    var items = block.querySelectorAll('.' + itemCls);
+    if (items.length > 0) {
+      var parts = [];
+      items.forEach(function(item) { parts.push(item.innerHTML); });
+      block.innerHTML = parts.join('<br>');
+    }
+  }
+  swapBlockClass(block, 'paragraph');
+  var dd = document.getElementById(dropdownId || 'bhashaBlockType');
+  if (dd) dd.value = 'paragraph';
+}
+
+function deleteBhashaTableRow() {
+  var sel = window.getSelection();
+  if (!sel.rangeCount) return;
+  var node = sel.anchorNode;
+  if (node.nodeType === 3) node = node.parentElement;
+  while (node && node.tagName !== 'TR') node = node.parentElement;
+  if (!node) { alert('টেবিলের সারিতে কার্সর রাখুন'); return; }
+  var table = node.closest('table');
+  if (table && table.rows.length <= 1) { alert('শেষ সারি মোছা যায় না'); return; }
+  node.remove();
+}
+
+function deleteBhashaTableCol() {
+  var sel = window.getSelection();
+  if (!sel.rangeCount) return;
+  var node = sel.anchorNode;
+  if (node.nodeType === 3) node = node.parentElement;
+  while (node && node.tagName !== 'TD' && node.tagName !== 'TH') node = node.parentElement;
+  if (!node) { alert('টেবিলের কলামে কার্সর রাখুন'); return; }
+  var colIdx = node.cellIndex;
+  var table = node.closest('table');
+  if (!table) return;
+  if (table.rows[0] && table.rows[0].cells.length <= 1) { alert('শেষ কলাম মোছা যায় না'); return; }
+  for (var r = table.rows.length - 1; r >= 0; r--) {
+    if (table.rows[r].cells[colIdx]) table.rows[r].deleteCell(colIdx);
+  }
+}
+
+function initBhashaEditListeners() {
+  initEditListeners('bhashaEditor', 'bhashaBlockType');
+}
+
+function initEditListeners(editorId, dropdownId) {
+  // Clean up previous listener if any
+  if (_editSelHandler) {
+    document.removeEventListener('selectionchange', _editSelHandler);
+  }
+  _editSelHandler = function() { updateBlockTypeDropdown(editorId, dropdownId); };
+  document.addEventListener('selectionchange', _editSelHandler);
+  // Also keep old ref for bhasha exit compat
+  _bhashaSelHandler = _editSelHandler;
+  updateBlockTypeDropdown(editorId, dropdownId);
+}
+
+function insertBhashaTable() {
+  var rows = prompt('সারি সংখ্যা (rows):', '3');
+  var cols = prompt('কলাম সংখ্যা (columns):', '2');
+  if (!rows || !cols) return;
+  rows = parseInt(rows) || 3;
+  cols = parseInt(cols) || 2;
+  var html = '<table><thead><tr>';
+  for (var c = 0; c < cols; c++) html += '<th>শিরোনাম</th>';
+  html += '</tr></thead><tbody>';
+  for (var r = 0; r < rows; r++) {
+    html += '<tr>';
+    for (var c = 0; c < cols; c++) html += '<td>&nbsp;</td>';
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  document.execCommand('insertHTML', false, html);
+}
+
+function insertBhashaTableRow() {
+  var sel = window.getSelection();
+  var node = sel.anchorNode;
+  // Walk up to find the table
+  while (node && node.tagName !== 'TABLE') node = node.parentElement;
+  if (!node) { alert('টেবিলে কার্সর রাখুন'); return; }
+  var cols = node.rows[0] ? node.rows[0].cells.length : 2;
+  var row = node.insertRow(-1);
+  for (var c = 0; c < cols; c++) {
+    var cell = row.insertCell(-1);
+    cell.innerHTML = '&nbsp;';
+  }
+}
+
+function insertBhashaTableCol() {
+  var sel = window.getSelection();
+  var node = sel.anchorNode;
+  while (node && node.tagName !== 'TABLE') node = node.parentElement;
+  if (!node) { alert('টেবিলে কার্সর রাখুন'); return; }
+  for (var r = 0; r < node.rows.length; r++) {
+    var cell = node.rows[r].insertCell(-1);
+    cell.innerHTML = r === 0 && node.rows[r].parentElement.tagName === 'THEAD' ? '<b>শিরোনাম</b>' : '&nbsp;';
+  }
+}
+
+async function saveBhashaEdit() {
+  var editor = document.getElementById('bhashaEditor');
+  if (!editor || !bhashaEditingPage) return;
+  var status = document.getElementById('bhashaSaveStatus');
+  status.textContent = 'সংরক্ষণ হচ্ছে...';
+  status.style.color = '#888';
+
+  if (!ghIsConfigured()) {
+    status.textContent = '✕ GitHub সেটিংস কনফিগার করুন (⚙️ GitHub বাটন)';
+    status.style.color = '#c70000';
+    return;
+  }
+
+  try {
+    var pageStr = String(bhashaEditingPage).padStart(4, '0');
+    var filePath = 'bhashatattwa/EditedHTML/page_' + pageStr + '.html';
+    var htmlContent = editor.innerHTML;
+
+    // Check if file already exists to get SHA
+    var existing = await ghApiGet(filePath);
+    var sha = existing ? existing.sha : null;
+
+    var userName = localStorage.getItem('dict_user_name') || 'Anonymous';
+    var content = utf8ToBase64(htmlContent);
+    await ghApiPut(filePath, content, 'ভাষাতত্ত্ব সম্পাদনা: পৃষ্ঠা ' + bhashaEditingPage + ' by ' + userName, sha);
+
+    // Cache locally for immediate display
+    bhashaEditCache[bhashaEditingPage] = htmlContent;
+
+    status.textContent = '✔ সংরক্ষিত হয়েছে (GitHub)';
+    status.style.color = '#2a7';
+  } catch(err) {
+    status.textContent = '✕ সংরক্ষণ ব্যর্থ: ' + err.message;
+    status.style.color = '#c70000';
+    console.error('Bhasha save error:', err);
+  }
+}
+
+function exitBhashaEdit() {
+  if (_editSelHandler) {
+    document.removeEventListener('selectionchange', _editSelHandler);
+    _editSelHandler = null;
+    _bhashaSelHandler = null;
+  }
+  bhashaEditingPage && showBhashaPage(bhashaEditingPage);
+  bhashaEditingPage = null;
+}
+
+async function handleBhashaImgUpload(input) {
+  if (!input.files || !input.files[0] || !bhashaEditingPage) return;
+  var file = input.files[0];
+  var status = document.getElementById('bhashaSaveStatus');
+  if (status) { status.textContent = 'ছবি আপলোড হচ্ছে...'; status.style.color = '#888'; }
+
+  if (!ghIsConfigured()) {
+    if (status) { status.textContent = '✕ GitHub সেটিংস কনফিগার করুন'; status.style.color = '#c70000'; }
+    input.value = '';
+    return;
+  }
+
+  var reader = new FileReader();
+  reader.onload = async function(e) {
+    var base64 = e.target.result.split(',')[1];
+    var ext = file.name.split('.').pop().toLowerCase() || 'png';
+    var timestamp = Date.now();
+    var safeFileName = 'page_' + String(bhashaEditingPage).padStart(4, '0') + '_' + timestamp + '.' + ext;
+    var ghFilePath = 'bhashatattwa/EditImages/' + safeFileName;
+    try {
+      await ghApiPut(ghFilePath, base64, 'ছবি যুক্ত: ' + safeFileName, null);
+      var repo = getGhRepo();
+      var branch = getGhBranch();
+      var imgUrl = 'https://raw.githubusercontent.com/' + repo + '/' + branch + '/' + ghFilePath;
+      document.execCommand('insertHTML', false,
+        '<img src="' + imgUrl + '" style="max-width:100%;margin:8px 0;display:block" alt="">');
+      if (status) { status.textContent = '✔ ছবি যুক্ত হয়েছে (GitHub)'; status.style.color = '#2a7'; }
+    } catch(err) {
+      console.error('Image upload error:', err);
+      if (status) { status.textContent = '✕ ছবি আপলোড ব্যর্থ: ' + err.message; status.style.color = '#c70000'; }
+    }
+    input.value = '';
+  };
+  reader.readAsDataURL(file);
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Speak
+// ═══════════════════════════════════════════════════════════════════
+const PHON_TO_SPEAKABLE = {
+  'ɔ': 'o', 'ʒ': 'j', '∫': 'sh', 'ṭ': 't', 'ḍ': 'd',
+  'ṛ': 'r', 'ɦ': 'h', 'ŋ': 'ng', 'c∫': 'ch', 'c∫h': 'chh'
+};
+
+function phonToSpeakable(ph) {
+  let s = ph;
+  s = s.replace(/c∫h/g, 'chh');
+  s = s.replace(/c∫/g, 'ch');
+  for (const [from, to] of Object.entries(PHON_TO_SPEAKABLE)) {
+    if (from.length === 1) s = s.split(from).join(to);
+  }
+  return s;
+}
+
+function speak(headword, phonetics) {
+  if (!window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const voices = window.speechSynthesis.getVoices();
+  const bnVoice = voices.find(function(v) { return v.lang.startsWith('bn'); });
+  const utt = new SpeechSynthesisUtterance();
+  if (bnVoice) {
+    utt.voice = bnVoice;
+    utt.lang = 'bn-IN';
+    utt.text = headword;
+  } else {
+    utt.lang = 'bn-IN';
+    utt.text = phonetics ? phonToSpeakable(phonetics) : headword;
+  }
+  utt.rate = 0.85;
+  window.speechSynthesis.speak(utt);
+}
+
+if (window.speechSynthesis) {
+  window.speechSynthesis.getVoices();
+  window.speechSynthesis.onvoiceschanged = function() { window.speechSynthesis.getVoices(); };
+}
+
+// ═══════════════════════════════════════════════════════════════════
+// Event Listeners
+// ═══════════════════════════════════════════════════════════════════
+
+// Dictionary search input
+document.getElementById('searchInput').addEventListener('input', function() {
+  clearTimeout(searchTimeout);
+  var self = this;
+  searchTimeout = setTimeout(function() { performSearch(self.value); }, 150);
+});
+
+// Search field radio change
+document.addEventListener('change', function(e) {
+  if (e.target.name === 'searchField') {
+    performSearch(document.getElementById('searchInput').value);
+  }
+});
+
+// Prabad search input
+document.getElementById('prabadSearch').addEventListener('input', function() {
+  clearTimeout(prabadSearchTimeout);
+  var self = this;
+  prabadSearchTimeout = setTimeout(function() { renderPrabad(self.value); }, 200);
+});
+
+// Back to top + active letter/section tracking on scroll
+window.addEventListener('scroll', function() {
+  document.getElementById('backToTop').style.display = window.scrollY > 400 ? 'block' : 'none';
+
+  if (currentMode === 'dict') {
+    const sections = document.querySelectorAll('.letter-section');
+    let activeLetter = '';
+    for (const sec of sections) {
+      if (sec.getBoundingClientRect().top <= 150) {
+        activeLetter = sec.id.replace('letter-', '');
+      }
+    }
+    if (activeLetter) {
+      document.querySelectorAll('#dictNav .letter-btn').forEach(function(b) {
+        b.classList.toggle('active', b.textContent.trim() === activeLetter);
+      });
+    }
+  }
+
+  if (currentMode === 'prabad') {
+    const sections = document.querySelectorAll('.prabad-section');
+    let activeSec = '';
+    for (const sec of sections) {
+      if (sec.getBoundingClientRect().top <= 150) {
+        activeSec = sec.id.replace('prabad-sec-', '');
+      }
+    }
+    if (activeSec) {
+      document.querySelectorAll('#prabadNav .letter-btn').forEach(function(b) {
+        b.classList.toggle('active', b.textContent.trim() === activeSec);
+      });
+    }
+  }
+});
+
+// Keyboard shortcuts
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape' && document.getElementById('editModal')) {
+    closeEditModal();
+    return;
+  }
+  if (e.key === '/' && currentMode === 'dict' && document.activeElement !== document.getElementById('searchInput')) {
+    e.preventDefault();
+    document.getElementById('searchInput').focus();
+  }
+  if (e.key === 'Escape' && !document.getElementById('editModal') && currentMode === 'dict') {
+    document.getElementById('searchInput').value = '';
+    showAllEntries();
+  }
+});
+
+// ═══════════════════════════════════════════════════════════════════
+// Init
+// ═══════════════════════════════════════════════════════════════════
+updateUserDisplay();
+updateGhBadge();
+switchMode('home');
+loadData();
+console.log('Dictionary app loaded successfully.');
+</script>
+</body>
+</html>

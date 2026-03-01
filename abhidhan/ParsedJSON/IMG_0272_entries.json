@@ -1,0 +1,262 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বালিময়; বালি মিশ্রিত।",
+        "examples": [
+          "বালিআ জাগাত আলু মুকি ভালা অয়।",
+          "বালিআ মাটি; বালিআ পাথ্থর।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বালির মতো।",
+        "examples": [
+          "বালিআ চিনার; বালিআ মধুর (=গুড়)।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বালিক",
+    "transliteration": "balik",
+    "phonetics": "balik",
+    "etymology": "[< আ. বালিগ]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "সাবালক; সাবালিকা।",
+        "examples": [
+          "তার পুআপুড়ি বালিক, এলকু খালি বিআ দিত।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "পরিণত।",
+        "examples": [
+          "পাপ বালিক অইলে ধনমান হকলতা জায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বালিগড়া",
+    "transliteration": "baligodo়a",
+    "phonetics": "baligɔḍɔ়a",
+    "etymology": "[< বাং বালি +√ গড়া]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "হালকা আঁশযুক্ত ফ্যাকাশে মেটে হলুদ রঙের ছোট মাছ।",
+        "examples": [
+          "আকৃতি চেংমাছের মতোন। এর প্রধান বৈশিষ্ট্য মুখের হা অস্বাভাবিক বড়।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ধূর্ত; ধান্দাবাজ।",
+        "examples": [
+          "বিডিঅ দেখতে ভালমানু, কিনতুক আসলে হে এক বালিঘুগরা। বানিলা প্রাথা নাগানি বাগধা. কি. — এস বিদ্যাপ করা।",
+          "পুআপুড়ি বেমার, দুইদিন তনে বালিশো মাথা - লাগাইছি না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বাশইট",
+    "transliteration": "bashoit",
+    "phonetics": "ba∫ɔiṭ",
+    "etymology": "[< ভ্রং বাসট্ঠি < প্রা. দুবাষট্ঠি]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "৬২ সংখ্যা বা সংখ্যক।"
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বাশকো",
+    "transliteration": "bashoko",
+    "phonetics": "ba∫ɔko",
+    "etymology": "[<ববাং শব্দ বাশকো]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বড় করাতের নিচের হাতল। দ্র. ডাং",
+        "cross_references": [
+          "ডাং"
+        ],
+        "examples": [
+          "বাশকা বা বাশকো দুজন করাতি ধরে টানে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বাশ্শাভুগ",
+    "transliteration": "bashshavug",
+    "phonetics": "ba∫∫avug",
+    "etymology": "[< ফা. বাদশাহ্ ~ বাং ভোগ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "উৎকৃষ্ট শালিধান বিশেষ।",
+        "examples": [
+          "নানফ বর্ণের ধান। চাল দুধসাদা। অতি মিহি দানা। এ চালের ভাত ধবল সৌন্দর্যে সুগন্ধে আর স্বাদুতায় তুলনাহীন। উৎসব অনুষ্ঠানে এর সমাদর বেশি। রোগীর আদর্শ পথ্য। ধানটি ‘ঠাকুরভুগ’ নামেও পরিচিত।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বাস্কো",
+    "transliteration": "basko",
+    "phonetics": "basko",
+    "etymology": "[< ইং box]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাক্স; ঢাকনাওয়ালা চারকোণাকৃতি আধার বিশেষ। >> ইং box > বাং বাক্স নিপর্যাস বরাক বাংলা বাস্কো।"
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বাং",
+    "transliteration": "bang",
+    "phonetics": "baŋ",
+    "etymology": "[< সং বিহঙ্গিকা = বাঁকদণ্ড]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ভার বহন করার কাঠ বা বাঁশের দণ্ড; বাঁক।"
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "Œ (1₽ (1≥. ⇒ সিকা-বাং লইআ আইও হইরোটাইন নিবায়িগ।"
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বাং দেবা",
+    "transliteration": "bang deba",
+    "phonetics": "baŋ deba",
+    "etymology": "[< ফা. বাঙ্গ = মোরগের ডাক]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "মোরগের ডাকা।",
+        "examples": [
+          "মুরকিএ বাং দের, রাইত আর নাই।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বাংগই",
+    "transliteration": "banggoi",
+    "phonetics": "baŋgɔi",
+    "etymology": "[< ববাং বাং (=ভারযম্ভি) + অই তপ্র. বৈশিষ্ট্যো]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "চিৎ হয়ে শুয়ে হাঁটুমুড়ে শিশুকে পায়ের পাতায় বসিয়ে বানানো দোলনা।",
+        "examples": [
+          "ভারযিষ্ঠ বা বাঙের সঙ্গে সঙ্গতি আছে বলেই এই নাম। বাং দিয়ে ভার বয়ে নিয়ে যাওয়ার সময় দুদিকের সামগ্রী দোলনার মতো দুলতে থাকে। এই সাদৃশ্যের কথা মনে রেখে ‘বাং’ থেকে ‘বাংগই’ শব্দটি গঠিত হয়েছে।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. বি.",
+        "definition": "অসার কথা; দন্তের কাহিন।",
+        "examples": [
+          "মরিব বেটায় বাংগালর গফ দেওয়াত ভাট।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বাংগি",
+    "transliteration": "banggi",
+    "phonetics": "baŋgi",
+    "etymology": "[< আঞ্চ. বাং বাঙ্গি = ফুটি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ছোট কুমড়ার মতো ফল বিশেষ; ফুটিফল।",
+        "examples": [
+          "এটি কাঁকুড় জাতীয় ফল। শশা গাছের মতো লতাগাছ। ফলটি পাকলে চৌচির হয়ে যায়। সাদা রঙের শাঁস, বালির মতো মিহি দানা। চিনি মিশিয়ে খেতে সুস্বাদু। > সমার্থশব্দ — বাংগি; বালি চিনার। দ্র. চিনার।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বাংড়া",
+    "transliteration": "bangdo়a",
+    "phonetics": "baŋḍɔ়a",
+    "etymology": "[< ববাং শব্দ বাংড়া]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "যৌবনবান পুরুষ মহিষ।",
+        "examples": [
+          "তুমরার বাংড়ায় ইবার হমবাইল পুরাইছে নি? বারিষ্ banri [< ববাঃ বাঃষা + হে নিশ্চ খীঃ]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "যৌবনবতী স্ত্রী মহিষ।",
+        "examples": [
+          "আমার বাংড়িএ ইবার পাল খাইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বি",
+    "transliteration": "bi",
+    "phonetics": "bi",
+    "senses": [
+      {
+        "raw_text": "[< সং বি উপসর্গা উপসর্গীয় প্র. — আধিক্য; বিরোধ; বিপরীত; গর্হিত ইত্যাদি নানা অর্থের দ্যোতক হয়ে শব্দের আগে বসে নতুন শব্দ গঠন করে। ⇒ বি + জালা = বিজালা বি + যন + আ = বিযনা বাং জালা > ববাং জালা"
+      }
+    ],
+    "source_page": "IMG_0272"
+  },
+  {
+    "headword": "বিআতি",
+    "transliteration": "biati",
+    "phonetics": "biati",
+    "etymology": "[< প্রাবা. বিআতী = বিবাহিত স্ত্রী]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বিবাহিত; বিবাহিতা।",
+        "examples": [
+          "বিআতি বেটি"
+        ]
+      }
+    ],
+    "source_page": "IMG_0272"
+  }
+]

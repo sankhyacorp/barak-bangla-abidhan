@@ -1,0 +1,273 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "খ"
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "খআ",
+    "transliteration": "khoa",
+    "phonetics": "khɔa",
+    "etymology": "[<আঞ্চ. কচা ব্যঞ্জনধ্বনি লোপে <হি. কচ্চা?]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "কচি; অপুষ্ট।",
+        "examples": [
+          "খআ বরই খাইন না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "খআনি",
+    "transliteration": "khoani",
+    "phonetics": "khɔani",
+    "etymology": "[<খসাই <বাং খসাইয়া]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "খুলে ফেলা; তুলে ফেলা।",
+        "examples": [
+          "গছা বেশ ডাবিগেছে ডাকতর বেটায় খআইবা।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "খোলা ; ছাড়ানো।",
+        "examples": [
+          "গুনডিলার বেরা খআনি বড় দিগদারি।",
+          "বাং খসানি স্বরায়নে ‘খআনি’।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "রইআ",
+    "transliteration": "roia",
+    "phonetics": "rɔia",
+    "etymology": "[<বাং কই + আ তপ্র. ক্ষুদ্রার্থে / সাদৃশ্যে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কই জাতীয় ছোট মাছ বিশেষ।",
+        "examples": [
+          "আঁশযুক্ত সুস্বাদু মাছ। সবুজ-লাল রঙে চিত্রিত, সুন্দর। কদর আছে ভালোই।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "রইআ বিরইন",
+    "transliteration": "roia biroin",
+    "phonetics": "rɔia birɔin",
+    "etymology": "[<ববাং খইআ (ক্ষুদ্রার্থে) ~ বিরইন।]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বিন্নি ধানের প্রকার বিশেষ।",
+        "examples": [
+          "লাল-সোনালি-সাদায় চিত্রিত ধান। খইআ মাছের মতো। তাই এই নাম। চাল সাদা। উৎপাদন ও স্বাদ যন নরা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "ব্টড়কা",
+    "transliteration": "btodo়ka",
+    "phonetics": "bṭɔḍɔ়ka",
+    "etymology": "[<আঞ্চ. খড়িকা = কাঠি অপিনিহিতি বি. — বাঁশ বা কাঠের তৈরি ক্ষুদ্র শলাকা; কাঠি। ⇒ শলইর [ দিয়াশালাই ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাঁশ বা কাঠের তৈরি ক্ষুদ্র শলাকা; কাঠি।",
+        "examples": [
+          "শলইর [ দিয়াশালাই ] খইড়কা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "বইড়কা",
+    "transliteration": "boido়ka",
+    "phonetics": "bɔiḍɔ়ka",
+    "etymology": "[<ববাং খইড়কা (সাদৃশ্যে)]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "অতি ক্ষুদ্র মাছ বিশেষ।",
+        "examples": [
+          "দিয়াশলাইয়ের কাঠির মতো ক্ষুদ্র লম্বাটে মাছ। নদীতে বসবাস। রূপালি রং। ঝাঁক বেঁধে ঘোরে। খেতে সুস্বাদু।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "অনর্গল কথাবলা।",
+        "examples": [
+          "দুই বছর পুরিছে না ছুগরিএ খই ফুটায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "ব্থ্যুর",
+    "transliteration": "bthjur",
+    "phonetics": "bthʒur",
+    "etymology": "[<আঞ্চ. খৈল <সং খলি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কানের ভেতরের ময়লা। >> এখানে ‘ল’ ধ্বনি দ্রুত উচ্চারণের জনয ‘রণিত’ হয়ে গেছে। তাই ‘খৈল’ থেকে ‘খইর’।"
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "ব্থইল",
+    "transliteration": "bthoil",
+    "phonetics": "bthɔil",
+    "etymology": "[<মবা. খলী <সং √খল + ই = তৈলকিট্ট]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "তিল সর্যে ইত্যাদির তেল নিঃসৃত করার পর"
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "> খঠপ খঠপ যে অসার ভাগ অবশিষ্ট থাকে; খোল। ⇒ খইলে ভালা সার অয়। দ্র. পিরকাই খ"
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "ইলু",
+    "transliteration": "ilu",
+    "phonetics": "ilu",
+    "etymology": "[<ববাং শব্দ খইল]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "জাল বোনার যন্ত্র বিশেষ।",
+        "examples": [
+          "দেখতে মাকুর মতো। আকারে ছোট। সুতো জড়ানো থাকে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "খচা",
+    "transliteration": "khocha",
+    "phonetics": "khɔc∫a",
+    "etymology": "[<আঞ্চ. কচা = দণ্ড]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "মাটিতে গর্ত করার জন্য ব্যবহৃত কাঠের চোখা দণ্ড।",
+        "examples": [
+          "মাটি লরম, খচা দি গাত বানাও।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "খচি",
+    "transliteration": "khochi",
+    "phonetics": "khɔc∫i",
+    "etymology": "[<ববাং খচা = দগু]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "অপরিণত গাছ।",
+        "examples": [
+          "পাড্ (= পাহাড়) থনে কয়গু ঝাউক্রার খচি আনমু।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "খটাই",
+    "transliteration": "khotai",
+    "phonetics": "khɔṭai",
+    "etymology": "[<প্রা. খট্টা <সং খট্টা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "জলে ভাসমান গাছের গুঁড়ির সমষ্টি।",
+        "examples": [
+          "জলপথে কাঠ বা গাছের গুঁড়ি সহজে ভাসিয়ে নেওয়ার জন্য রাশিকৃত ভাসমান বাঁশের সঙ্গে অনেকগুলি গাছের কাণ্ড বা গুঁড়ি বা কাটাগাছ শক্ত করে বাঁধা হয়। অনেকটা বড় ভেলার মতো। এই গাছের গুঁড়ির সারিবদ্ধ ভেলাকে ‘খটাই’ বলে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "খটানি",
+    "transliteration": "khotani",
+    "phonetics": "khɔṭani",
+    "etymology": "[<ধ্ব. খট্ খট্ = ধানশীষ ভাঙার আওয়াজা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "ধানগাছ থেকে ধানের ছড়া ছিঁড়ে লওয়া।",
+        "examples": [
+          "ধান-তুবারা হকলে তুবাইন জতগু, খটাইন তার তনে বেশ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "খটিআ",
+    "transliteration": "khotia",
+    "phonetics": "khɔṭia",
+    "etymology": "[<বাং কুটনা পুং <কুটনি <মবা. কৃটিনী]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "দেখতে ছোটখাটো কিন্তু চালাকিতে দঢ এমন। থেকেই সম্ভবত ববাং খটিআ দাঁড়িয়েছে। কুটনি কুটনার কাজের মধ্যে চালাকি ধূর্ততা নিহিত। ‘খটিআ’র কাজেও তাই।",
+        "examples": [
+          "খটিআ ছুগরারে লগে ল, তেউ গি কাম অইব।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  },
+  {
+    "headword": "খঠপ খঠপ্",
+    "transliteration": "khothop khothop",
+    "phonetics": "khɔṭhɔp khɔṭhɔp",
+    "etymology": "[< ধ্বন্যাত্মক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "খড়ম পায়ে হাঁটার আওয়াজ।",
+        "examples": [
+          "সইন্নাসি বেটায় খঠপ খঠপ করি জাইতা আইতা। া ভাষার অভিধান ও ভাষাত ত্ত"
+        ]
+      }
+    ],
+    "source_page": "IMG_0102"
+  }
+]

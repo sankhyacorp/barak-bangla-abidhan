@@ -1,0 +1,294 @@
+[
+  {
+    "headword": "ফাফ্",
+    "transliteration": "faf",
+    "phonetics": "faf",
+    "etymology": "[< বাং √ফাঁপ]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "ফেঁপে ওঠা; ফুলে উঠা; বায়ু পূর্ণ হওয়া",
+        "examples": [
+          "উরিবিচির ডাইলে মোর পেট ফাফে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফাম্ দেবা",
+    "transliteration": "fam deba",
+    "phonetics": "fam deba",
+    "etymology": "[< ইং Pump ~ বাং √দে]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "কোনো কিছুর ভেতর বাতাস ঢুকিয়ে পরিপূর্ণ করা।",
+        "examples": [
+          "মিকারর অনো গিআ চাকাত ফাম দিমু।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফাম জাবা",
+    "transliteration": "fam jaba",
+    "phonetics": "fam ʒaba",
+    "etymology": "[< ইং Pump ~ বাং √যা]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "চাকার বা বেলুনের বায়ু বের হয়ে যাওয়া। সক্রি. (আলং) — ক্ষতিগ্রস্ত হওয়া।",
+        "examples": [
+          "বেপারো বেশ্ খাবাত গিআ ফাম গেছে তান।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফার",
+    "transliteration": "far",
+    "phonetics": "far",
+    "etymology": "[< ববাং নিজম্ব শব্দ ফার]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "তীক্ষ্ণ অস্ত্র, সূঁচ বা কাঁটার আঘাত।",
+        "examples": [
+          "'আরেকজনর দম আর জার সারা গত্রো হিংগর ফার।’ — মাহ্তাবুর",
+          "লেইনজার (= বর্শার) ফার। হিংগর (= শিংএর) ফার গছার (= কাঁটা) ফার"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফারা",
+    "transliteration": "fara",
+    "phonetics": "fara",
+    "etymology": "[< মবা. √ফাড় = চিরে ফেলা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "ছিঁড়ে ফেলা; চিরে ফেলা।",
+        "examples": [
+          "কাপড় ফারা; পাততা ফারা; লাকড়ি ফারা; গাছ ফারা।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ছিঁড়ে গেছে এমন; ছিঁড়ে ফেলা হয়েছে এমন।",
+        "examples": [
+          "ফারা মারগিন; ফারা পুতথি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফারানি",
+    "transliteration": "farani",
+    "phonetics": "farani",
+    "etymology": "[< ববাং √ ফারা < ফার + আ নামধাতু নির্মাণে]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "তীক্ষ্ণ অস্ত্র বা শিং বা কাঁটা দিয়ে বার বার আঘাত।",
+        "examples": [
+          "গিআ দেখি হে গাত বানাইত করি গাতৃতিউছা দি খালি মাটিত ফারার।",
+          "ডেকিএ হিং দি ফারাইআ হিগুর লাড়ি কানা করিলাইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফারুআ",
+    "transliteration": "farua",
+    "phonetics": "farua",
+    "etymology": "[< ববাং শব্দ ফা + র সম্বন্ধক + তপ্র. উআ যুক্তার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বড় ফা যুক্ত জাল; বড় বড় ছিদ্রযুক্ত জাল।",
+        "examples": [
+          "দ্র. 'ফা'।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফাড়",
+    "transliteration": "fado়",
+    "phonetics": "faḍɔ়",
+    "etymology": "[< আঞ্চ. ফাড় < সং স্ফাত, স্ফট্]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "প্রস্থের পরিমাণ; চওড়াই।",
+        "examples": [
+          "গাংগর ধারর বড়চিরির (=জমির অংশ) ফাড় কতখান ? ⇒ শব্দটি শ্রীহট্টেও একই অর্থে প্রচলিত।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফাড়া",
+    "transliteration": "fado়a",
+    "phonetics": "faḍɔ়a",
+    "etymology": "[< প্রা. ফাডিঅ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বিপদ; গ্রহগণের প্রতিকূলতা।",
+        "examples": [
+          "কৃশটিত লেখা — বারো বছরো তার পাড়া আছে।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "বিপদ থেকে রক্ষা পাওয়া।",
+        "examples": [
+          "সত্পথে চললে পাড়া কাটে। কান্র fal [< বাঃ নাক বিশ্বর্যাস্ত্র < সঃ নন্ক]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "লাফ।",
+        "examples": [
+          "নালাগেছা একফালে পারই গেছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফাল্ব",
+    "transliteration": "falbo",
+    "phonetics": "falbɔ",
+    "etymology": "[< সং ফাল]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "লাঙলের ফলা।",
+        "examples": [
+          "'সুনার লাংগল রুপার ফাল — হইএ'। — বরাক গীত"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফালট",
+    "transliteration": "falot",
+    "phonetics": "falɔṭ",
+    "etymology": "[< ববাং শব্দ ফালট্]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "পা ধুইবার স্থান; উৎসব উপলক্ষে পা ধুইবার জন্য রাখা বৃহৎ জলপাত্র ও কাঠের বড় পিঁড়ি।",
+        "examples": [
+          "ফালটো গিআ পাও ধইলাউকা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফালটু",
+    "transliteration": "falotu",
+    "phonetics": "falɔṭu",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "বাজে; অকর্মণ্য।",
+        "examples": [
+          "ছুগরাইগু এখেরে ফালটু।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফালটুশ্",
+    "transliteration": "falotush",
+    "phonetics": "falɔṭu∫",
+    "etymology": "[< দ্র. ফালটু]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "দ্র. ফালটু।",
+        "cross_references": [
+          "ফালটু"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফালটুন",
+    "transliteration": "falotun",
+    "phonetics": "falɔṭun",
+    "etymology": "[< ইং Fountain pen = কলম]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "‘ঝরনা কলম’। —রবীন্দ্রনাথ",
+        "examples": [
+          "দুই অইক্কর লেখার আগে এলকু ফালটুন লাগে।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "|আমদানি বা উৎপাদন বৃদ্ধির জন্য] খুব সস্তা।",
+        "examples": [
+          "বাজারো মুলা এলকু ফালাই দেস্তে মোরে দে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফাশ্",
+    "transliteration": "fash",
+    "phonetics": "fa∫",
+    "etymology": "[< সং পাংশু = ছাই গোবর ইত্যাদি।]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কৃষিসার।",
+        "examples": [
+          "কবিউরাত গুফরর ফাশ দেও।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "মাটির উর্বরতা।",
+        "examples": [
+          "জমিনর ফাশ কমি জাবায় ধান অয় না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  },
+  {
+    "headword": "ফাসজাল",
+    "transliteration": "fasojal",
+    "phonetics": "fasɔʒal",
+    "etymology": "[< সং পাস = জাল]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "মাছ ধরার জাল বিশেষ। সিসার গুটি থাকে আড়াই কেজির মতোন। একখানা নৌকা নিয়ে দুজন লোক বড় ছোট সবরকম মাছ ধরতে পারে। শোনা যায়, এই জালটি পশ্চিমবঙ্গ ও বিহার অঞ্চল থেকে এসেছে।",
+        "examples": [
+          "১০ বর্গ সেন্টিমিটার থেকে ২০ বর্গ সেন্টিমিটার পর্যন্ত নানা মাপের ফা বা জালের ছিদ্র থাকে। এতে লা ভাষার অভিধান ও ভাষাত ত্ত"
+        ]
+      }
+    ],
+    "source_page": "IMG_0246"
+  }
+]

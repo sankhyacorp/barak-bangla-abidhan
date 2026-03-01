@@ -1,0 +1,277 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "বন্না"
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বল্লা",
+    "transliteration": "bolla",
+    "phonetics": "bɔlla",
+    "etymology": "[< আ. বলা = রোগ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "রোগ; সংক্রামক রোগ।",
+        "examples": [
+          "যে রোগ কোনো অঞ্চলে ব্যাপকভাবে ছড়ায়, ভাই-ই বল্লা। যেমন— কলেরা, ম্যালেরিয়া, জলবসন্ত, হাম, ডেংগুজুর ইত্যাদি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বলা",
+    "transliteration": "bola",
+    "phonetics": "bɔla",
+    "etymology": "[< ববাং ধাতু √ বল্]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "তুলা পাট প্রভৃতি দিয়ে সূতা বা দড়ি পাকানো।",
+        "examples": [
+          "মইএ পাট উদাল দিঅতাদিউ দড়ি বলইন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বলা",
+    "transliteration": "bola",
+    "phonetics": "bɔla",
+    "etymology": "[< সং ধাতু √বল্ = বৃদ্ধি পাওয়া]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "বর্ধিত হওয়া; বাড়া।",
+        "examples": [
+          "উজানর মেঘে পানি বলের।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বলা",
+    "transliteration": "bola",
+    "phonetics": "bɔla",
+    "etymology": "[< ববাং √বল্ (= ভাঁজ করে গোটানো]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "ভাঁজ করে গোটানো; পাট ভেঙে ভাঁজ করা।",
+        "examples": [
+          "পাণ্ডি যলা।",
+          "কলাপাভা আর কিরতাপাতা বলি থ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বলান",
+    "transliteration": "bolan",
+    "phonetics": "bɔlan",
+    "etymology": "[< সং √বল + আন কৃদন্ত বিশেষণে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "প্রয়োজনের চেয়ে বেশি; বাড়তি।",
+        "examples": [
+          "পাওনা থাকি দুই কাঠি বলান দিছি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বলু",
+    "transliteration": "bolu",
+    "phonetics": "bɔlu",
+    "etymology": "[< ববাং শব্দ বলু]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কাঠের তৈরি খড়মের কীলক।",
+        "examples": [
+          "নিঃ নাকি ইত বনূ গর্ছ থায না (= ক্যা থা থ রয না)।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বন্",
+    "transliteration": "bon",
+    "phonetics": "bɔn",
+    "etymology": "[< ববাং হশ্ দ্র.]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "আশকারা; প্রভায়।",
+        "examples": [
+          "মানরে বস দিলে একেরে মুড়ো উঠিজাইন। বস দেবা = প্রভায় দেওয়া; বস পাবা = আশকারা পাওয়া।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বস্তুদি",
+    "transliteration": "bostudi",
+    "phonetics": "bɔstudi",
+    "etymology": "[< সং বস্ত্র + ববাং নি তপ্র. ক্ষুদ্রার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গ্রন্থ বা অন্যকিছু বাঁধার লাল রঙের বস্ত্রখণ্ড।",
+        "examples": [
+          "আগেকার দিনে লাল রঙের বস্তু বিশেষত শালুকাপড় দিয়ে ধর্মগ্রন্থাদি বেঁধে রাখা হত।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বসবসা",
+    "transliteration": "bosobosa",
+    "phonetics": "bɔsɔbɔsa",
+    "etymology": "[< ববাং হশহশা দ্র.]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "শিথিল; দৃঢ়বদ্ধ নয় এমন।"
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "২০৪ বাইআচেলা ⇒ বেলাউজইগু তাইর বসবসা অয়।"
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বসলা",
+    "transliteration": "bosola",
+    "phonetics": "bɔsɔla",
+    "etymology": "[< ববাং বস + লা. তপ্র বৈশিষ্ট্যে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "শিথিল; শিথিল স্বভাব যুক্ত।",
+        "examples": [
+          "এক ধরনের লোক আছে যাদের হাত থেকে যখন তখন জিনিসপত্র পড়ে যায়, নিজের জামা কাপড় ঠিকমতো পরতে পারে না, এদেরকে ‘বসলা’ বা শিথিল স্বভাবের লোক বলা হয়। বর্মান bosli [< প্ত. বমনা]"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "‘বসলা’র স্ত্রীবাচক শব্দ।"
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বা",
+    "transliteration": "ba",
+    "phonetics": "ba",
+    "etymology": "[< বাং 'ওয়া' (যাওয়া)]",
+    "senses": [
+      {
+        "raw_text": "[< বাং 'ওয়া' (যাওয়া)] কুপ্র. — একবর্ণে গঠিত ধাতুর সঙ্গে ‘বা’ প্রত্যয়টি যুক্ত করে ক্রিয়াবাচক বিশেষ্য তৈরি করা হয়। → √আ + বা = আবা (=আসা) √খা + বা = খাবা (=খাওয়া) √জা + বা = জাবা (=যাওয়া) √দে + বা = দেবা (=দেওয়া) √পা + বা = পাবা (=পাওয়া) √ল + বা = লবা (=লওয়া)"
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বা",
+    "transliteration": "ba",
+    "phonetics": "ba",
+    "etymology": "[< বাং বাঁশ সংকোচনে < সং বংশ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাঁশ; তুণ জাতীয় বড় ও লম্বা গাছ বিশেষ।",
+        "examples": [
+          "ডলু বা Ī বরুআ বা মুলি বা"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বা",
+    "transliteration": "ba",
+    "phonetics": "ba",
+    "senses": [
+      {
+        "raw_text": "< আঞ্চ. বাং ‘বা’, ‘ব’ সম্বোধনে] অনম্ব — সম্বোধনে ‘গো’। ≫ সম্বোধন উপপদ। বাংলা ‘গো’-এর মতো তবে এটি শুধু পুরুষের বেলায় ব্যবহাত হয়। ⇒ কানো গেশলায় বা?"
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বাই",
+    "transliteration": "bai",
+    "phonetics": "bai",
+    "etymology": "[< মবা. বাসি = টাটকা নয় এমন অস্ত্যব্যঞ্জন লোপে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "টাটকা নয় এমন; বাসি।",
+        "examples": [
+          "বাই ভাত; বাই হাড়ি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বাই",
+    "transliteration": "bai",
+    "phonetics": "bai",
+    "etymology": "[< সং বায়ু (= বায়ুর প্রকোপ)]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বায়ু প্রকোপ জনিত মস্তিষ্কের উত্তেজনা।",
+        "examples": [
+          "বাই উঠিলে তাই পাগলামি করে।"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "জেদ; আকস্মিক ইচ্ছা বা খেয়াল।",
+        "examples": [
+          "উঠলো বাই ঢাকাত জাই।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0259"
+  },
+  {
+    "headword": "বাইআচেশা",
+    "transliteration": "baiachesha",
+    "phonetics": "baiac∫e∫a",
+    "etymology": "[< ববাং ভাওআ (= ভাসা) অল্পপ্রাণিতে ~ চেলা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ছোট মাছ বিশেষ। অতি হালকা আঁশযুক্ত রূপালি ছোট মাছ। নদীতে"
+      }
+    ],
+    "source_page": "IMG_0259"
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "headword": "নিজা",
+    "transliteration": "nija",
+    "phonetics": "niʒa",
+    "etymology": "[< বাং নিজ (= স্বকীয়) + আ তপ্র স্বার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "যাতে অন্যের কোনো অধিকার নেই; নিজম্ব।",
+        "examples": [
+          "নিজা জমিন নাই, বাগি খেত্ করিআ খাই।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিজাৢ",
+    "transliteration": "nijaৢ",
+    "phonetics": "niʒaৢ",
+    "etymology": "[< ববাং ধাতু √নিজ্]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "জল বা তরল পদার্থের ময়লা তলায় জমা হওয়া; তরল পদার্থের ঘন অংশ তলায় জমা হওয়া। f",
+        "examples": [
+          "চুনর পানি নিজিলে খাইস্।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিটকানি",
+    "transliteration": "nitokani",
+    "phonetics": "niṭɔkani",
+    "etymology": "[< ববাং ধাতু √নিট্কা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "দাঁত বের করে হাসা।",
+        "examples": [
+          "'বাংগাল মরলেও তার দাত নিটকানি জায় না।' বরাক প্রবাদ",
+          "কুনতা বুঝে না, খালি নিটকায়। নিঠা"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নডা",
+    "transliteration": "noda",
+    "phonetics": "nɔḍa",
+    "etymology": "[< ববাং উপ্র. নি+বাং ঠান্ডা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ঝামেলা ও দুশ্চিন্তাহীন। বরং অধিকতর বা স্বার্থিক রূপে বসেছে। ‘ঠানডা’ অর্থ ‘শান্ত’ এই অর্থকে ‘নি’ প্রত্যয় যুক্ত হয়ে ব্যাপক করেছে। তুল. কুমারী > আকুমারী।",
+        "examples": [
+          "পুড়ির বিআখান দিআ মুই এলকু নিঠান্ডা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিত্",
+    "transliteration": "nit",
+    "phonetics": "nit",
+    "etymology": "[< সং নিত্য সংকোচনে]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "রোজ; প্রত্যহ।",
+        "examples": [
+          "‘নিত ভিখ্কা তন রখকা।' — বরাকপ্রবাদ"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. বি.",
+        "definition": "কোনো রকমে আহার সংগ্রহ করা।",
+        "examples": [
+          "নিদানোর দিনো খালি নিত ভিখকা তন রখকা।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিতি",
+    "transliteration": "niti",
+    "phonetics": "niti",
+    "etymology": "[< ববাং নিত্+ই তপ্র. স্বার্থে]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "প্রত্যহ; সর্বদা। ‘নিতি নিতি আওরে নিধি <math>\\Rightarrow</math> নিতিনিতি জাও। কাইল জে মরিবায় নিধি এরে নি তুমি চাও।’ — বরাক ছড়া"
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিদয়",
+    "transliteration": "nidojo়",
+    "phonetics": "nidɔʒɔ়",
+    "etymology": "[< সং নির্দয় ব্যঞ্জনধ্বনি লোপে]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "দয়াহীন।",
+        "examples": [
+          "'নিদয় নিঠুর কালা ফিরিআ না আইল রে, সই ...। -বরাক গীত নিমান nidan [< প্রা. নিদ্দ্ন < সং নির্ধন]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "অভাব; ভাতের অভাব।"
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "senses": [
+      {
+        "raw_text": "নয ⇒ ‘নিদান কালো আইলায় বনধু কিতা দি খাবাইমু রে...’। —বরাকগীত ≫ উপ্র. নি (=নাই/অভাব) + ধান’ অল্পপ্রাণিতে ‘নিদান’। শব্দটি এভাবেও সৃষ্টি হতে পারে।"
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিফ",
+    "transliteration": "nif",
+    "phonetics": "nif",
+    "etymology": "[< ইং nib অঘোষীভবনে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কলমের নিব।",
+        "examples": [
+          "ঘাড়াইআ লেখিলে নিফ তুড়িব।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিফুটি",
+    "transliteration": "nifuti",
+    "phonetics": "nifuṭi",
+    "etymology": "[< ববাং উপ্র. নি (নঞর্থক) + ফুটি < ফুটা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "ছিদ্র নেই যাতে; ফুটোহীন।",
+        "examples": [
+          "নিফুটি চাইআ মাটির বাসন লইস।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিভা",
+    "transliteration": "niva",
+    "phonetics": "niva",
+    "etymology": "[< ববাং ধাতু √নিভ্]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "লুকিয়ে পড়া; গা ঢাকা দেওয়া।",
+        "examples": [
+          "চুরর করে করে দউড়াইআ আইআও পাইলাম না কুনবায় জে নিভিল!"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "আত্মগোপন করে থাকা।",
+        "examples": [
+          "পুলিশর ডরে কালাচুর কয় বছর নিভিআ রইসলো।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিমছা",
+    "transliteration": "nimochha",
+    "phonetics": "nimɔc∫ha",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "যে গোপনে খারাপ আচরণ করে।",
+        "examples": [
+          "নিমছায় তলে তলে কততা করে আমরা কুনু টের পাইনি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিমছি",
+    "transliteration": "nimochhi",
+    "phonetics": "nimɔc∫hi",
+    "etymology": "[< ববাং নিমছা + ই লিপ্র স্ত্রীং]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "নিমছার স্ত্রীবাচক শব্দ। দ্র. নিমছা।",
+        "cross_references": [
+          "নিমছা"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিমতির",
+    "transliteration": "nimotir",
+    "phonetics": "nimɔtir",
+    "etymology": "[< ফা. নিম ( = অর্ধেক, কম) + ববাং তির (দ্র.)]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ছোট আড়কাঠ।",
+        "examples": [
+          "নিমতিরর বাওনাজুড়া ছানদি লাও। (দ্র. বাওনা) (দ্র: তির)।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিমরা",
+    "transliteration": "nimora",
+    "phonetics": "nimɔra",
+    "etymology": "[< ফা. উপ. নিম (= ‘অর্ধ’ এখানে ‘কম’) + রা < রাও = কথা]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "যে খুব কম কথা বলে; অল্পভাষী।",
+        "examples": [
+          "'নিমরা মেউকরি হর খাইবার জম।' -বরাকপ্রবাদ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  },
+  {
+    "headword": "নিমা",
+    "transliteration": "nima",
+    "phonetics": "nima",
+    "etymology": "[< ফা. নীম = জামা বিশেষ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গেঞ্জির মতো মার্কিনের জামা বিশেষ।",
+        "examples": [
+          "নিমা দেখতে হাফ পাঞ্জাবির মতো। শ্রমিকরাই বেশি ব্যবহার করত। এখন গরমকালে সকলেই ব্যবহার করে থাকেন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0220"
+  }
+]

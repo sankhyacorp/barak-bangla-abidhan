@@ -1,0 +1,43 @@
+বাক্যতত্ত্ব
+678
+উদ্যম : এক
+এই বাক্য সমীক্ষণে আছে দুটি গঠন— একটি উপরিগঠন [Surface Structure] আর একটি অন্তর্গঠন [Deep
+Structure] । অন্তর্গঠনের সেট্টি উপরি গঠনের বিশেষ নিয়মে (= সূত্র) বাক্যরূপে দেখা দেয়। অন্তর্গঠনে ‘শিশু +
+খেলনা + ভালবাসা ’ বহিগঠিনে ‘শিশু খেলনা ভালবাসে’ আকারে দেখা দেয়।
+এই উৎপাদন ক্রিয়াটিকে চমস্কি একটি যন্ত্রের অনুপর্বিক উৎপাদনের সঙ্গে উপমিত করেছেন — Start And
+Stop শুরু হয়ে তা থামবে একটি নির্দিষ্ট জায়গায়। দৃ.
+<b>S</b>3
+Robin
+Cals
+The
+Red
+Worms
+Long
+<b>S2</b>
+SI
+SI
+<b>S5</b>
+<b>S6</b>
+Sf
+Robins
+<b>S4</b>
+এখানে S1 S2 ইত্যাদি বিভিন্ন State, Sf হল Final State, এই S উৎপাদনকে পুনর্লিখন সূত্রেও [Rewrite Rules]
+প্রকাশ করা হয়।
+একটা ইংরেজি বাক্য নেওয়া যাক:
+The Boy Eats An Apple.
+এটি সূত্রে কীভাবে Derived বা উৎপন্ন হবে তা দেখানো হচ্ছে :
+<math>S = Sentence</math>
+NP = Noun Phrase
+<math>VP = Verb Phrase</math>
+<math>Det = Determinatives</math>
+<math>N = Noun</math>
+<math>V = Verb</math>
+1. <math>S \rightarrow NP + VP</math>
+2. <math>VP \rightarrow V + NP</math>
+3. NP <math>\rightarrow</math> Det + Noun
+4. Det <math>\rightarrow</math> The, An
+5. Noun <math>\rightarrow</math> Boy, Apple
+– চাকী
+6. <math>V \rightarrow Eats</math>"
+and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state 
+বরাক উপত্যকার আঞ্চলিক বাংলা ভাষার অভিধান ও ভাষাতত্ত্ব

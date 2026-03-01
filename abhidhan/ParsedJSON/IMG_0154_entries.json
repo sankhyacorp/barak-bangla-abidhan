@@ -1,0 +1,189 @@
+[
+  {
+    "headword": "ছেনি",
+    "transliteration": "chheni",
+    "phonetics": "c∫heni",
+    "etymology": "[< প্রা. ছেঅনী < সং ছেদনী]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "বাটালির মতো দেখতে পাথর বা লোহা কাটার শক্তিশালী অস্ত্র বিশেষ।",
+        "examples": [
+          "ছেনি না অইলে পাত্থর টুমানি জাইত নায়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0154"
+  },
+  {
+    "headword": "ছেপ",
+    "transliteration": "chhep",
+    "phonetics": "c∫hep",
+    "etymology": "[< সং ক্ষিপ?]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "থুথু; Spittle.",
+        "examples": [
+          "ছাচিত ছেপ ফালাইস না।"
+        ]
+      },
+      {
+        "part_of_speech": "বাগধা. ক্রি.",
+        "definition": "উপর উপর কাজ করা।",
+        "examples": [
+          "দুইদিন গেছে না পাকা ফাটি জার, ঠিকাদারে ছেপ দি লেপ দিছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0154"
+  },
+  {
+    "headword": "ছেপাকুচা",
+    "transliteration": "chhepakucha",
+    "phonetics": "c∫hepakuc∫a",
+    "etymology": "[< ববাং ছেপা (< বাং চাপা) ~ কুচা অনুকারে।]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "দুমড়ে গেছে এমন; চেপ্টা হয়ে গেছে এমন।",
+        "examples": [
+          "পুননা ছেপাকুচা তশলাদি কিতা করতায় ?"
+        ]
+      }
+    ],
+    "source_page": "IMG_0154"
+  },
+  {
+    "headword": "ছেপা",
+    "transliteration": "chhepa",
+    "phonetics": "c∫hepa",
+    "etymology": "[< বাং চাপা = অনুচ্চ]",
+    "senses": [
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "গোলাকার নয় এমন; দুমড়ে গেছে এমন; তীক্ষ্ণ নয় এমন।",
+        "examples": [
+          "ছেপা কইলা। ছেপা নাক।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0154"
+  },
+  {
+    "headword": "ছেবা",
+    "transliteration": "chheba",
+    "phonetics": "c∫heba",
+    "etymology": "[< ববাং ছেআ ব-শ্রুতি]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "ছায়া।",
+        "examples": [
+          "দ্র. ছেআ।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0154"
+  },
+  {
+    "headword": "ছেমটা",
+    "transliteration": "chhemota",
+    "phonetics": "c∫hemɔṭa",
+    "etymology": "[< হি. সমেটনা]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "সযত্নে তুলে রাখা।",
+        "examples": [
+          "পৃথিখান ছেমটিছত নি?"
+        ]
+      }
+    ],
+    "source_page": "IMG_0154"
+  },
+  {
+    "headword": "ছেরা",
+    "transliteration": "chhera",
+    "phonetics": "c∫hera",
+    "etymology": "[< ধ্ব. ছের ছের = নরম পায়খানা হওয়ার আওয়াজা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "নরম পায়খানা; তরল পায়খানা।",
+        "examples": [
+          "ছেরা অইতে অইতে এলকু তাইন পুত্নো।"
+        ]
+      },
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "নরম পায়খানা হওয়া বা করা।",
+        "examples": [
+          "ডেকিএ কয়দিন তনে খালি ছেরের।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0154"
+  },
+  {
+    "headword": "হেং",
+    "transliteration": "heng",
+    "phonetics": "ɦeŋ",
+    "etymology": "[< ধ্বন্যাত্মক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "শরীরের জুলুনি; গা জুলা জুলা অনুভব; জালা।",
+        "examples": [
+          "উমাজ্জা গরমে শরিলো ছেং ছেং করের।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0154"
+  },
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "etymology": "[< সং যম্ভি?]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "জমির পরিমাণ বিশেষ। দ্র. ‘কিআর’ জইর 130ir [< সং জীর্ণ বিপ্রকর্মে]",
+        "examples": [
+          "ইনো এই জইট কম এক পাওআ জমিন।"
+        ],
+        "cross_references": [
+          "কিআর"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "জীর্ণ; ক্ষয়প্রাপ্ত। জইর খাবা কবეir khaba [< ববাং জইর + √খা]",
+        "examples": [
+          "দলান ইখান রইদ-মেঘ খাইআ জইর।"
+        ]
+      },
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "জীর্ণ হওয়া; বুড়িয়ে যাওয়া।",
+        "examples": [
+          "গাছণ্ড জইর খাইলাইছে এরশালে কাটিছি। জকাত 130kat [< আ. যকাত্ = দান]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "দান: সৎকাজে ব্যয়।",
+        "examples": [
+          "‘অকাত আনমান জকাত।’ —বপ্র",
+          "ইসলাম ধর্মের বিধান অনুসারে দানের জন্য রক্ষিত ধন। জকি 130ki [<আঞ্চ. বাং জাকি]"
+        ]
+      },
+      {
+        "part_of_speech": "বি.",
+        "definition": "বৃহদাকার বনজ বৃক্ষ বিশেষ। ছড়িয়ে গাছের উপরিভাগ অনেকটা গোলাকার হয়ে থাকে। বাকল গাঢ় বাদামি রঙের, পাতা যৌগিক। তিনটি বড় আকারের চকচকে পত্রক দিয়ে গঠিত। পত্রকগুলি সৃক্ষাগ্র, পুং ও স্ত্রী পুষ্প আলাদা গাছে জন্মায়। ফুল ছোট, সবুজাভ এবং গোছা বেঁধে থাকে। ফল কালচে নীল রঙের, মাংসল বেরি জাতীয়। প্রতি ফলে কয়েকটি চকচকে বীজ থাকে। — নলিনী মাঘ থেকে চৈত্র মাস অব্দি ফুল ফোটে। এই গাছের বাকল থেকে লাল রং তৈরি হয়। বৈজ্ঞানিক নাম — Bichofia Javanica BL."
+      }
+    ],
+    "source_page": "IMG_0154"
+  }
+]

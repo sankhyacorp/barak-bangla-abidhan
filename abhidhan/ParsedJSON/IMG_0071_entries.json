@@ -1,0 +1,247 @@
+[
+  {
+    "headword": "_continuation",
+    "transliteration": "",
+    "phonetics": "",
+    "etymology": "[< সং উরু (= প্রচণ্ড)? + স্]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "অত্যাচার; যৌনপীড়ন; প্রহার।",
+        "examples": [
+          "বেটায় রুজ রাইত মাল খাইআ তার বউর উপরে উরুস লয়।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উড়",
+    "transliteration": "udo়",
+    "phonetics": "uḍɔ়",
+    "etymology": "[<আঞ্চ. বাং হোড় = পাঁকের কুণ্ড < সং হোড় নিমজ্জনে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কাদা যেখানে হাঁটু অবধি উঠে; পাঁকের কুণ্ড।",
+        "examples": [
+          "ইবায় গাই লইআ জাইও না উড়ো পড়ি গেলে উঠা দায় অইব।"
+        ]
+      },
+      {
+        "part_of_speech": "বিণ.",
+        "definition": "হাঁটু পর্যন্ত ডুবে যায় এমন।",
+        "examples": [
+          "হাড়ার পথো উড় পাক জাইতায় কিলা?"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উড়খা",
+    "transliteration": "udo়kha",
+    "phonetics": "uḍɔ়kha",
+    "etymology": "[<আঞ্চ. বাং হুড়কো < সং হুডুক]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "দরজা বন্ধ করার কাঠের বা লোহার তৈরি আগল।",
+        "examples": [
+          "রাইত বউত অইছে উড়খা লাগা। AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (5) উড়া¸ -uṛa [<উর + আ < প্রা. উঅর < সংউদর] তপ্র.— যুক্তার্থে, ‘ভেতরে আছে’ অর্থে এটি ব্যবহৃত র্য।",
+          "ডিমউড়া আই [=স্ত্রী হাঁস] বালিউড়া উড়ি [=টুকরি] গুউড়া তেনা [=ছেঁড়া কাপড়] বিচিউড়া উরি [=শিম]"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উড়া",
+    "transliteration": "udo়a",
+    "phonetics": "uḍɔ়a",
+    "etymology": "[<ববাং শব্দ √উড়]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "পদদলিত করা।",
+        "examples": [
+          "কাচা রুআ উড়ইন না।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উড়াউড়ি",
+    "transliteration": "udo়audo়i",
+    "phonetics": "uḍɔ়auḍɔ়i",
+    "etymology": "[<ববাং হুড়াহুড়ি স্বরায়নে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "তাড়াহুড়ো; ঠেলাঠেলি।",
+        "examples": [
+          "উড়াউড়ি করি দুগ্গু ভাত খাইআ দউড়াইছি।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উড়ানি",
+    "transliteration": "udo়ani",
+    "phonetics": "uḍɔ়ani",
+    "etymology": "[<বাং √উড়]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রি.",
+        "definition": "রটানো; রটা।",
+        "examples": [
+          "বিআর মাত হি-উ উড়াইছে।",
+          "পিরর আউড়ি দিবার খবর ই বন্ডকো উড়ি গেছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উড়ায় পাড়ায়",
+    "transliteration": "udo়ajo় pado়ajo়",
+    "phonetics": "uḍɔ়aʒɔ় paḍɔ়aʒɔ়",
+    "etymology": "[<ববাং উড়া + পাড়া + এ করণে ]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "পদক্ষেপের দ্বারা; চলাফেরায়; পায়ে পায়ে।",
+        "examples": [
+          "উফউফা মাটি উড়ায় পাড়ায় বয়।",
+          "উড়ায় পাড়ায় ধান গুইন চিত্রি জার।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উড়ি",
+    "transliteration": "udo়i",
+    "phonetics": "uḍɔ়i",
+    "etymology": "[< ববাং টুকরি সংকোচনে]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "টুকরি; গোবর বা মাটি বয়ে নেওয়ার ঝুড়ি।",
+        "examples": [
+          "উড়ি দুগ্গুদি ভার বানাইলাই।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উড়িপড়ি",
+    "transliteration": "udo়ipodo়i",
+    "phonetics": "uḍɔ়ipɔḍɔ়i",
+    "etymology": "[<বাং উড়া + পড়া + ই]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "পড়িমরি করে।",
+        "examples": [
+          "বাফর বেমার হুনিআ তাই উড়িপড়ি আইছে।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উডুক্কল",
+    "transliteration": "udukkol",
+    "phonetics": "uḍukkɔl",
+    "etymology": "[< √ উড়্ (=ওড়া) + সং কল্ (=যন্ত্র)]",
+    "senses": [
+      {
+        "part_of_speech": "ক্রিবিণ.",
+        "definition": "উড়োজাহাজ; বিমান; Aeroplane",
+        "examples": [
+          "উডুক্কল জেতু পইলা হাগো দেখছি হেতু মুই হরু। উ"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "লইন",
+    "transliteration": "loin",
+    "phonetics": "lɔin",
+    "etymology": "[<আঞ্চ. ওলান < বাং পালান < সং পালনা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "গাভীর স্তন।",
+        "examples": [
+          "গাইএ উলইন লামাইছে, পরইবার দিন আইজার।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উলইন চালানি",
+    "transliteration": "uloin chalani",
+    "phonetics": "ulɔin c∫alani",
+    "etymology": "[<ববাং উলইন ~ √ চালা]",
+    "senses": [
+      {
+        "part_of_speech": "সক্রি.",
+        "definition": "গাভিন গাইয়ের স্তন দুধে পুরুষ্ট হয়ে ওঠা।",
+        "examples": [
+          "দ্র. উলইন।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উলকচু",
+    "transliteration": "ulokochu",
+    "phonetics": "ulɔkɔc∫u",
+    "etymology": "[<ববাং উল (√ বাং ওল < সংওল্ল) ~ বাং কচু]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "কন্দযুক্ত কচুবিশেষ; ওলকচু।",
+        "examples": [
+          "বীরুৎ জাতীয় গাছ। গাছের কন্দ ওলকপির মতো। পাতা ও গাছ সবুজ হলেও সাদা সাদা ছোপ থাকে। জঙ্গলের ছায়াযুক্ত স্থানে উলকচু জন্মায়। সবজি হিসেবে ব্যবহৃত হয়। বৈজ্ঞানিক নাম— Amorphophallus Bul-bifer (Roxb) B1"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উলটাপালটা",
+    "transliteration": "ulotapalota",
+    "phonetics": "ulɔṭapalɔṭa",
+    "etymology": "[<বাং উলটাপালটা]",
+    "senses": [
+      {
+        "part_of_speech": "বি.",
+        "definition": "চালের গুঁড়োর তৈরি পাঁপড়ের মতো পাতলা পিঠা বিশেষ।",
+        "examples": [
+          "বরাক উপত্যকার এই পিঠার সঙ্গে দক্ষিণ ভারতের ‘দোসা’ রুটির আশ্চর্য সাদৃশ্য আছে। উলটে পালটে বানানো হয় বলে এই নাম।"
+        ]
+      }
+    ],
+    "source_page": "IMG_0071"
+  },
+  {
+    "headword": "উলপরানি",
+    "transliteration": "uloporani",
+    "phonetics": "ulɔpɔrani",
+    "senses": [
+      {
+        "raw_text": "ɑni [<বাং উন (লকারীভবনে) +"
+      }
+    ],
+    "source_page": "IMG_0071"
+  }
+]

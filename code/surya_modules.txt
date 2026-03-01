@@ -1,0 +1,15 @@
+common
+debug
+detection
+foundation
+input
+layout
+logging.py
+models.py
+ocr_error
+recognition
+scripts
+settings.py
+table_rec
+__init__.py
+__pycache__

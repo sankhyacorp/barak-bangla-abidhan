@@ -1,0 +1,1161 @@
+{
+  "section": "রূপতত্ত্ব — সন্ধি ও সমাস",
+  "section_en": "Morphology — Sandhi & Compound Words",
+  "key": "rupatattwa_sandhi_o_samas",
+  "page_range": "IMG_0430 – IMG_0434",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "সন্ধি",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অব্যবহিত দুটি ধ্বনির মিলনকেই আমরা সন্ধি বলি। আমরা এখানে কেবল বরাক উপত্যকার আঞ্চলিক বাংলায় প্রচলিত সন্ধিগুলির উল্লেখ করব।",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "১. স্বর্ধ্বনির পর ‘ওআ’ থাকলে ‘ওআ’ স্থানে ‘বা’ হয়।",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "পা + ওআ = পাবা লা + ওআ = লাবা",
+        "আ + ওআ = আবা",
+        "<math>\\Rightarrow</math>",
+        "বা + ওআ = বাবা",
+        "খা + ওখা = খাবা",
+        "ল + ওআ = লবা",
+        "জা + ওআ = জাবা"
+      ],
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "২. স্বর + ব্যঞ্জন > সম্প্রকর্ষ।",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "বেশি + কম = বেশকম",
+        "<math>\\Rightarrow</math>",
+        "শুনা + মামা = শুনাম্মা",
+        "হরু + কাকা = হরুক্কা"
+      ],
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "৩. আই পরে থাকলে ক্, খ্, গ্, ঘ্ বা অন্য ব্যঞ্জনধ্বনি দ্বিত্ব হয়",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ফুক্ + আ = ফুক্কা",
+        "<math>\\Rightarrow</math>",
+        "মুখ্ + আইআ = মুখ্খাইআ",
+        "বিলাত্ + ই = বিলাত্তি"
+      ],
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "৪. ং পর স্বরধ্বনি থাকলে মাঝখানে ‘গ’ এর আগম হয় এবং স্বরধ্বনিটি ‘গ’ এর সঙ্গে যুক্ত হয়।",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ঝেং + উআ = ঝেংগুআ",
+        "<math>\\Rightarrow</math>",
+        "ক্রঃ + যা = ক্রঃশা",
+        "হাং + আ = হাংগা",
+        "শিং <math>+</math> ই <math>=</math> শিংগি",
+        "ক্রিক্টর + র = ক্রিক্টরিংগ",
+        "পটাং + ই = পটাংগি",
+        "হুং + আ = হুংগা"
+      ],
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "৫. শ, স পরে থাকলে চ বর্গ বা ত, থ স্থানে ‘শ’ হয়।",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "পাচ + সের = পাশসের",
+        "<math>\\Rightarrow</math>",
+        "সাত্ + শো = সাশশো",
+        "বং + সর = বশসর্"
+      ],
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "৬. শ, স পরে থাকলে ট বর্গ বা ত বর্গ স্থানে ‘শ’ হয়।",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "পাঠ + শালা = পাশ্শালা",
+        "<math>\\Rightarrow</math>",
+        "কাঠ + শলা = কাশ্শলা",
+        "আট + শট্ঠি = আশ্শটঠি"
+      ],
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "৭. ন বা ল পরে থাকলে র, ড় স্থানে ন বা ল হয়।",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "কর্ + লামা = কল্লামা",
+        "<math>\\Rightarrow</math>",
+        "অতার্ + লাগি = অতাল্লাগি",
+        "ধর + নি = ধন্নি"
+      ],
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "৮. পরে অঘোষধ্বনি থাকলে ব্যঞ্জনধ্বনিটি স্বরশূন্য অঘোষ হয়।",
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "রাণ্ + করা = রাক্করা",
+        "<math>\\Rightarrow</math>"
+      ],
+      "source_page": 430,
+      "source_image": "IMG_0430.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "আগ্ + চুরা = আক্চুরা",
+        "আগ্ + চালা = আক্চালা"
+      ],
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "৯. পরে ঘোষধ্বনি থাকলে অঘোষধ্বনিটি ঘোষ হয়।",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "আট্ + বাজার = আডবাজার",
+        "<math>\\Rightarrow</math>",
+        "আত্ + দেখা = আদ্দেখা",
+        "বাট + বরাত = বাড়বরাত"
+      ],
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "১০. ঘোষধ্বনি পরে থাকলে ন স্থানে ম হয়।",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "কূন + ঵ালা = কূম঵ালা",
+        "<math>\\Rightarrow</math>"
+      ],
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "numbered",
+      "text": "১১. ব্যঞ্জনধ্বনি পরে থাকলে ন্দ/ন্দ্ এর দ লোপ পায়।",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "চান্দ্ + সদাগর = চানসদাগর",
+        "<math>\\Rightarrow</math>",
+        "বান্দ্ + দেবা = বানদেবা",
+        "পামান্ষ্ + ঵িষ্ = পামান঵িষ্"
+      ],
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাস",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমাসের সবচেয়ে সুন্দর সংজ্ঞা দিয়েছেন অশোক মুখোপাধ্যায়— “একাধিক শব্দ একসঙ্গে যুক্ত হয়ে একটি বড় শব্দ তৈরির বিষয়টির নাম সমাস।\"",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক উপত্যকার আঞ্চলিক বাংলায় সমাস প্রকরণে দুটি ব্যাপারে বিশিষ্টতা রয়েছে। তা হল উপসর্গীয় ও বাক্যাংশ সমাস নিতিনিতি বাড়ছে। আদর্শ বাংলায় প্রচলিত প্রায় সবকটি শ্রেণীর দৃষ্টান্ত এখানে মেলে।",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "শ্রেণী— সংযোগমূলক",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ক) দ্বন্দ্ব",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বর্ণনামূলক",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(খ) বহুব্রীহি",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ব্যাখ্যামূলক",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(গ) তৎপুরুষ",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঘ) কর্মধারয়",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ঙ) দিগু",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(চ) উপসর্গীয়",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সংগঠনমূলক",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "(ছ) বাক্যাংশ",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "<b>দ্বন্দ্ব সমাস</b>— এই সমাসে সমস্যমান পদগুলির প্রতিটির অর্থ সমান ভাবেই প্রাধান্য পায়। বরাক উপত্যকার বাংলায়"
+      ],
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দুটি শব্দের দ্বন্দ্বই বেশ। দৃ.",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিশেষ্য + বিশেষ্য ⇒",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আমকাঠাল",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মাবাফ",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রউবাউ",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রাইতদিন",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুজাপরব",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মাতকথা",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পুআপুড়ি",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মদগাইনজা",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রইদবান",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "঵িশেষণ + ঵িশেষণ ⇒",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নুন্টামিট্ঠা",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ধলাকালা",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়াবিশেষ্য ⇒",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "জাবাআবা",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "হাজাপাড়া",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "লআথআ",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মান্জাঘশা",
+      "source_page": 431,
+      "source_image": "IMG_0431.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "সমার্থকশব্দ ⇒",
+          "আরিপরি"
+        ],
+        [
+          "থেকাদুমা",
+          "আখাফেন্দা"
+        ],
+        [
+          "তরতাজা",
+          "পানিকান্জি"
+        ],
+        [
+          "হিদলহুকইন",
+          "বিপরীতার্থক শব্দ ⇒"
+        ],
+        [
+          "বেটাবেটি",
+          "আপনপর"
+        ],
+        [
+          "পুবপছিম",
+          "অবায়হবায়"
+        ],
+        [
+          "সর্বনামীয় দ্বন্দ্ব আদর্শ বাংলার মতনই।",
+          ""
+        ]
+      ],
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বহুব্রীহি— এতে সমস্যমান শব্দগুলির কোনোটির অর্থই প্রধান নয়, এদের মিলিত অর্থ অন্য কিছুকে বোঝায়।",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খুচিধরা",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ব্যধিকরণ—",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গরবাওআনি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বারবাওআনি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সমানাধিকরণ—",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উলপরানি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খরানিপুক",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গতাগতি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ব্যতিহার---",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উগাউগি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আতাআতি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দশআতি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উফরিখাউরি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মধ্যপদলোপী—",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "থুতামুখি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "চুরবাত্তি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পেটকুআ",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গলাবের",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দশবছরি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তিনপাইয়া",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সংখ্যাবাচক-",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "দুঅশ্লা",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নিফুটি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নএওর্থক—",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তৎপুরুষ— ‘‘এই সমাসে উত্তরপদের অর্থই প্রধান হয় এবং পূর্বপদের সঙ্গে তার কারক সম্পর্ক থাকে।’’ —অশোক মুখোপাধ্যায়। বরাক উপত্যকায় এই সমাসটি সংখ্যায় ও বৈচিত্র্যে অন্যান্য বাংলা আঞ্চলিক ভাষা থেকে কম নয়।",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কর্মতৎপুরুষ—",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মাছমারা",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "খলইধরা",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ভাতেমারা",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "করণতৎপুরুষ---",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মাড়েভার",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "শণিবারি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অধিকরণ তৎপুরুষ—",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গাছপাকনা",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রগছটা",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ঢেকিআল",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সম্বন্ধ তৎপুরুষ—",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাজারবাও",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বনরউ",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "চুবাকাঠি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নিমিত্ত তৎপুরুষ—",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পেরকুটি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পানিতুড়ি",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উপপদ তৎপুরুষ সমাস— ‘যখন বিশেষ্য পদের সঙ্গে কৃদন্ত পদের সমাস হয়, তখন তাকে উপপদ তৎপুরুষ বলে।’",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "—শ্রুতিনাথ চক্রবর্তী।",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক বাংলার দৃষ্টাম্ভ",
+      "source_page": 432,
+      "source_image": "IMG_0432.jpg"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "= কয়জন",
+          "কয়"
+        ],
+        [
+          "যে",
+          "জন"
+        ],
+        [
+          "= সয়জন",
+          "সয়"
+        ],
+        [
+          "যে",
+          "জন"
+        ],
+        [
+          "['কয়জন বড় নায় সয়জন বড়।' —বপ্র.]",
+          ""
+        ]
+      ],
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "কর্মধারয়— ‘‘এই শ্রেণীর সমাসে, প্রথম পদটি দ্বিতীয়টির বিশেষণরূপে অবস্থান করে এবং দ্বিতীয় পদের অর্থই বলবৎ থাকে।’’—ভাপ্র. সুনীতি.",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উদ্লাপুতা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সাধারণ কর্মধারয়—",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "গুড়াভাজা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বুদহিয়াল",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তেড়ামাত",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ছিকডাল",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "টানপাড়া",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উপমান কর্মধারয়—",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ইচারাংগা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পাটিবলা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উপমিত কর্মধারয়—",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মানুবান্দর",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "চান্দমুখ",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "রূপক কর্মধারায়—",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নলবাড়ি",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "মধ্যপদলোপী কর্মধারয়— ু ডাকবরি",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ছাগলবাশি",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিরইনপিঠা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ডুববেত",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নলতল",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিশেষ্যবিশেষক কর্মধারয়— পাত্তাফুল [পাত্তাই যার ফুল] দ্বিগু— এই সমাসে প্রথম পদটি সংখ্যাবাচক উত্তরপদটি নাম এবং সমস্ত পদটি সমষ্টিবোধক।",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "তিমুখি",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বারোমুনি",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পাচপিরি",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "উপসর্গীয় সমাস— উপসর্গ ও বিশেষ্য মিলে এই সমাস নির্মিত হয়।",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নিনাইয়া",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেখাইচ্লত্",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নাঝারা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নিকামলা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেখলে",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নাবাছা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিজালা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেগরত",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আনমান",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "আনমিলা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিমনা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেফানা",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাক্যাংশ সমাস— বিভিন্ন প্রকার দুইএর বেশি পদ মিলে এক প্রকার কৃত্রিম সমাস নির্মিত হয়, এগুলিকে বাক্যাংশ সমাস বলে। একে সংগঠনমূলক বা Formative Compounds নাম দিয়ে শ্রেণীবদ্ধ করলাম। এই সমাসের পদ সংগঠনে বাক্যনির্মাণ শৈলীর ‘সাহায্য নেওয়া হয়, তাই এই শ্রেণী-নাম।",
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "sub_examples",
+      "items": [
+        "অ. বড় বাড়ির কামো <b>তুমার আমার জাওআ</b> আইত নায়।",
+        "আ. না পড়িলে তুইন <b>আলচরা জালবারা জামাই</b> পাইবে।",
+        "ই. <b>জেলামন অলা কাম করডা মানু</b> আমার লাগতো নায়।",
+        "ঈ. <b>অবায় আয় হবায় জা আছনি পাছনি হুনা</b> ছাড়া তাইর আন কাম নাই।",
+        "উ. বের ভাংগা উরিলায় পাবা ঘরো আর কদিন রইমু।"
+      ],
+      "source_page": 433,
+      "source_image": "IMG_0433.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "পদ",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বরাক উপত্যকার আঞ্চলিক বাংলা ভাষার পদ বিচারে সংস্কৃত বা ইংরেজির নির্বিচার অনুসরণ বর্জন করেছি।",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বাংলাভাষার প্রচলিত পদবিভাগ রীতিকেও অপরিবর্তিত রূপে গ্রহণ করিনি। বিজ্ঞানসম্মত বিচারে এবং বিষয়কে সুপরিস্ফুট করে তুলতে উপভাষাটির নিজস্ব শৈলী ও কর্ম প্রক্রিয়ার ওপর মনোনিবেশকে প্রাধান্য দিয়েছি। তদনুসারে বরাক বাংলার পদসমূহকে সাতটি শ্রেণীতে ভাগ করেছি। যথা ⇒ বিশেষ্য",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বিশেষণ",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সর্বনাম",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ক্রিয়াপদ",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অনুসর্গ",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সংযোজক",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "অনম্বয়ী",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "এখানে বিশেষ্য, বিশেষণ, সর্বনাম ও ক্রিয়া উপযোগিতা বিচারে বাংলার মতো একই থাকল। কেবল অব্যয়কে ভেঙে অনুসর্গ, সংযোজক ও অনম্বয়ী করেছি। কারণ দেখাবার জন্য ভাষাচিন্তক পবিত্র সরকারের উক্তিটি উদ্ধৃত 🛾 করছি— ‘‘তার বড় কারণ ‘অব্যয়’ সংস্কৃতে যে কারণে হয় বাংলায় ঠিক সেই কারণগুলি নেই; আর অব্যয় নামের আড়ালে বাংলার অনেক শ্রেণীর শব্দ, যাদের কাজকর্মে কিছুই মিল নেই— সব এক ঝুড়িতে রাখা হয়েছে।” বাংলাভাষার অন্যতম প্রধান উপভাষা বরাক বাংলাতেও এ-সকল লক্ষণ সুলভ হওয়ার জন্য অব্যয়কে মুক্ত করে নতুন শ্রেণী বিভাগ করা হল পদগুলির কর্ম ও আচরণ অনুসারে।",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘অব্যয়’ এর বাকি পদসমূহ অর্থাৎ ক্রিয়া বিশেষণ, বিশেষণের বিশেষণ, ও ধ্বন্যাত্মক শব্দগুলিকে ‘বিশেষণ’ এ অন্তর্ভুক্ত করেছি।",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ধ্বন্যাত্মক শব্দসমূহকে বিশেষণ পদের অন্তর্ভুক্ত করার কারণ ব্যাখ্যা :",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "সুনীতিকুমার চট্টোপাধ্যায় প্রদত্ত বিশেষণের সংজ্ঞা হল— “যে পদ দ্বারা কোনও বিশেষ্য বা অন্যপদের বিশেষ গুণ, ধর্ম, অবস্থা বা সংখ্যা প্রকাশ করা হয়, তাহাকে বিশেষণ পদ বলে।\"— ভাপ্র।",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ব্যাকরণ অভিধানে তাই-ই স্বীকার করেছেন অশোক মুখোপাধ্যায়— ‘‘বাক্যস্থিত কোনো পদের গুণ পরিমাণ অবস্থা সংখ্যা ধর্ম ইত্যাদি বোঝানোর জন্য যে পদ ব্যবহৃত হয়, তাকে বলা হয় বিশেষণ।” অতএব, সিদ্ধান্ত নিতে পারি: যে পদ অন্যপদকে বিশেষিত করবে তাই-ই বিশেষণ। এখন ধ্বন্যাত্মক শব্দের কাজ ও আচরণ বিশ্লেষণ করলে দেখতে পাব এগুলি প্রায়ই বিশেষণ। যেমন ⇒ ছল ছল চোখ, ঝাঁ ঝাঁ রোদ, বাপ্বাপ্ চিৎকার, ঝম ঝম বৃষ্টি, ধুম ধুম কিল, বন্ বন বাতাস এখানে ছল্ ছল্, ঝাঁ ঝাঁ, বাপ্ বাপ্, ঝন্ঝন্, ধুম্ ধুম্, বন্বন্ প্রভৃতি ধ্বন্যাত্মক শব্দগুলি কি যথাক্রমে চোখ, রোদ, চিৎকার, বৃষ্টি, কিল,",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "বাতাস প্রভৃতি পদকে বিশেষিত করছে না? বলব, করছে; সাধারণ ‘বেকা লাঠি’ (=বাঁকা লাঠি)-র ‘বেকা’ থেকে"
+      ],
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "বেশি মূর্ত হয়ে উঠেছে উল্লিখিত ধ্বন্যাত্মক শব্দগুলি। বিশেষণরূপে অর্থাৎ সুস্পষ্ট করে বিশেষিত করছে নামপদগুলিকে। এমন কি পদের পরে বসেও ধ্বন্যাত্মক শব্দ পূর্বপদের বিশেষ গুণ, অবস্থা ইত্যাদি প্রকাশ করতে",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "পারে। যেমন ⇒ জল থৈ থৈ, জামাগুলি ধব্ধব্, সারাপথ পচ্পচ্ ইত্যাদি।"
+      ],
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ফ্যাক্ করে [~হেসে ওঠে]; বোঁ করে [~উড়ে গেল] —ইত্যাদি-রকম বাক্যে ধ্বন্যাত্মক শব্দের উত্তর অসমাপিকা ক্রিয়া জুড়ে দিয়ে ক্রিয়াবিশেষণ নির্মাণ করা হয়। এগুলিও বিশেষণ কারণ ক্রিয়াপদকে বিশেষিত করছে। এরূপ",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "example_group",
+      "items": [
+        "ব্যবহারের আরম্ভ বঙ্কিমের যুগ থেকেই। যেমন ⇒ ‘মিটমিট করিয়া ক্ষুদ্র আলো জ্বালিতেছে।’ —(‘বিড়াল’ —বঙ্কিম"
+      ],
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "চন্দ্র চট্টোপাধ্যায়)।",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "ধ্বন্যাত্মক শব্দ যে মূলত বিশেষণ তা রবীন্দ্রনাথের ব্যাখ্যা দিয়েই প্রমাণ করছি:",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘‘বাংলা ভাষায় বর্ণনাসূচক বিশেষ একশ্রেণী শব্দবিশেষণ ও ক্রিয়াবিশেষণরূপে বহুল পরিমাণে ব্যবহাত হইয়া থাকে, তাহারা অভিধানের মধ্যে স্থান পায় নাই। অথচ যে সকল শব্দ ভাষা হইতে বাদ দিলে বঙ্গ ভাষার বর্ণনাশক্তি ‘ধ্বন্যাত্মক শব্দ’— বাংলা শব্দতত্ত্ব",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "নিতান্তই পঙ্গু হইয়া পড়ে।”",
+      "source_page": 434,
+      "source_image": "IMG_0434.jpg"
+    }
+  ]
+}
